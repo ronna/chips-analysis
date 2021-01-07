@@ -1,0 +1,1652 @@
+ID,Date,University Affiliate,Training Level,Partner or Clinical Site,Health Profession Category,Gender,Country,"pre-test, module 1, Multiple choice question #1 response","pre-test, module 1, Multiple choice question #2 response","pre-test, module 1, Multiple choice question #3 response","pre-test, module 1, Multiple choice question #4 response","pre-test, module 1, Multiple choice question #1 score","pre-test, module 1, Multiple choice question #3 score","pre-test, module 1, Multiple choice question #2 score","pre-test, module 1, Multiple choice question #4 score","pre-test, module 1, Multiple choice question #total score","pre-test, module 1, Likert question #1 ","pre-test, module 1, Likert question #2 ","pre-test, module 1, Likert question #3 ","pre-test, module 1, Likert question #4 ","pre-test, module 1, Likert question #5 ","pre-test, module 1, Likert question #6 ","pre-test, module 1, Likert question #7 ","pre-test, module 3, Multiple choice question #1 response","pre-test, module 3, Multiple choice question #2 response","pre-test, module 3, Multiple choice question #3 response","pre-test, module 3, Multiple choice question #4.1 response","pre-test, module 3, Multiple choice question #4.2 response","pre-test, module 3, Multiple choice question #4.3 response","pre-test, module 3, Multiple choice question #4.4 response","pre-test, module 3, Multiple choice question #5 response","pre-test, module 3, Multiple choice question #1 score","pre-test, module 3, Multiple choice question #2 score","pre-test, module 3, Multiple choice question #3 score","pre-test, module 3, Multiple choice question #4.1 score","pre-test, module 3, Multiple choice question #4.2 score","pre-test, module 3, Multiple choice question #4.3 score","pre-test, module 3, Multiple choice question #4.4 score","pre-test, module 3, Multiple choice question #5 score","pre-test, module 3, Multiple choice question #total score","pre-test, module 3, Likert question #1 ","pre-test, module 3, Likert question #2 ","pre-test, module 3, Likert question #3 ","pre-test, module 3, Likert question #4 ","pre-test, module 3, Likert question #5 ","pre-test, module 4, Multiple choice question #1 response","pre-test, module 4, Multiple choice question #2 response","pre-test, module 4, Multiple choice question #3 response","pre-test, module 4, Multiple choice question #4 response","pre-test, module 4, Multiple choice question #1 score","pre-test, module 4, Multiple choice question #2 score","pre-test, module 4, Multiple choice question #3 score","pre-test, module 4, Multiple choice question #4 score","pre-test, module 4, Multiple choice question #total score","pre-test, module 4, Likert question #1 ","pre-test, module 4, Likert question #2 ","pre-test, module 4, Likert question #3 ","pre-test, module 4, Likert question #4 ","pre-test, module 4, Likert question #5 ","pre-test, module 4, Likert question #6 ","pre-test, module 17, Multiple choice question #1 response","pre-test, module 17, Multiple choice question #2 response","pre-test, module 17, Multiple choice question #3 response","pre-test, module 17, Multiple choice question #4 response","pre-test, module 17, Multiple choice question #1 score","pre-test, module 17, Multiple choice question #2 score","pre-test, module 17, Multiple choice question #3 score","pre-test, module 17, Multiple choice question #4 score","pre-test, module 17, Multiple choice question #total score","pre-test, module 17, Likert question #2 ","pre-test, module 17, Likert question #3 ","pre-test, module 17, Likert question #4 ","pre-test, module 17, Likert question #5 ",end of pre-test,"post-test, module 1, Multiple choice question #1 response","post-test, module 1, Multiple choice question #2 response","post-test, module 1, Multiple choice question #3 response","post-test, module 1, Multiple choice question #4 response","post-test, module 1, Multiple choice question #1 score","post-test, module 1, Multiple choice question #3 score","post-test, module 1, Multiple choice question #2 score","post-test, module 1, Multiple choice question #4 score","post-test, module 1, Multiple choice question #total score","post-test, module 1, Likert question #1 ","post-test, module 1, Likert question #2 ","post-test, module 1, Likert question #3 ","post-test, module 1, Likert question #4 ","post-test, module 1, Likert question #5 ","post-test, module 1, Likert question #6 ","post-test, module 1, Likert question #7 ","post-test, module 1, Learner evaluation of facilitator question #1 ","post-test, module 1, Learner evaluation of facilitator question #2 ","post-test, module 1, Learner evaluation of facilitator question #3 ","post-test, module 1, Learner evaluation of facilitator question #4 ","post-test, module 1, Learner evaluation of facilitator question #5 ","post-test, module 1, Learner evaluation of module question #1 ","post-test, module 1, Learner evaluation of module question #2 ","post-test, module 1, Learner evaluation of module question #3 ","post-test, module 1, Learner evaluation of module question #4 ","post-test, module 1, Learner evaluation of module question #5 ","post-test, module 3, Multiple choice question #1 response","post-test, module 3, Multiple choice question #2 response","post-test, module 3, Multiple choice question #3 response","post-test, module 3, Multiple choice question #4.1 response","post-test, module 3, Multiple choice question #4.2 response","post-test, module 3, Multiple choice question #4.3 response","post-test, module 3, Multiple choice question #4.4 response","post-test, module 3, Multiple choice question #5 response","post-test, module 3, Multiple choice question #1 score","post-test, module 3, Multiple choice question #2 score","post-test, module 3, Multiple choice question #3 score","post-test, module 3, Multiple choice question #4.1 score","post-test, module 3, Multiple choice question #4.2 score","post-test, module 3, Multiple choice question #4.3 score","post-test, module 3, Multiple choice question #4.4 score","post-test, module 3, Multiple choice question #5 score","post-test, module 3, Multiple choice question #total score","post-test, module 3, Likert question #1 ","post-test, module 3, Likert question #2 ","post-test, module 3, Likert question #3 ","post-test, module 3, Likert question #4 ","post-test, module 3, Likert question #5 ","post-test, module 3, Learner evaluation of facilitator question #1 ","post-test, module 3, Learner evaluation of facilitator question #2 ","post-test, module 3, Learner evaluation of facilitator question #3 ","post-test, module 3, Learner evaluation of facilitator question #4 ","post-test, module 3, Learner evaluation of facilitator question #5 ","post-test, module 3, Learner evaluation of module question #1 ","post-test, module 3, Learner evaluation of module question #2 ","post-test, module 3, Learner evaluation of module question #3 ","post-test, module 3, Learner evaluation of module question #4 ","post-test, module 3, Learner evaluation of module question #5 ","post-test, module 4, Multiple choice question #1 response","post-test, module 4, Multiple choice question #2 response","post-test, module 4, Multiple choice question #3 response","post-test, module 4, Multiple choice question #4 response","post-test, module 4, Multiple choice question #1 score","post-test, module 4, Multiple choice question #2 score","post-test, module 4, Multiple choice question #3 score","post-test, module 4, Multiple choice question #4 score","post-test, module 4, Multiple choice question #total score","post-test, module 4, Likert question #1 ","post-test, module 4, Likert question #2 ","post-test, module 4, Likert question #3 ","post-test, module 4, Likert question #4 ","post-test, module 4, Likert question #5 ","post-test, module 4, Likert question #6 ","post-test, module 4, Learner evaluation of facilitator question #1 ","post-test, module 4, Learner evaluation of facilitator question #2 ","post-test, module 4, Learner evaluation of facilitator question #3 ","post-test, module 4, Learner evaluation of facilitator question #4 ","post-test, module 4, Learner evaluation of facilitator question #5 ","post-test, module 4, Learner evaluation of module question #1 ","post-test, module 4, Learner evaluation of module question #2 ","post-test, module 4, Learner evaluation of module question #3 ","post-test, module 4, Learner evaluation of module question #4 ","post-test, module 4, Learner evaluation of module question #5 ","post-test, module 17, Multiple choice question #1 response","post-test, module 17, Multiple choice question #2 response","post-test, module 17, Multiple choice question #3 response","post-test, module 17, Multiple choice question #4 response","post-test, module 17, Multiple choice question #1 score","post-test, module 17, Multiple choice question #2 score","post-test, module 17, Multiple choice question #3 score","post-test, module 17, Multiple choice question #4 score","post-test, module 17, Multiple choice question #total score","post-test, module 17, Likert question #2 ","post-test, module 17, Likert question #3 ","post-test, module 17, Likert question #4 ","post-test, module 17, Likert question #5 ","post-test, module 17, Learner evaluation of facilitator question #1 ","post-test, module 17, Learner evaluation of facilitator question #2 ","post-test, module 17, Learner evaluation of facilitator question #3 ","post-test, module 17, Learner evaluation of facilitator question #4 ","post-test, module 17, Learner evaluation of facilitator question #5 ","post-test, module 17, Learner evaluation of module question #1 ","post-test, module 17, Learner evaluation of module question #2 ","post-test, module 17, Learner evaluation of module question #3 ","post-test, module 17, Learner evaluation of module question #4 ","post-test, module 17, Learner evaluation of module question #5 ","post-test, all modules, reflection question #1 ","post-test, all modules, reflection question #2 ","post-test, all modules, reflection question #3 ",end of post-test
+id,form_date,facility,training_level,clinical_site,profession_category,gender,country,m1_1_1,m1_1_2,m1_1_3,m1_1_4,m1_1_1_score,m1_1_3_score,m1_1_2_score,m1_1_4_score,m1_total_score,m1_2_1,m1_2_2,m1_2_3,m1_2_4,m1_2_5,m1_2_6,m1_2_7,m3_1_1,m3_1_2,m3_1_3,m3_1_4_1,m3_1_4_2,m3_1_4_3,m3_1_4_4,m3_1_5,m3_1_1_score,m3_1_2_score,m3_1_3_score,m3_1_4_1_score,m3_1_4_2_score,m3_1_4_3_score,m3_1_4_4_score,m3_1_5_score,m3_total_score,m3_2_1,m3_2_2,m3_2_3,m3_2_4,m3_2_5,m4_1_1,m4_1_2,m4_1_3,m4_1_4,m4_1_1_score,m4_1_2_score,m4_1_3_score,m4_1_4_score,m4_total_score,m4_2_1,m4_2_2,m4_2_3,m4_2_4,m4_2_5,m4_2_6,m17_1_1,m17_1_2,m17_1_3,m17_1_4,m17_1_1_score,m17_1_2_score,m17_1_3_score,m17_1_4_score,m17_total__score,m17_2_2,m17_2_3,m17_2_4,m17_2_5,completed_pre,Pm1_1_1,Pm1_1_2,Pm1_1_3,Pm1_1_4,Pm1_1_1_score,Pm1_1_3_score,Pm1_1_2_score,Pm1_1_4_score,Pm1_total_score,Pm1_2_1,Pm1_2_2,Pm1_2_3,Pm1_2_4,Pm1_2_5,Pm1_2_6,Pm1_2_7,Pm1_3_1,Pm1_3_2,Pm1_3_3,Pm1_3_4,Pm1_3_5,Pm1_4_1,Pm1_4_2,Pm1_4_3,Pm1_4_4,Pm1_4_5,Pm3_1_1,Pm3_1_2,Pm3_1_3,Pm3_1_4_1,Pm3_1_4_2,Pm3_1_4_3,Pm3_1_4_4,Pm3_1_5,Pm3_1_1_score,Pm3_1_2_score,Pm3_1_3_score,Pm3_1_4_1_score,Pm3_1_4_2_score,Pm3_1_4_3_score,Pm3_1_4_4_score,Pm3_1_5_score,Pm3_total_score,Pm3_2_1,Pm3_2_2,Pm3_2_3,Pm3_2_4,Pm3_2_5,Pm3_3_1,Pm3_3_2,Pm3_3_3,Pm3_3_4,Pm3_3_5,Pm3_4_1,Pm3_4_2,Pm3_4_3,Pm3_4_4,Pm3_4_5,Pm4_1_1,Pm4_1_2,Pm4_1_3,Pm4_1_4,Pm4_1_1_score,Pm4_1_2_score,Pm4_1_3_score,Pm4_1_4_score,Pm4_total_score,Pm4_2_1,Pm4_2_2,Pm4_2_3,Pm4_2_4,Pm4_2_5,Pm4_2_6,Pm4_3_1,Pm4_3_2,Pm4_3_3,Pm4_3_4,Pm4_3_5,Pm4_4_1,Pm4_4_2,Pm4_4_3,Pm4_4_4,Pm4_4_5,Pm17_1_1,Pm17_1_2,Pm17_1_3,Pm17_1_4,Pm17_1_1_score,Pm17_1_2_score,Pm17_1_3_score,Pm17_1_4_score,Pm17_total__score,Pm17_2_2,Pm17_2_3,Pm17_2_4,Pm17_2_5,Pm17_3_1,Pm17_3_2,Pm17_3_3,Pm17_3_4,Pm17_3_5,Pm17_4_1,Pm17_4_2,Pm17_4_3,Pm17_4_4,Pm17_4_5,FINAL_REFLECTIONS_REFLECTION_1,FINAL_REFLECTIONS_REFLECTION_2,FINAL_REFLECTIONS_REFLECTION_3,completed_post
+2055,01Oct19:18:07:27,"University
+of
+Zimbabwe","Post-graduate
+new provider
+(within 12 months
+of graduation)",UNKNOWN,Medical,Female,Zimbabwe,a,a,c,b,1,1,1,0,75,3,3,3,3,3,3,.,b,b,b,3,3,3,3,b,0,0,0,1,0,0,0,0,12.5,4,4,4,4,.,b,b,a,b,1,1,0,0,50,4,4,3,3,3,.,c,b,a,c,0,0,0,1,25,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1810,09Nov19:13:52:47,"University
+of
+Zimbabwe","Post-graduate
+(beyond 12
+months of
+graduation)",UNKNOWN,Pharmacy,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,4,3,4,3,.,c,d,d,3,1,4,2,c,1,1,1,1,1,1,1,0,87.5,4,4,3,4,.,b,b,d,b,1,1,1,0,75,4,4,4,4,4,.,d,a,a,c,0,0,0,1,25,2,2,4,3,1,a,a,c,c,1,1,1,1,100,3,4,4,3,4,4,.,4,4,1,1,No,5,5,5,5,,c,d,d,3,1,4,2,c,1,1,1,1,1,1,1,0,87.5,4,4,4,4,.,4,4,1,1,No,5,5,5,5,,b,b,d,d,1,1,1,1,100,4,4,4,4,4,.,4,4,1,1,No,5,5,5,5,,b,c,a,c,1,1,0,1,75,3,3,4,4,4,4,1,1,No,5,5,5,5,,"I am now more confident to engage other healthcare
+professionals such as laboratory scientists with
+relevant questions now that I am more conversant
+with their role as well as tests relevant for managing
+HIV infected patients.","We have started using process mapping to review
+processes with poor benchmark data","It will greatly improve it. I am now more confident of
+a wider range of HIV  management topics",1
+520,20Nov19:15:34:02,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,2,3,3,3,3,c,b,a,2,2,4,2,a,1,0,0,0,0,0.25,0.25,1,50,2,2,3,3,3,b,b,d,d,1,1,1,1,100,3,3,3,3,3,3,c,d,a,c,0,0,0,1,25,2,2,3,3,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,4,3,4,5,1,1,no,5,4,4,4,no,c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,3,4,4,3,3,4,5,1,1,"The Facilitator was very Knowledgeable and as
+going relevant practical examples",5,5,4,4,no,b,b,d,d,1,1,1,1,100,4,4,4,4,3,3,4,5,1,1,no,5,5,5,4,no,b,c,a,c,1,1,0,1,75,4,3,4,3,4,5,1,1,no,5,5,4,4,no,"Communicate with my workmates and educate them
+on importance of collaborative health care.",Educate other staff members,"Increased my understanding of HIV hence better
+care should be provided to patiens.",1
+669,21Nov19:08:42:58,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,a,c,c,0,1,1,1,75,2,3,3,3,3,3,5,c,d,e,1,4,3,2,d,1,1,0,0,0,0,0.25,0,45,2,3,2,3,5,b,b,d,b,1,1,1,0,75,5,2,2,3,5,5,a,a,a,c,0,0,0,1,25,1,1,1,2,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,3,4,5,1,1,no,5,4,3,5,no,c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,4,4,4,4,3,5,5,1,1,no,5,5,4,4,no,b,b,d,a,1,1,1,0,75,4,4,4,4,4,3,5,4,1,1,no,5,5,3,4,no,c,c,a,c,0,1,0,1,50,4,3,4,4,5,5,1,1,no,5,5,4,5,no,no comment,no comment,no comment,1
+657,21Nov19:09:03:43,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,4,4,4,4,5,c,b,e,2,2,4,1,e,1,0,0,0,0,0.25,0,0,25,4,4,4,4,5,b,b,d,b,1,1,1,0,75,4,4,4,4,2,5,a,d,a,c,0,0,0,1,25,4,4,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2701,27Nov19:07:58:39,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,2,2,3,3,3,2,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,2,2,2,2,2,b,b,d,b,1,1,1,0,75,3,1,2,3,1,2,d,c,a,c,0,1,0,1,50,3,2,2,2,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,5,5,1,1,No comment,5,5,3,3,,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,5,5,1,1,No comment,5,5,5,5,,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,4,1,1,No comment,4,4,5,5,,b,c,c,c,1,1,1,1,100,4,4,4,4,4,5,1,1,No comment,5,5,5,5,,,,,1
+963,27Nov19:08:06:03,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,2,3,3,4,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,2,3,3,3,b,b,d,a,1,1,1,0,75,3,3,3,3,1,2,b,a,a,c,1,0,0,1,50,3,3,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3681,27Nov19:08:10:48,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Center of
+Excellence
+(OI Clinic)",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,2,2,1,2,2,2,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,2,2,1,2,2,b,b,d,b,1,1,1,0,75,2,2,2,2,1,2,c,a,a,c,0,0,0,1,25,2,1,1,1,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,5,4,4,1,1,It was interactive learnt better,5,4,3,3,nil,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,3,3,3,4,4,1,1,It was really time and we learnt better,4,4,3,3,nil,b,b,d,d,1,1,1,1,100,3,3,3,3,3,3,4,4,1,1,nil,5,5,4,4,nil,b,c,c,c,1,1,1,1,100,3,3,3,3,5,4,1,1,nil,5,4,5,4,nil,"Recognise was that every professional was an
+important role to play and we all have similar values
+in relation to treating patients hence i will treat all my
+colleagues with respect and try communicate","Having an accountability partner following guidelines
+listening to patients worries and trying to address
+them","What the latest information on guidelines feel better
+equipped to handle similar cases when i graduate",1
+3574,27Nov19:08:11:24,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,3,3,3,2,3,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,3,3,2,a,b,d,b,0,1,1,0,50,3,3,3,3,1,3,b,a,a,c,1,0,0,1,50,2,2,2,2,1,a,a,c,c,1,1,1,1,100,4,4,4,4,3,4,4,4,4,1,1,"Add videos, colorful flow chats and student based
+leading of programmes to stimulate more interest.",5,4,4,4,No,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,3,4,4,4,1,1,No.,5,5,4,3,No.,b,b,d,a,1,1,1,0,75,3,4,4,4,4,3,4,4,1,1,More time for discussions.,5,4,4,3,No.,b,c,a,c,1,1,0,1,75,4,4,4,4,4,4,1,1,No.,4,4,3,4,No.,"Doing workshops frequently and in cooperating
+nurses and nurse aids on ward rounds and
+encourage teaching among each other.","Keep encouraging interprofessional collaboration
+through pamphlets and posters.","It will help me address all the aspects of a patient
+which include drugs, psychosocial and community.",1
+1511,27Nov19:08:11:48,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,2,2,2,2,2,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,2,2,2,2,2,a,b,d,d,0,1,1,1,75,3,3,3,2,1,2,b,c,a,c,1,1,0,1,75,3,2,2,2,1,a,a,c,c,1,1,1,1,100,3,4,3,4,4,3,5,5,5,1,1,nil,5,5,4,4,nil,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,3,3,3,5,5,1,1,nil,5,5,4,4,nil,b,b,d,d,1,1,1,1,100,3,3,3,3,3,3,5,5,1,1,nil,5,5,5,5,nil,b,c,a,c,1,1,0,1,75,3,2,3,3,5,5,1,1,nil,5,5,5,5,nil,"Telling other healthcare workers on the importance
+of communication amongst ourselves and also
+encouraging collaboration between doctors and
+nurses in the care of patient.",,"Now we know that it is not just the biomedical
+aspects that are important in the caring of the patient
+but also that psycho social issues also play an
+important role and also to an extend offered
+biomedical issues.",1
+2448,27Nov19:08:12:38,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Other,Zimbabwe,a,a,a,c,1,0,1,1,75,2,2,2,2,2,2,2,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,2,2,2,2,2,b,b,d,d,1,1,1,1,100,3,2,2,3,1,2,b,c,a,c,1,1,0,1,75,3,2,2,2,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,4,4,1,1,nil,5,4,4,4,nil,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,3,3,3,3,4,4,1,1,nil,4,4,4,4,nil,b,b,d,d,1,1,1,1,100,3,3,3,3,3,3,4,4,1,1,nil,5,4,4,4,nil,b,c,c,c,1,1,1,1,100,3,3,3,3,4,4,1,1,nil,5,4,4,4,nil,"I would give my colleagues material to read on it
+then i would teach then their importance as different
+individuals to improve efficiency.",I would encourage peer mentorship,"It has made e realise the psychosocial aspect of
+treating patients with HIV and treat them Holistically.",1
+276,27Nov19:08:13:27,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,3,4,4,3,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,3,3,3,2,b,b,d,a,1,1,1,0,75,3,4,3,4,1,2,b,a,a,c,1,0,0,1,50,3,3,3,2,1,a,a,c,c,1,1,1,1,100,5,5,5,5,5,5,5,4,4,1,1,it was well done,4,4,4,4,,c,d,d,4,1,4,2,a,1,1,1,0,0.25,0.25,0.25,1,95,4,4,4,4,4,4,5,2,2,well done,5,5,4,4,,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,4,1,1,well done,4,4,4,4,,b,c,c,c,1,1,1,1,100,4,4,4,4,4,4,1,1,very good,4,4,4,4,,"better communication with collegues
+respect for
+every team member
+sharing ideas",applying knowledge acquired,"more understanding of patient 
+holistic approach
+to patients
+being empathetic",1
+584,27Nov19:08:15:11,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,2,4,4,4,4,4,4,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,3,3,4,4,a,b,d,d,0,1,1,1,75,4,3,4,4,4,4,b,d,a,c,1,0,0,1,50,3,4,3,5,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,5,5,1,1,they did a great work in enlightening us about HIV,5,5,5,5,,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,4,1,1,1,they did a great job,5,5,5,5,,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,great job was done,5,5,5,5,,b,a,a,b,1,0,0,0,25,4,4,4,4,5,5,1,1,a job welldone,5,5,5,5,,,,,1
+3056,27Nov19:08:15:22,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,2,3,3,2,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,2,3,3,c,b,d,d,0,1,1,1,75,3,4,3,4,1,3,d,c,a,c,0,1,0,1,50,3,1,4,3,1,a,a,c,c,1,1,1,1,100,2,3,2,2,2,3,3,4,4,1,1,No,4,4,3,4,No,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,3,3,4,3,3,3,1,1,No,4,4,3,4,No,b,b,d,d,1,1,1,1,100,4,3,2,2,3,2,4,4,1,1,No,4,3,4,3,No,b,c,a,c,1,1,0,1,75,3,2,3,3,4,4,1,1,No,4,3,4,3,No,"Involve every profession in the management of a
+patient and allow input from different fields","Encourage more educational programs so that
+health care providers remain knowledgeable so as to
+properly manage patients","I'll manage a patient holistically, focusing on the
+physical, emotional and psychosocial aspects and
+involving all the relevant health care professionals",1
+3185,27Nov19:08:16:12,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,4,3,3,4,3,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,3,3,3,b,b,d,a,1,1,1,0,75,4,3,3,4,2,3,b,c,a,c,1,1,0,1,75,3,2,3,3,1,a,a,c,c,1,1,1,1,100,4,3,4,4,4,4,3,4,4,1,1,Well organized,1,4,4,4,Practically useful,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,3,4,4,4,4,1,1,Well organized,5,4,4,4,Practically useful,b,b,d,d,1,1,1,1,100,4,4,4,4,3,4,4,4,1,1,Well organized,5,4,4,4,Practically useful,b,c,c,c,1,1,1,1,100,4,4,4,4,4,4,1,1,Well organized,5,4,4,4,Practically helpful,Confidently,Confidently,Positively,1
+1100,27Nov19:08:16:19,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Center of
+Excellence
+(OI Clinic)",Medical,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,3,3,4,3,2,c,d,b,2,1,4,3,c,1,1,0,0,0.25,0.25,0,0,50,3,3,3,3,4,b,b,d,a,1,1,1,0,75,3,3,4,4,3,4,c,d,a,a,0,0,0,0,0,4,2,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1778,27Nov19:08:16:44,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,3,4,4,4,c,d,a,4,4,1,2,a,1,1,0,0,0,0,0.25,1,65,3,3,3,3,3,b,b,d,a,1,1,1,0,75,3,3,3,3,3,3,b,d,a,c,1,0,0,1,50,4,3,3,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,5,5,1,1,N/A,5,5,5,5,,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,5,5,1,1,N/A,5,5,5,5,,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,N/A,5,5,5,5,,b,c,c,c,1,1,1,1,100,4,4,4,4,4,5,1,1,N/A,5,5,5,5,,"Now I will be able to effectively communicate with
+colleagues from for example nursing in the
+management of a patient as whole","We will do 3 monthly evaluation to check if the
+patients mortality is getting better.","I can now manage an HIV patient irrespective of age
+from the moment of diagnosis up until they are vitally
+supressed",1
+799,27Nov19:08:18:05,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,3,4,3,4,c,d,d,3,1,4,2,d,1,1,1,0.25,0.25,0.25,0.25,0,80,4,3,3,4,3,b,b,d,a,1,1,1,0,75,3,3,3,4,2,3,b,c,a,c,1,1,0,1,75,3,3,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,4,4,1,1,Very good,1,5,5,5,,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,5,5,1,1,Very good,5,5,5,5,Very good,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,5,1,1,Very well articulated,5,5,5,5,Very energetic facilitators,b,c,c,c,1,1,1,1,100,4,4,4,4,5,5,1,1,Very well done,5,5,5,5,Very good,"Teaching all on respect of other professions and
+advantages it brings.","Try as much as possilbe to have different health
+professions when dealing with any problems
+mapping solutions together","Having regular meetings evaluating the
+effectiveness.",1
+3631,27Nov19:08:18:09,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,3,3,3,3,c,d,a,2,1,4,3,d,1,1,0,0,0.25,0.25,0,0,50,3,2,3,3,3,b,b,d,d,1,1,1,1,100,3,3,4,4,2,4,a,a,c,c,0,0,1,1,50,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,3,4,4,4,4,4,1,1,"the workshop should put on small rewards as the
+learning progresses",5,4,4,4,more time should be allocated to the module,c,d,d,2,1,4,3,b,1,1,1,0,0.25,0.25,0,0,70,3,4,3,4,3,4,4,1,1,"TB and HIV drug interactions should be printed
+on separate handouts for easy refferal",4,4,3,2,,b,b,d,d,1,1,1,1,100,4,3,4,3,4,4,4,4,1,1,none,4,4,4,4,,b,a,a,c,1,0,0,1,50,4,3,3,3,4,4,1,1,none,4,4,4,4,,,,,1
+3080,27Nov19:08:19:06,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,2,1,2,1,2,2,2,c,d,a,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,2,1,2,2,2,b,b,d,a,1,1,1,0,75,2,2,2,2,1,1,c,d,a,c,0,0,0,1,25,1,1,2,1,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,3,4,5,1,1,"This was informative and well coordinated. Keep it
+up",5,5,4,4,,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,3,4,3,3,4,5,1,1,"The facilitator was very entertaining and made
+the module fun and enjoyable.",5,5,5,5,,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,5,5,1,1,"Well cordinated, well organised and
+the topic was made easy to learn.",5,5,5,5,,b,c,a,c,1,1,0,1,75,3,3,3,3,5,5,1,1,"The facilitator was well informed,
+encouraged more learning after the program
+so as to better ones knowlegde.",5,5,5,5,,"By encouraging teamwork at the workplace. Doing
+workshops and team building activities to encourage
+teamwork.","Monthly assessments to ensure interventions are
+being practiced and implemented.","Now knowledgeble and confident with regards to
+management and the ability to tackle different
+situations. It has boosted my self confidence.",1
+2660,27Nov19:08:20:48,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,2,4,3,3,3,b,d,b,2,3,4,1,c,0,1,0,0,0,0.25,0,0,25,3,2,3,2,3,a,a,d,d,0,0,1,1,50,2,3,2,3,1,3,b,d,a,c,1,0,0,1,50,2,4,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+408,27Nov19:08:22:05,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,2,b,d,a,1,3,4,2,c,0,1,0,0,0,0.25,0.25,0,30,1,2,2,2,3,b,b,d,d,1,1,1,1,100,2,2,1,2,1,2,c,a,a,c,0,0,0,1,25,2,2,2,3,1,a,a,c,c,1,1,1,1,100,4,4,3,3,3,4,4,4,4,1,1,No,5,4,4,4,,b,d,d,3,1,4,2,a,0,1,1,0.25,0.25,0.25,0.25,1,80,3,3,4,3,4,4,4,1,1,No,5,4,4,4,,b,b,d,d,1,1,1,1,100,4,3,4,4,3,3,4,4,1,1,No,5,4,4,4,,b,a,a,c,1,0,0,1,50,4,3,4,4,4,4,1,1,No,5,4,4,4,,"I will encourage interprofessional dialogue to share
+ideas and teach each other how to manage patients
+from different perspectives","Encourage peer appraisals, constructive criticism,
+and adoption of new proven protocols.","It has given me enough confidence to render care for
+PLWH and those Co-infected",1
+489,27Nov19:08:23:10,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,3,3,2,3,4,c,d,a,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,3,3,3,3,3,b,b,d,d,1,1,1,1,100,3,2,3,4,1,3,c,d,a,c,0,0,0,1,25,3,2,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,3,4,4,3,5,5,1,1,Was well engaged,5,4,4,4,"Module was well presented.would like to know about
+newly diagnosis in a male patient",c,d,b,1,3,4,2,a,1,1,0,0,0,0.25,0.25,1,70,4,4,4,4,4,5,5,1,1,Was well engaged,5,4,4,4,Was well presented,d,b,d,d,0,1,1,1,75,4,4,4,4,4,3,5,5,1,1,Was well done,5,5,4,4,Was well presented,b,a,c,c,1,0,1,1,75,4,4,4,4,5,5,1,1,Was well engaged,5,5,4,4,Was well presented nothing to add on,"By addressing to other professionals how important
+it is to work as a team",By working a team,Will improve the quality of care of the patients,1
+1753,27Nov19:08:23:32,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,a,1,1,1,0,75,4,3,2,3,3,3,3,c,d,b,3,2,4,1,b,1,1,0,0.25,0,0.25,0,0,50,3,2,2,2,3,a,b,d,d,0,1,1,1,75,3,3,2,2,2,2,a,a,c,d,0,0,1,0,25,2,3,3,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2358,27Nov19:08:23:52,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,a,b,d,c,0,1,1,0,50,4,5,4,4,4,5,b,a,a,c,1,0,0,1,50,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,5,5,1,1,No,5,5,5,5,No,c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,4,4,4,4,4,5,5,1,1,No,5,5,5,5,No,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,No,5,5,5,5,No,b,c,c,c,1,1,1,1,100,4,4,4,4,5,5,1,1,No,5,5,5,5,No,"Encourage others to do well in their fields of
+specialty and share with others their knowledge and
+work experience","Tell other health care workers to keep up-to-date
+with their information and constantly criticize the
+information sources in a way that ensures further
+development of new strategies and not shy away
+with heath improving ideas","Positively. It has taught me to understand and
+recognize the role of other workers and how
+important their knowledge is in influencing further
+improvement and development in the health sector.",1
+2938,27Nov19:08:23:58,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Center of
+Excellence
+(OI Clinic)",Medical,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,2,3,3,3,b,d,d,3,1,4,2,a,0,1,1,0.25,0.25,0.25,0.25,1,80,3,3,3,2,2,b,b,d,d,1,1,1,1,100,3,3,3,3,2,3,b,c,a,c,1,1,0,1,75,3,2,3,3,1,a,a,c,c,1,1,1,1,100,3,3,4,4,4,3,5,4,4,1,1,nil,5,4,4,4,nil,b,d,d,3,1,4,2,a,0,1,1,0.25,0.25,0.25,0.25,1,80,3,4,3,3,3,4,4,1,1,nil,5,4,4,4,nil,b,b,d,d,1,1,1,1,100,3,4,3,3,3,3,4,4,1,1,nil,5,4,4,4,nil,b,c,a,c,1,1,0,1,75,4,3,4,4,4,4,1,1,nil,5,4,4,4,nil,"I will fully involve the whole team in the management
+of each patient to give the best possible care","I will share the knowledge gained here with other
+facility members so that we are all on the same
+page.","This training gave me an insight of how to use the
+holistic approach in the management of HIV patients
+including both the pharmacological aspect and the
+psycho social problems",1
+2903,27Nov19:08:25:10,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Other,Zimbabwe,a,a,a,c,1,0,1,1,75,2,4,3,4,3,3,3,b,d,a,3,2,1,4,c,0,1,0,0.25,0,0,0,0,25,3,3,2,3,3,b,b,d,a,1,1,1,0,75,3,2,2,3,2,3,c,a,c,c,0,0,1,1,50,3,2,3,3,1,a,a,b,c,1,0,1,1,75,4,4,4,4,4,4,4,5,5,1,1,It was well facilitated,5,5,5,5,Good communication,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,4,5,1,1,The facilitator was very interactive,5,5,5,5,Excellent,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,Good,5,5,5,5,Excellent,b,d,a,c,1,0,0,1,50,4,4,4,4,4,5,1,1,Good,5,5,5,5,It was good,"I will put more effort to understand the work of my
+colleagues and respect them more",I will share with them what i know about patient care,"I am more confident because I'm more
+knowledgeable",1
+2235,27Nov19:08:26:00,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,b,d,d,3,1,4,2,a,0,1,1,0.25,0.25,0.25,0.25,1,80,3,4,4,4,4,b,b,d,d,1,1,1,1,100,4,4,4,4,1,4,b,d,a,c,1,0,0,1,50,3,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,nil,5,4,4,5,nil,c,d,d,3,4,4,2,a,1,1,1,0.25,0,0.25,0.25,1,95,4,4,4,4,4,4,4,1,1,nil,5,4,4,4,nil,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,4,1,1,nil,5,4,4,4,nil,b,c,c,c,1,1,1,1,100,4,4,4,4,5,5,1,1,nil,5,4,4,4,nil,"Talk more consult other peers when managing a
+patient.","Use the tools learnt to assess how we work and
+suggest their implementation so that everyone does
+the same.","I am now more knowledgeable and will definitely do
+better care.",1
+334,27Nov19:08:26:13,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,4,2,2,4,c,d,b,1,4,3,2,c,1,1,0,0,0,0,0.25,0,45,2,2,2,2,3,b,b,d,a,1,1,1,0,75,3,3,3,4,2,4,b,d,a,c,1,0,0,1,50,2,3,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,3,4,4,4,4,1,1,no comment,5,5,4,3,,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,5,4,1,1,no commts,5,4,3,3,,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,4,1,1,no comment,5,4,3,3,,b,b,c,c,1,0,1,1,75,4,3,3,4,5,4,1,1,no comment,5,4,3,3,,,,,1
+2376,27Nov19:08:27:32,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Other,Zimbabwe,c,a,c,c,0,1,1,1,75,3,3,4,4,4,3,4,c,d,d,3,1,3,2,c,1,1,1,0.25,0.25,0,0.25,0,75,3,2,3,3,4,b,b,d,c,1,1,1,0,75,1,4,2,4,1,4,b,d,a,c,1,0,0,1,50,3,2,3,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,4,5,1,1,More time needed to decongest program,5,5,5,5,,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,5,5,1,1,"Increase number of days to decongest the
+program",5,5,5,5,,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,4,4,1,1,Good work,5,5,5,5,,b,c,c,c,1,1,1,1,100,4,4,4,4,5,5,1,1,Good work,5,5,5,5,,"Having weekly meetings at the workplace to share
+ideas and help improve skills","Checking if we are meeting set standards maybe
+once yearly","Gave me an in depth understanding of HIV and its
+management",1
+1935,27Nov19:08:31:35,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,3,4,3,3,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,4,2,2,2,b,b,d,c,1,1,1,0,75,4,4,3,3,2,2,b,a,c,c,1,0,1,1,75,3,2,3,2,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,4,5,1,1,N/A,5,5,5,5,To increase time for role plays,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,5,5,1,1,It was good,5,5,5,5,N/A,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,5,1,1,N/A,5,5,5,5,N/A,b,c,c,c,1,1,1,1,100,4,4,4,4,5,5,1,1,Motivating,5,5,5,5,N/A,Education health professionals,Sourcing resources,Encoucarage to manage patients holistically,1
+852,27Nov19:08:32:24,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,4,3,3,3,3,c,d,b,2,1,4,3,c,1,1,0,0,0.25,0.25,0,0,50,3,3,3,3,3,b,b,d,d,1,1,1,1,100,3,3,3,3,3,3,b,a,a,c,1,0,0,1,50,3,3,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,4,4,1,1,It was very helpful and informative,5,4,4,4,,c,d,d,2,1,4,3,a,1,1,1,0,0.25,0.25,0,1,90,4,4,4,4,4,4,4,1,1,It was educative and informative.,4,4,4,4,,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,4,1,1,It was educative and informative,4,4,4,4,,b,c,c,c,1,1,1,1,100,4,4,4,4,4,4,1,1,It was educative and informative,4,4,4,4,,"Allow collaborative contribution from all professionals
+and members for the benefit of the patients
+No
+one is the boss but we are all equal .","Promotion of the Plan Do Study Act model to
+improve quality of care provision for the patient.","It has promoted interprofessional practice approach
+to care of patients and it has provided latest
+guidelines for practical approach and management
+of patience with HIV infection.",1
+2176,27Nov19:09:01:26,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,3,4,4,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,3,4,4,4,a,b,d,d,0,1,1,1,75,4,4,4,4,3,4,b,a,a,c,1,0,0,1,50,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,5,5,1,1,No,5,5,5,5,,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,5,5,1,1,No,5,5,5,5,No,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,No,5,5,5,5,,b,c,c,c,1,1,1,1,100,4,4,4,4,5,5,1,1,No,5,5,5,5,,,,,1
+905,27Nov19:21:08:05,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,3,2,3,3,2,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,2,2,3,3,3,b,b,d,a,1,1,1,0,75,3,3,3,3,3,3,b,c,a,c,1,1,0,1,75,3,1,2,3,1,a,a,c,c,1,1,1,1,100,3,3,4,3,4,3,3,4,4,1,1,"more time was needed since the module was very
+broad",5,4,4,4,"more on contraception and interaction with ART was
+needed",c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,4,3,3,4,4,1,1,"more was needed on adverse effects of tb
+drugs, not just focus on the most common
+adverse effects
+interaction of tb drugs with
+ART also needed more time",5,4,4,4,"the example in the practice question worked
+well, as it showed the reality in low income
+countries",b,b,d,d,1,1,1,1,100,4,3,3,4,3,3,4,4,1,1,"it touched well on how to deal with
+pmtct in low resource settings",5,4,4,4,the low risk child was not discussed in detail,b,c,c,c,1,1,1,1,100,4,3,3,3,4,4,1,1,"there was good research on the part of the
+facilitators",5,4,4,4,"no effective ways to diagnose hiv in
+children less than 18 months old in settings
+with no dna testings were put up","i will campaign to remove barriers of seniority and
+also do away with the myth that some jobs are more
+important than others. this is encourage
+interprofessional communication.","holding training workshops continually and at specific
+intervals will make sure workers are reminded and
+upgraded on quality all the time. continuous research
+will also be encouraged among members.","i can provide quality care as i have also added a
+psychosocial aspect to my management style. i can
+now also advise patients on adverse effects of drugs
+and the interactions of ART with other drugs such as
+tb drugs and contraception pills and injections.",1
+3501,28Nov19:07:50:24,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,4,4,3,c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,3,3,3,3,2,b,b,d,d,1,1,1,1,100,4,4,3,3,3,3,b,c,c,c,1,1,1,1,100,4,2,4,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,4,5,1,1,No,5,4,4,4,No,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,4,4,1,1,No,5,4,4,4,No,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,5,1,1,No,5,4,4,4,No,b,c,c,c,1,1,1,1,100,4,4,4,4,4,5,1,1,No,5,4,4,4,No,"Involve other professionals in patient care to improve
+outcomes","Work and refer patients to other, better equipped
+professionals in terms of counselling etc to improve
+their quality of cate",I will approach their care more holistically,1
+3117,28Nov19:08:06:13,"University
+of
+Zimbabwe","Pre-service
+Student",UNKNOWN,Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,2,2,3,2,2,3,b,d,c,3,1,4,2,a,0,1,0,0.25,0.25,0.25,0.25,1,60,2,2,2,2,2,b,b,d,a,1,1,1,0,75,2,2,2,2,1,2,b,c,c,c,1,1,1,1,100,3,3,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,"It was very well organised and i would like to
+commend then on time management.",5,5,5,4,"The group discussions we had and then hang to
+report back our answer.",c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,4,3,3,4,5,5,1,1,workshop was beneficial,5,5,5,5,good time management,b,b,d,d,1,1,1,1,100,3,3,3,4,3,4,4,4,1,1,It was very beneficial,5,5,5,5,the discussion was interactive it kept us awake,b,c,c,c,1,1,1,1,100,4,3,3,4,4,4,1,1,i commend them for time keeping,5,5,5,5,"The group discussions allowed us to learn
+more","The principle of inter professional collaboration we
+learnt is going to help me in my profession and it is
+also going to help me relate effectively with
+colleagues from other professions. I will use this in
+considering other profession which are very impo","With this training i will make sure that i have a
+holistic approach to the management of the patient
+to make sure the patient receives quality care.","With STRIPE HIV training will improve on my
+approach to the patient working at the psycho social
+aspect in the managerial of patient in addition to
+addressing the biomedical aspect of the
+management.",1
+2937,28Nov19:15:42:10,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Other,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,3,c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,2,2,2,2,2,b,b,d,a,1,1,1,0,75,3,4,2,2,1,4,c,d,a,d,0,0,0,0,0,2,2,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,3,4,4,4,4,1,1,it was excellent,5,5,4,4,,c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,4,4,4,4,3,4,4,1,1,No,5,5,4,4,,b,b,d,a,1,1,1,0,75,4,4,3,4,4,4,4,5,1,1,No,5,5,4,4,,b,a,a,c,1,0,0,1,50,4,4,4,4,4,4,1,1,No,5,4,4,4,,,,,1
+3153,13Jan20:07:59:41,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,4,b,d,d,2,1,4,4,c,0,1,1,0,0.25,0.25,0,0,50,3,3,3,3,5,b,b,d,a,1,1,1,0,75,3,3,3,3,3,3,a,d,a,c,0,0,0,1,25,3,3,3,3,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,3,4,5,1,1,no,5,5,5,4,no,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,4,4,4,3,4,4,1,1,no,5,5,5,5,no,b,b,d,a,1,1,1,0,75,4,4,4,4,4,3,4,5,1,1,no,5,5,5,4,no,b,c,a,c,1,1,0,1,75,4,4,4,4,4,5,1,1,no,5,5,5,5,no,no comment,no comment,no comment,1
+1650,13Jan20:08:18:05,"University
+of
+Zimbabwe","Pre-service
+Student",Parirenyatwa,Nursing/midwifery,Female,Zimbabwe,a,a,a,c,1,0,1,1,75,2,3,2,2,1,5,5,c,d,b,2,1,4,3,c,1,1,0,0,0.25,0.25,0,0,50,3,3,3,1,5,c,b,d,a,0,1,1,0,50,3,3,2,3,5,5,c,a,a,d,0,0,0,0,0,3,3,5,2,1,a,a,c,c,1,1,1,1,100,4,4,3,4,3,3,3,5,5,1,1,no,5,5,5,5,no,c,d,c,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,3,4,4,4,3,5,5,1,1,no,5,5,5,5,,b,b,d,d,1,1,1,1,100,4,4,4,4,3,3,4,5,1,1,no,5,5,5,5,no,d,c,a,c,0,1,0,1,50,3,4,4,4,4,5,1,1,no,5,5,5,5,no,Refer clients to other Health Care Professionals,"Discussing care with other health care professionals
+and finding solutions to problems you executed.","Increase knowledge and skills of care for
+patients.
+Improve my communication skills.",1
+1293,13Jan20:09:06:13,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,4,3,4,5,c,d,a,2,1,4,1,c,1,1,0,0,0.25,0.25,0,0,50,3,3,2,2,5,a,b,d,d,0,1,1,1,75,3,3,3,3,2,5,a,d,a,c,0,0,0,1,25,3,3,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,3,5,4,1,1,Can add more time for discussions.,5,5,5,4,Discussions worked well,b,d,b,4,1,4,2,c,0,1,0,0,0.25,0.25,0.25,0,35,4,4,4,4,3,4,4,1,1,It was well done.,5,4,5,4,Discussions were very helpful.,b,b,d,d,1,1,1,1,100,4,4,4,4,4,3,4,4,1,1,no,5,5,5,5,no,b,c,a,c,1,1,0,1,75,3,4,4,4,4,5,1,1,no,4,4,5,5,no,Ask colleagues for help,Inform others about the benefit of working as a team,"Better understanding of how to counsell clients with
+HIV.",1
+3508,13Jan20:09:20:05,"University
+of
+Zimbabwe","Pre-service
+Student",Parirenyatwa,Pharmacy,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,2,3,2,2,2,5,c,d,b,4,1,3,2,c,1,1,0,0,0.25,0,0.25,0,50,2,2,2,2,5,b,b,d,d,1,1,1,1,100,1,2,2,2,1,5,c,a,a,c,0,0,0,1,25,1,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+411,13Jan20:09:35:36,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,4,4,4,3,4,5,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,2,2,2,5,b,b,d,d,1,1,1,1,100,4,4,3,4,1,5,c,c,a,b,0,1,0,0,25,3,2,4,2,1,a,a,c,c,1,1,1,1,100,3,4,4,4,4,4,3,5,5,1,1,no,5,4,3,6,no,c,d,c,3,4,4,2,c,1,1,0,0.25,0,0.25,0.25,0,55,4,4,2,4,4,5,5,1,1,no,5,5,5,3,no,b,b,d,a,1,1,1,0,75,4,4,4,4,2,3,5,5,1,1,no,5,5,5,3,no,b,c,a,c,1,1,0,1,75,4,3,4,4,5,5,1,1,no,5,5,4,3,no,"Increase inter-professional meetings to
+coordinate.
+Advocate for respect of peers","Do audit 
+Place a suggestion box","It has improved the holistic care of patients as well
+as communication between colleagues.",1
+2171,13Jan20:10:21:23,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Laboratory,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,2,2,2,3,5,c,e,e,5,5,5,5,e,1,0,0,0,0,0,0,0,20,2,1,1,2,5,b,b,c,d,1,1,0,1,75,2,2,2,2,1,5,c,e,d,a,0,0,0,0,0,3,2,1,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+789,09Mar20:09:13:51,"University
+of
+Zimbabwe","Pre-service
+Student",Parirenyatwa,Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,2,3,3,3,4,4,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,3,3,3,3,b,b,d,d,1,1,1,1,100,3,4,4,3,1,3,b,c,a,c,1,1,0,1,75,3,2,4,3,1,a,a,c,c,1,1,1,1,100,3,4,4,4,4,4,3,4,6,1,1,no,5,5,2,3,no,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,3,3,5,1,1,no,5,4,4,3,no,b,b,d,d,1,1,1,1,100,4,4,4,4,4,3,4,5,1,1,no,5,5,4,2,no,b,c,a,c,1,1,0,1,75,4,4,3,4,3,5,1,1,no,4,5,5,5,no,no comment,no comment,no comment,1
+1319,09Mar20:09:33:12,"University
+of
+Zimbabwe","Pre-service
+Student",Parirenyatwa,Nursing/midwifery,Female,Zimbabwe,a,a,c,a,1,1,1,0,75,2,3,4,1,2,3,3,c,b,b,2,4,1,4,a,1,0,0,0,0,0,0,1,40,3,4,3,4,3,b,a,d,d,1,0,1,1,75,4,3,4,4,2,3,a,a,b,c,0,0,0,1,25,2,2,4,4,1,a,a,c,c,1,1,1,1,100,3,2,4,3,2,4,3,4,4,1,1,"The module was done impressively and was
+motivating",5,5,5,4,"As an individual, I would like the facilitator to assist
+us students on the issue of disclosing and speaking
+to newly diagnosed patients verbally and ways to say
+it",c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,3,3,4,4,3,4,4,1,1,It was not perfect on all angles.,5,4,4,4,no,b,b,c,d,1,1,0,1,75,4,4,4,4,4,3,4,3,1,1,"Keep up encouraging us because
+you were so good and the
+information was really significant.",5,4,4,4,no,b,a,a,c,1,0,0,1,50,4,3,3,4,4,5,1,1,"We need to be updated and taught on types
+recommendations as per age of the patients
+because that was the difficult part i noticed
+and experienced.",5,4,4,4,It was all good,"Respecting their profession and include them in
+decision making as per patients
+management.
+Form meetings once a week for
+patients with extreme cases that needs co-operation
+from all departments.","By enforcing rules to be at work at the right
+time.
+Reward those who out stand with work as to
+encourage 
+Assess the problems and include all
+workers to resolve those problems.
+Respect each
+other and remove that sense of inferiority.","I am now able to diagnose, disclose, counsel and
+manage them without enforcing stigmatization.
+I
+am now able to comfort them and give them
+solutions for them not to be depressed.
+I am able
+to teach them about proper diet, to both patients and
+their cares.",1
+822,09Mar20:09:45:31,"University
+of
+Zimbabwe","Pre-service
+Student",Medicine,Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,4,3,2,2,3,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,2,2,2,3,3,b,b,d,d,1,1,1,1,100,3,2,2,3,1,3,b,a,a,c,1,0,0,1,50,2,2,2,3,1,a,a,c,c,1,1,1,1,100,3,4,3,4,4,4,3,4,5,1,1,no,5,4,4,4,no,c,d,c,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,3,3,4,3,3,4,4,1,1,no,5,4,4,4,no,b,b,d,a,1,1,1,0,75,3,3,3,4,2,3,5,4,1,1,no,5,4,4,4,no,b,a,a,c,1,0,0,1,50,3,3,3,3,5,5,1,1,no,5,4,4,4,no,"Now i understand and have learnt how we can work
+to get and accept each others opinions.","Relating better and teaching others who need part of
+the programme.","The stripe training will teach me to communicate
+better with better knowledge.",1
+573,09Mar20:10:11:37,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,4,4,4,4,3,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,4,3,4,3,b,b,d,c,1,1,1,0,75,4,3,4,4,1,3,b,c,a,c,1,1,0,1,75,4,3,4,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,3,4,5,1,1,no,5,5,5,4,no,c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,4,4,4,4,4,4,4,1,1,no,4,4,4,4,no,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,4,5,1,1,no,4,4,5,4,no,b,c,a,c,1,1,0,1,75,4,4,4,4,4,5,1,1,no,5,5,5,5,no,no comment,no comment,no comment,1
+2418,09Mar20:10:29:11,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Laboratory,Male,Zimbabwe,c,a,c,b,0,1,1,0,50,4,4,4,3,3,3,3,b,d,b,2,1,4,3,a,0,1,0,0,0.25,0.25,0,1,50,3,3,2,4,3,d,b,d,d,0,1,1,1,75,4,3,3,4,1,3,d,d,a,c,0,0,0,1,25,4,1,1,3,1,a,a,c,c,1,1,1,1,100,5,5,4,4,5,5,3,5,5,1,1,no,5,4,5,4,no,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,5,4,3,4,3,5,4,1,1,no,4,5,4,4,no,b,b,d,d,1,1,1,1,100,4,3,4,3,3,3,5,5,2,1,no,4,5,4,4,no,b,c,a,c,1,1,0,1,75,4,5,5,4,5,4,1,1,no,5,4,4,3,no,no,no,no,1
+1833,09Mar20:10:48:19,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Other,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,5,5,3,c,b,b,2,3,4,1,a,1,0,0,0,0,0.25,0,1,45,1,2,5,4,3,d,b,d,d,0,1,1,1,75,2,2,2,3,5,3,c,a,a,c,0,0,0,1,25,5,1,5,2,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,3,4,5,1,1,no,5,5,5,5,no,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,3,4,4,3,5,5,1,1,The programme was very insightful.,5,4,4,3,no,b,b,d,d,1,1,1,1,100,2,2,3,4,4,3,4,4,1,1,no,5,5,4,4,no,b,b,a,c,1,0,0,1,50,4,4,4,4,4,4,1,1,no,5,4,5,5,no,no,no,no,1
+1094,09Mar20:11:07:08,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,3,4,3,3,3,3,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,2,3,3,4,3,b,b,d,d,1,1,1,1,100,3,4,4,4,4,3,b,a,a,c,1,0,0,1,50,3,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,3,4,5,1,1,"I enjoyed it and learnt a lot. I hope more
+programmes on other diseases can be set up such
+as this one.",5,4,4,4,"The involvement of students in discussions and role
+plays helped in cementing and making the
+information more applicable.",c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,3,4,5,1,1,no,5,5,5,4,no,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,no,5,5,5,4,no,b,c,a,c,1,1,0,1,75,4,4,4,4,5,5,1,1,no,5,5,5,5,no,"I will engage other disciplines in patient care as each
+department uniquely contributes to the ultimate
+recovery of the patients.","By ensuring that every procedure is done properly
+and in due time in order to improve quality care.","I have come to appreciate the unique contribution of
+each profession in the care of HIV patients.
+
+When each discipline is incorporated into the patient
+care it will go along way in addressing the 95 95 95
+goal.",1
+1258,09Mar20:11:22:14,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,b,a,c,c,0,1,1,1,75,1,3,2,4,5,4,3,c,b,a,2,1,3,2,a,1,0,0,0,0.25,0,0.25,1,50,3,2,5,4,3,b,b,d,b,1,1,1,0,75,1,2,3,4,1,3,a,d,a,c,0,0,0,1,25,2,2,4,4,1,a,a,c,c,1,1,1,1,100,3,4,4,4,4,4,3,4,4,1,1,no,5,4,5,4,no,c,d,b,2,1,4,2,a,1,1,0,0,0.25,0.25,0.25,1,75,4,4,4,4,3,5,5,1,1,no,5,4,4,4,no,c,b,d,d,0,1,1,1,75,4,4,4,4,4,3,4,5,1,1,no,5,4,4,4,no,b,a,a,c,1,0,0,1,50,4,3,4,3,5,5,1,1,no,4,4,4,4,no,"I would appreciate what other professionals and
+what they can offer to the patient and i would let
+everyone know how i can contribute to the team.","I would like to promote working as a team for
+example doing  multidisciplinary ward rounds.
+ I
+would also like also to prevent work related stigma.","I will have the knowledge on how to disclose
+information, engage patients in counselling and
+promote their being as well as quality of life.",1
+843,09Mar20:11:40:12,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,b,a,c,c,0,1,1,1,75,2,3,4,4,3,3,3,c,b,a,1,1,4,2,c,1,0,0,0,0.25,0.25,0.25,0,35,1,2,1,4,3,a,b,d,d,0,1,1,1,75,2,2,3,3,2,3,d,d,a,c,0,0,0,1,25,1,4,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3662,09Mar20:11:55:11,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,1,3,2,3,2,1,3,a,a,a,4,2,2,2,c,0,0,0,0,0,0,0.25,0,5,1,2,1,2,3,b,b,a,c,1,1,0,0,50,2,1,1,3,1,3,a,a,a,c,0,0,0,1,25,1,2,1,2,1,a,a,c,c,1,1,1,1,100,2,3,2,3,2,1,3,4,5,1,1,"It was beneficial to the student especially on the
+multidisciplinary approach.",5,4,4,4,"The facilitators where able to provide all the relevant
+information about the conditions",c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,1,2,2,3,3,4,5,1,1,no,5,4,4,4,no,b,b,c,d,1,1,0,1,75,4,3,3,4,3,3,5,5,1,1,no,5,4,4,4,no,b,a,a,c,1,0,0,1,50,2,4,4,4,4,5,1,1,no,5,4,4,4,no,"By including all relevant health professionals in the
+management of a patient.","Increased communication among health workers.
+Focusing more on the patients needs.","Help is to provide more information about HIV to the
+patients.
+It will also enable us to improve their
+quality of life despite the condition.",1
+2451,09Mar20:12:13:24,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,3,2,2,3,c,d,c,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,4,2,3,3,b,b,d,a,1,1,1,0,75,2,2,2,2,1,3,b,d,a,c,1,0,0,1,50,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3595,09Mar20:12:26:02,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,3,4,2,3,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,2,2,3,3,b,b,d,a,1,1,1,0,75,2,2,3,3,2,3,c,d,a,a,0,0,0,0,0,2,2,2,3,1,a,a,c,c,1,1,1,1,100,4,4,3,3,4,3,3,4,4,1,1,no,5,4,3,2,"Group discussions and interactions helped to
+engage with students.
+More time and days should
+be assigned to the programme to avoid congestion
+of information.",c,d,d,3,1,2,2,c,1,1,1,0.25,0.25,0,0.25,0,75,3,3,3,3,3,3,3,1,1,no,5,4,3,3,no,b,b,d,a,1,1,1,0,75,4,4,4,3,3,3,4,5,1,1,no,5,3,3,2,no,b,c,a,a,1,1,0,0,50,3,2,3,3,4,5,1,1,no,5,4,3,4,no,"I would improve communication skills among HCW
+
+Encourage respect of each others profession.",,I will improve on drug administration knowledge.,1
+308,09Mar20:12:55:57,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,2,3,3,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,3,2,2,3,3,b,b,d,a,1,1,1,0,75,2,3,3,3,2,3,c,d,a,c,0,0,0,1,25,3,2,2,3,1,a,a,c,c,1,1,1,1,100,4,3,3,3,4,4,3,4,4,1,1,"The workshop was well facilitated. Time
+management was excellent. The facilitators were
+punctual for all the sessions which was good.",5,4,3,4,"I learnt a lot of knew information from this
+module.
+Discussing with people from other
+professions really helped me broaden my
+knowledge.",c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,3,3,3,3,4,4,1,1,The workshop was well facilitated.,5,4,3,3,"The facilitator managed the time
+well.
+Discussions helped me gather more
+information and interacting with my colleagues
+from other professions felt so good.",b,b,d,d,1,1,1,1,100,4,3,3,4,2,3,4,4,1,1,"Every activity went as planned
+according to the programme and it
+was good interacting with people
+from other professions.",5,4,4,3,no,b,a,a,c,1,0,0,1,50,3,2,3,3,4,4,1,1,no,5,4,4,4,no,"To do discussions on how each representative from
+each health professional can help the client.",Effective interaction amongst all health workers.,"It has helped broadening my knowledge on how to
+take care of patients with HIV.
+ I am now more
+confident, this training has boosted my confidence
+on care of patients with HIV.
+I have come to
+realise that collaboration with other health care
+professionals",1
+2844,09Mar20:13:21:35,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,b,a,c,c,0,1,1,1,75,3,3,3,1,1,3,3,b,b,b,1,2,4,2,c,0,0,0,0,0,0.25,0.25,0,10,3,3,2,3,3,b,b,a,c,1,1,0,0,50,2,1,1,3,1,3,c,d,a,c,0,0,0,1,25,3,3,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1951,09Mar20:13:32:40,"University
+of
+Zimbabwe","Pre-service
+Student","Parireyatwa
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,1,2,3,3,3,2,3,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,2,3,3,1,3,b,b,d,b,1,1,1,0,75,3,3,2,4,1,3,b,c,a,c,1,1,0,1,75,3,1,3,1,1,a,a,c,c,1,1,1,1,100,3,3,4,4,4,4,3,4,5,1,1,"The module was very interactive and we learnt in an
+enjoyable manner how to apply the knowledge we
+have.",5,4,3,3,no,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,4,3,3,4,4,1,1,"Module was very well facilitated and knowledge
+was shared effectively. My confidence was built
+concerning HIV/ TB coinfection management.",5,5,4,4,"This is a very essential module in our setting
+and more so inter professionally because we all
+deal with TB at our multiple different levels.",b,b,d,d,1,1,1,1,100,4,4,4,4,4,3,5,4,1,1,"This was an essential module and to
+facilitation was excellent",5,5,4,4,no,b,c,c,c,1,1,1,1,100,4,3,4,4,4,4,1,1,no,5,5,4,3,no,"I hope to be a better team worker when managing
+patients acknowledging  every other professionals
+role in patient care even on management of other
+conditions besides HIV.",Encourage workshops or meetings weekly.,"I have learnt a lot of practical aspects in HIV patients
+and i am now  more confident in the management.",1
+3336,09Mar20:13:48:51,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,c,a,c,a,0,1,1,0,50,2,3,3,3,4,4,3,c,d,d,1,1,4,2,c,1,1,1,0,0.25,0.25,0.25,0,75,3,2,3,4,3,b,b,d,d,1,1,1,1,100,3,4,3,4,3,3,b,d,a,c,1,0,0,1,50,4,3,4,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3436,09Mar20:13:57:30,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,4,3,4,4,3,c,d,d,3,1,4,2,b,1,1,1,0.25,0.25,0.25,0.25,0,80,3,3,3,3,3,b,b,d,d,1,1,1,1,100,4,4,4,4,4,3,a,d,a,c,0,0,0,1,25,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,3,5,4,1,1,"I love that fact that we are getting up to date
+information from some of the people who are
+involved directly in the medical activities.",5,5,4,3,no,c,d,b,2,1,4,2,a,1,1,0,0,0.25,0.25,0.25,1,75,4,4,4,4,3,4,5,1,1,"Excellent capturing of pertinent issues related
+to the topic.",5,5,5,5,"Paper based methods of learning is
+excellent.
+We learnt a lot of new information
+and the information which once passed our
+eyes was reinforced.",b,b,d,d,1,1,1,1,100,4,4,4,4,4,3,4,5,1,1,"Learnt a lot of useful information and
+things not to miss when studying.",5,5,5,5,Awesome,b,c,a,c,1,1,0,1,75,4,4,4,4,4,5,1,1,no,4,5,5,5,Awesome.,no comment,no comment,Latest and effective knowledge.,1
+2261,09Mar20:14:25:58,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,3,c,d,a,2,1,4,4,a,1,1,0,0,0.25,0.25,0,1,70,2,2,2,2,3,b,b,d,a,1,1,1,0,75,3,3,3,3,3,3,c,d,a,a,0,0,0,0,0,2,2,2,3,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,3,4,4,1,1,no,5,4,4,3,no,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,2,2,2,2,3,3,3,1,1,I didnt quite understand this module,4,4,4,4,no,b,b,d,a,1,1,1,0,75,4,4,4,4,4,3,4,4,1,1,no,4,4,4,4,no,c,d,a,a,0,0,0,0,0,2,3,3,3,4,3,1,1,no,4,4,4,4,no,"By making sure that all various health care workers
+are integrated in the care of the patients to deliver
+effective care and help to manage the patient as a
+whole being.","By making sure that more workshops are held that
+will help to enhance the skills of the health care
+providers this will increase the quality of care
+provided.","It will have a positive impact on the care of patients
+with HIV as more knowledge and new advance
+knowledge is brought up on the care of the patients
+with HIV and will help to provide care.",1
+2715,09Mar20:14:43:54,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Laboratory,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,5,5,4,3,2,4,3,b,d,d,1,2,3,4,a,0,1,1,0,0,0,0,1,60,2,2,1,1,3,b,b,c,d,1,1,0,1,75,1,1,1,2,2,3,b,d,a,c,1,0,0,1,50,2,1,1,1,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,3,4,4,1,1,no,5,5,3,4,no,c,e,c,5,1,4,2,a,1,0,0,0,0.25,0.25,0.25,1,55,3,3,4,3,3,4,5,1,1,no,4,4,3,3,no,b,b,d,d,1,1,1,1,100,3,3,3,4,4,3,5,5,1,1,no,5,5,4,4,no,b,e,a,c,1,0,0,1,50,4,2,2,4,5,5,1,1,no,4,4,3,4,no,"I will encourage my colleagues to be more open to
+other health care providers and also help advocate
+for reintroduction of ward rounds for medical scientist
+students.","I will enhance communication and role play within
+the system","It has taught me to be able to work as part of a team
+in providing health care for patients with HIV.",1
+3380,09Mar20:14:53:17,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,2,3,2,2,3,c,d,a,1,1,4,1,c,1,1,0,0,0.25,0.25,0,0,50,3,3,3,3,3,b,b,d,d,1,1,1,1,100,4,3,3,3,3,3,c,a,a,c,0,0,0,1,25,2,2,3,2,1,a,a,c,c,1,1,1,1,100,4,4,3,3,3,4,3,5,5,1,1,no,5,5,6,6,no,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,3,3,4,4,3,4,5,1,1,no,5,4,6,6,no,b,b,d,d,1,1,1,1,100,3,3,3,4,3,3,5,5,1,1,no,4,5,6,6,no,b,c,a,c,1,1,0,1,75,4,3,4,4,4,5,1,1,no,5,4,6,6,no,no comment,no comment,no comment,1
+1990,09Mar20:15:03:12,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,5,3,3,3,1,4,3,c,a,d,4,2,4,2,c,1,0,1,0,0,0.25,0.25,0,50,3,3,3,3,3,b,b,d,d,1,1,1,1,100,2,2,2,3,5,3,c,d,a,c,0,0,0,1,25,3,5,5,3,1,a,b,c,c,1,1,0,1,75,4,4,4,4,4,4,3,5,5,1,1,"It was very effective and managed to see the
+importance of inter professional collaboration.",5,4,4,4,"Group discussions worked very well during this
+session as i managed to learn what professionals
+know.",c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,4,4,4,3,3,5,5,1,1,no,5,4,4,4,no,b,b,d,d,1,1,1,1,100,4,4,4,4,4,3,5,5,1,1,no,5,5,4,4,no,b,c,a,c,1,1,0,1,75,4,3,4,4,5,5,1,1,no,5,4,4,4,no,no comment,no comment,no comment,1
+2332,09Mar20:15:12:58,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Laboratory,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,5,4,3,4,5,4,3,c,a,b,2,4,1,1,d,1,0,0,0,0,0,0,0,20,5,1,4,3,3,b,b,d,d,1,1,1,1,100,3,2,4,4,4,3,b,d,a,c,1,0,0,1,50,4,5,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2494,09Mar20:15:21:56,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Laboratory,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,4,4,3,4,3,3,c,d,a,2,1,3,4,a,1,1,0,0,0.25,0,0,1,65,1,1,1,2,3,b,a,d,d,1,0,1,1,75,2,2,2,2,1,3,c,a,a,c,0,0,0,1,25,3,3,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2320,09Mar20:15:35:27,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Laboratory,Female,Zimbabwe,a,a,c,b,1,1,1,0,75,5,5,4,4,3,3,3,c,b,b,1,3,4,1,a,1,0,0,0,0,0.25,0,1,45,5,5,3,3,3,b,b,d,d,1,1,1,1,100,4,3,3,4,1,2,d,d,a,c,0,0,0,1,25,4,1,1,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2593,09Mar20:15:52:45,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Laboratory,Female,Zimbabwe,b,a,c,c,0,1,1,1,75,5,5,3,5,5,5,3,b,b,a,3,1,4,2,a,0,0,0,0.25,0.25,0.25,0.25,1,40,5,5,5,1,3,b,b,d,a,1,1,1,0,75,5,5,4,3,1,3,d,d,a,c,0,0,0,1,25,3,2,4,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1941,09Mar20:16:03:53,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Other,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,1,3,2,1,2,3,3,c,b,a,2,4,1,2,c,1,0,0,0,0,0,0.25,0,25,2,2,3,2,2,b,b,d,d,1,1,1,1,100,4,3,3,4,1,3,c,d,a,c,0,0,0,1,25,5,5,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2382,10Mar20:07:40:42,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,3,3,2,2,3,b,d,b,4,1,2,2,a,0,1,0,0,0.25,0,0.25,1,50,3,3,2,3,3,b,b,d,b,1,1,1,0,75,3,3,3,3,2,3,a,c,a,c,0,1,0,1,50,3,3,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1064,10Mar20:07:52:27,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,b,c,1,0,1,1,75,3,5,3,3,3,4,3,c,d,b,1,2,2,4,a,1,1,0,0,0,0,0,1,60,1,1,2,1,3,b,b,d,d,1,1,1,1,100,2,1,2,3,1,3,c,d,b,c,0,0,0,1,25,1,1,1,1,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3607,10Mar20:08:06:17,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,5,4,4,5,3,3,c,b,a,3,2,4,2,d,1,0,0,0.25,0,0.25,0.25,0,35,5,5,3,2,3,b,b,d,d,1,1,1,1,100,5,5,5,4,4,3,d,b,a,c,0,0,0,1,25,5,5,2,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+978,12Mar20:07:56:13,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,a,c,c,0,1,1,1,75,4,3,2,1,2,5,5,c,d,b,2,1,4,3,c,1,1,0,0,0.25,0.25,0,0,50,2,3,2,4,5,b,b,d,b,1,1,1,0,75,2,2,4,4,3,5,a,d,a,c,0,0,0,1,25,5,5,5,5,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,3,3,5,4,1,1,"it seemed like greater focus was put on the medical
+management of the condition, whilst neglecting the
+biopsychasocial approach to management that
+incorporates Rehabilitation programme.",5,5,4,4,nil,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,4,4,4,3,4,4,1,1,"There is need to increase awareness on
+rehabilitation management.",4,4,3,4,no,b,b,d,d,1,1,1,1,100,4,4,4,4,4,3,4,4,1,1,no,5,4,3,4,no,b,a,a,d,1,0,0,0,25,4,3,4,4,5,4,1,1,no,5,4,3,4,no,"By proper delegation of tasks and responsibilities
+among various health professionals that is taking
+into notice the different disciplines within the health
+system such as the psychologists, social workers,
+nutritionists etc.","By conducting interdisciplinary meetings to engage
+in case follow ups and discussing patient care.","This will help in reminding the need to incorporate
+various disciplines among health professionals to
+establish a holistic approach to patient care.",1
+2554,12Mar20:08:03:24,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,3,3,5,5,b,d,b,5,5,5,5,c,0,1,0,0,0,0,0,0,20,2,2,2,3,5,a,b,d,d,0,1,1,1,75,3,1,1,1,1,5,b,c,a,c,1,1,0,1,75,2,3,2,3,1,a,a,c,e,1,1,1,0,75,4,4,4,3,4,5,5,4,5,1,1,"Advocate for a bigger room for a larger audience/
+learners.",5,4,4,5,Tutorship was par excellent.,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,3,4,5,5,5,1,1,A well done workshop  keep it up.,5,5,4,5,"They should  hold these workshops periodically
+depending on availability of resources.",b,e,d,d,1,0,1,1,75,4,4,4,4,4,5,6,6,3,3,no,6,6,6,6,no,b,c,c,c,1,1,1,1,100,3,3,4,4,5,5,1,1,none,5,4,4,5,"The facilitators explained everything in
+regard to the topic and it was well
+understood.","I will use a watsapp group to try and facilitate inter
+professional collaboration at my workplace. By so
+doing it enables everyone to be knowledgeable
+through interacting asking and answering questions.","I can easily do so by putting into effect guidelines
+learnt during the workshop to facilitate quality
+improvement of my workplace.","The training will help eradicate some of the myths
+and misconceptions surrounding HIV cases
+disclosure and adherence by explaining the
+disadvantages and advantages of getting tested and
+initiating art.",1
+3296,12Mar20:08:11:21,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Other,Female,Zimbabwe,a,a,c,d,1,1,1,0,75,4,3,4,3,1,5,5,c,d,d,4,2,1,3,c,1,1,1,0,0,0,0,0,60,1,1,1,1,5,b,b,d,c,1,1,1,0,75,4,3,4,4,1,5,b,c,a,c,1,1,0,1,75,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,3,4,4,3,5,5,5,5,1,1,This module was well presented,5,4,4,4,"The issues of follow up and strategies to reduce loss
+to follow i think should also be included in the
+module.",c,d,d,3,2,4,1,a,1,1,1,0.25,0,0.25,0,1,90,3,3,3,3,5,4,4,1,1,no,5,5,4,4,"The pharmacy department should also be
+included in the professionalisation training.",b,b,d,d,1,1,1,1,100,4,4,4,4,4,5,5,5,1,1,no,5,4,4,4,"Despite the exposed infants testing negative post
+weaning, i think there is need for a follow up
+schedule on those babies because reports show an
+increased mortality  rate within that group.",c,a,c,a,0,0,1,0,25,4,4,4,4,5,5,1,1,no,5,5,4,4,"I think more youth friendly centres should
+be opened and the need to train more
+health personnel that can deal with
+adolescents.","This workshop has highlighted the importance of
+inter professional collaboration within the health
+setting so one of the ways i am going to incorporate
+inter professional collaboration is to improve
+communication with colleagues.",By giving feedback to my colleagues.,"By ensuring that there is effective communication
+from the time the client gets to the health facility up
+to the time they get home. Effective communication
+at each stage will ensure the patient get a quantum
+of care.",1
+1279,12Mar20:08:19:30,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Laboratory,Female,Zimbabwe,e,a,c,c,0,1,1,1,75,4,1,2,4,2,5,5,c,b,e,5,5,5,5,c,1,0,0,0,0,0,0,0,20,1,1,1,3,5,b,b,d,a,1,1,1,0,75,2,1,1,3,1,1,c,e,a,c,0,0,0,1,25,1,1,3,4,1,a,a,c,c,1,1,1,1,100,3,5,5,5,5,5,5,4,4,1,1,Good presentation.,4,4,4,4,no,c,d,d,1,4,3,2,c,1,1,1,0,0,0,0.25,0,65,5,5,5,5,5,3,3,1,1,no,4,4,4,4,no,b,b,d,d,1,1,1,1,100,5,3,3,4,2,5,4,4,1,1,no,4,4,4,4,no,b,a,c,c,1,0,1,1,75,2,5,2,3,4,4,1,1,no,4,4,4,4,no,"By processing the right tests in time and issue
+results.","By doing procedures according to SOP standard
+operating Procedures.",no,1
+1199,12Mar20:08:35:31,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,1,1,2,3,2,5,5,c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,1,2,3,2,5,b,b,d,d,1,1,1,1,100,2,2,1,2,1,5,c,a,a,a,0,0,0,0,0,1,2,2,3,1,a,a,c,c,1,1,1,1,100,2,3,2,2,2,5,5,6,6,1,1,no,6,6,6,6,no,c,d,d,1,1,4,2,c,1,1,1,0,0.25,0.25,0.25,0,75,2,2,2,3,5,6,6,3,3,no,6,6,6,6,no,b,b,d,d,1,1,1,1,100,2,2,2,3,3,5,6,6,3,3,no,6,6,6,6,no,b,a,c,a,1,0,1,0,50,2,2,2,2,4,4,1,1,no,5,4,4,3,no,"I will use collaborative interprrofessional to care for
+the patient.","Respecting, values and having to come with the
+same goal with colleagues to improve quality care of
+patient.","By providing current information on HIV
+management.",1
+2739,12Mar20:08:42:32,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,b,a,c,c,0,1,1,1,75,3,4,4,3,2,5,5,a,d,b,2,4,3,1,b,0,1,0,0,0,0,0,0,20,4,2,4,4,5,b,b,d,d,1,1,1,1,100,3,3,4,4,4,5,c,d,a,c,0,0,0,1,25,2,1,2,4,1,a,a,c,c,1,1,1,1,100,2,3,3,3,2,5,5,6,6,3,3,no,6,6,6,6,no,b,d,d,3,1,4,2,b,0,1,1,0.25,0.25,0.25,0.25,0,60,3,3,3,4,5,4,4,1,1,no,5,4,4,3,no,b,b,d,a,1,1,1,0,75,3,3,3,3,4,5,4,4,1,1,no,5,4,4,3,no,b,a,c,c,1,0,1,1,75,3,2,2,4,4,4,1,1,no,5,4,4,2,no,"By working as a team remaining blame game and
+picking up from were one has left.
+ Improve
+Communication and interpersonal relationships by
+having feedback's together.",no comment.,"Positive attitude towards patients and improvement
+of self care to reduce risk.
+ Asking about
+procedures if not well tested in them.
+Being open
+if not knowledgeable to reduce risk of HIV through
+injury.",1
+1033,12Mar20:08:49:58,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Medical,Female,Zimbabwe,c,a,c,c,0,1,1,1,75,2,2,3,3,2,5,5,c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,2,2,1,3,5,b,b,d,c,1,1,1,0,75,1,4,3,3,1,5,c,a,a,c,0,0,0,1,25,2,1,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+618,12Mar20:08:57:59,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Male,Zimbabwe,c,a,c,c,0,1,1,1,75,3,2,2,3,2,5,5,b,d,e,5,5,5,5,a,0,1,0,0,0,0,0,1,40,2,3,2,2,5,e,b,d,a,0,1,1,0,50,5,5,5,5,5,5,b,d,a,d,1,0,0,0,25,1,2,5,2,1,a,a,c,c,1,1,1,1,100,2,3,1,3,1,5,5,4,4,1,1,Well presented module.,5,5,4,4,no,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,2,2,2,5,6,6,3,3,no,6,6,6,6,no,b,b,d,a,1,1,1,0,75,4,5,5,5,5,5,6,6,3,3,no,6,6,6,6,no,b,c,c,c,1,1,1,1,100,5,5,5,5,6,6,3,3,no,6,6,6,6,no,no,nil,nil,1
+370,12Mar20:09:14:36,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Other,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,3,3,4,5,5,b,b,d,5,5,5,5,c,0,0,1,0,0,0,0,0,20,3,3,3,3,5,b,b,d,b,1,1,1,0,75,3,4,3,4,3,5,b,d,a,b,1,0,0,0,25,3,3,4,3,1,a,a,c,c,1,1,1,1,100,4,3,3,4,3,5,5,4,4,1,1,It was very well done,5,4,5,4,no,b,d,d,3,1,4,2,c,0,1,1,0.25,0.25,0.25,0.25,0,60,3,2,4,3,5,5,4,1,1,no,5,4,4,5,no,b,b,d,a,1,1,1,0,75,4,4,3,4,2,5,5,4,1,1,no,5,4,5,4,no,b,c,b,c,1,1,0,1,75,2,2,2,3,5,4,1,1,no,5,4,5,4,no,nil,nil,nil,1
+2838,12Mar20:09:23:43,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,3,4,3,5,5,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,2,2,2,5,b,b,d,d,1,1,1,1,100,3,4,2,3,1,5,b,a,a,c,1,0,0,1,50,2,1,1,2,1,a,a,c,c,1,1,1,1,100,3,4,5,4,4,5,5,5,5,1,1,It was extremely well conducted by DR Fawa,5,5,4,4,"The discussions worked very well.
+The probing
+questions asked by the facilitator help derived the
+discussions we had.",c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,4,4,4,5,4,5,1,1,"The facilitation was well done encouraged for
+discussion that engaged the members from
+various fields.",5,5,5,4,"Well conducted i appreciate the discussion all
+give to look for the new guidelines.",b,b,d,a,1,1,1,0,75,3,4,4,4,3,5,4,5,1,1,"Well conducted and helped facilitate
+discussion.",5,4,4,4,no,b,a,b,c,1,0,0,1,50,4,4,4,3,4,5,1,1,"Well conducted.
+Made me more familiar
+with pedratic ART condition.",5,4,4,3,"Well conducted . I would appreciate some
+clarification on the role of other HIV testing
+modalities including the P24Antigen and
+CD4/CD8 ratios etc.","I will incorporate inter professional collaboration in
+my workplace by building professional relationships
+with the staff at my hospital/ Ward, not restricting my
+self to colleagues of my profession alone. I will seek
+opinions from these colleagues and ot","I will assess weaknesses and failures in our systems
+at work and be mindful of the mishaps that occur and
+that dont articulating them and solutions that can
+solve these problems. I will think of the role of other
+professionals in implementing work solutio","I have a better understanding of HIV and especially
+in the context of the new guidelines i am confident in
+approaching patients  at risk of HIV, STRIPE training
+makes me mindful of the fact that i am not alone
+when managing patients and others in the vici",1
+2429,12Mar20:09:37:51,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,5,4,2,3,2,5,5,b,d,d,5,5,5,5,c,0,1,1,0,0,0,0,0,40,2,2,2,3,5,b,b,d,d,1,1,1,1,100,3,3,3,2,1,5,c,c,a,c,0,1,0,1,50,2,2,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1004,12Mar20:09:46:50,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Male,Zimbabwe,c,a,c,c,0,1,1,1,75,2,3,3,2,2,5,5,b,b,c,5,5,5,5,c,0,0,0,0,0,0,0,0,0,2,2,3,2,5,b,b,d,d,1,1,1,1,100,3,2,3,3,1,5,c,c,c,c,0,1,1,1,75,3,2,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3354,12Mar20:09:53:03,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,d,c,1,0,1,1,75,4,4,4,4,4,5,5,c,d,c,2,1,3,4,c,1,1,0,0,0.25,0,0,0,45,4,4,4,4,5,a,b,d,c,0,1,1,0,50,4,4,4,4,4,5,d,d,a,c,0,0,0,1,25,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,4,3,1,1,Was very interesting.,5,4,4,5,It was organised.,c,d,c,3,1,4,2,b,1,1,0,0.25,0.25,0.25,0.25,0,60,4,4,4,4,5,4,4,1,1,Was very organised.,5,4,4,4,no,b,b,c,b,1,1,0,0,50,4,4,4,4,4,5,6,6,3,3,no,6,6,6,6,no,c,a,b,c,0,0,0,1,25,4,4,4,4,6,5,1,1,Was Organised.,5,4,4,6,no,nil,nil,nil,1
+1813,12Mar20:10:29:19,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,a,c,1,0,1,1,75,1,2,4,2,1,5,5,c,d,a,5,5,5,5,c,1,1,0,0,0,0,0,0,40,1,2,1,4,5,b,b,d,a,1,1,1,0,75,1,1,1,1,1,5,b,a,a,a,1,0,0,0,25,2,1,1,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+531,12Mar20:10:38:18,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,b,a,c,c,0,1,1,1,75,3,2,4,4,2,5,5,b,d,b,2,1,4,3,a,0,1,0,0,0.25,0.25,0,1,50,1,2,4,2,5,b,b,d,b,1,1,1,0,75,2,3,2,4,2,5,b,a,a,c,1,0,0,1,50,1,3,1,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,5,5,1,1,Well done.,5,5,5,4,no,b,d,d,3,1,4,2,a,0,1,1,0.25,0.25,0.25,0.25,1,80,4,3,4,4,5,5,5,1,1,no,5,5,4,5,no,b,b,d,a,1,1,1,0,75,4,4,4,4,4,5,6,6,3,3,no,6,6,6,6,no,c,c,c,a,0,1,1,0,50,4,4,4,4,6,6,3,3,no,6,6,6,6,no,nil,nil,nil,1
+886,12Mar20:10:45:25,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,e,a,c,c,0,1,1,1,75,4,4,4,3,1,5,5,b,d,e,5,5,5,5,c,0,1,0,0,0,0,0,0,20,2,1,3,2,5,b,b,d,a,1,1,1,0,75,2,4,1,3,1,5,c,a,a,c,0,0,0,1,25,2,1,2,3,1,a,d,c,c,1,1,0,1,75,4,4,4,4,4,5,5,4,4,1,1,no,5,4,4,4,no,c,b,d,5,5,5,5,b,1,0,1,0,0,0,0,0,40,3,3,3,3,5,4,4,1,1,no,5,4,4,3,no,b,b,d,a,1,1,1,0,75,4,4,4,4,4,5,4,4,1,1,no,5,4,4,4,no,c,d,c,c,0,0,1,1,50,3,3,3,4,4,4,1,1,no,5,4,4,5,no,nil,nil,nil,1
+713,12Mar20:10:52:29,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Laboratory,Female,Zimbabwe,a,a,c,a,1,1,1,0,75,2,2,1,3,1,5,5,c,b,b,5,5,5,5,a,1,0,0,0,0,0,0,1,40,1,1,1,2,5,b,a,d,d,1,0,1,1,75,1,1,1,2,1,5,b,d,a,c,1,0,0,1,50,1,1,1,1,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+808,12Mar20:10:58:16,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,e,a,c,c,0,1,1,1,75,3,4,3,3,3,5,5,c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,3,4,3,5,b,b,d,b,1,1,1,0,75,3,3,4,4,2,5,b,a,a,c,1,0,0,1,50,3,2,3,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,5,5,1,1,no,5,5,4,6,no,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,5,5,5,1,1,no,5,4,4,6,no,b,b,d,c,1,1,1,0,75,4,4,4,4,4,5,5,5,1,1,no,5,4,4,6,no,b,a,c,c,1,0,1,1,75,4,4,4,4,5,5,1,1,no,5,4,4,6,no,no,no,no,1
+3598,12Mar20:11:10:52,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Laboratory,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,3,4,3,3,5,5,d,b,e,5,5,5,5,c,0,0,0,0,0,0,0,0,0,3,3,3,4,5,b,b,d,d,1,1,1,1,100,3,3,3,4,3,5,c,e,d,c,0,0,0,1,25,4,3,3,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+50,12Mar20:11:18:06,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Laboratory,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,2,2,2,5,5,c,b,b,5,5,5,5,c,1,0,0,0,0,0,0,0,20,1,1,1,2,5,b,b,d,d,1,1,1,1,100,2,2,2,3,1,5,c,d,a,c,0,0,0,1,25,2,2,2,2,1,a,a,c,c,1,1,1,1,100,4,3,3,4,3,5,5,4,4,1,1,It was very good,5,4,2,4,no,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,4,4,4,5,4,5,1,1,no,5,4,2,6,no,b,b,d,d,1,1,1,1,100,3,2,3,4,4,5,4,4,1,1,no,5,5,5,6,no,b,d,c,c,1,0,1,1,75,3,2,3,3,4,4,1,1,no,5,5,2,6,no,nil,nil,nil,1
+3577,12Mar20:11:26:22,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Medical,Female,Zimbabwe,a,d,c,c,1,1,0,1,75,3,2,3,4,4,5,5,c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,3,3,2,3,5,b,b,d,c,1,1,1,0,75,2,3,3,3,1,5,b,a,a,c,1,0,0,1,50,2,3,3,3,1,a,d,c,c,1,1,0,1,75,4,3,4,4,4,5,5,5,5,1,1,no,4,4,3,4,no,c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,4,4,4,4,5,4,4,1,1,no,5,5,3,6,Adverse drug reactions with second line drugs.,b,b,d,c,1,1,1,0,75,4,4,4,4,4,5,4,4,1,1,no,4,4,4,3,no,b,a,c,c,1,0,1,1,75,4,4,4,4,4,4,1,1,no,4,4,3,6,no,nil,nil,nil,1
+446,12Mar20:11:33:23,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,3,3,4,1,5,5,b,d,b,3,1,4,2,a,0,1,0,0.25,0.25,0.25,0.25,1,60,1,3,4,4,5,b,b,d,a,1,1,1,0,75,3,1,2,4,2,5,b,a,a,a,1,0,0,0,25,4,3,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1414,12Mar20:11:40:32,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,5,5,4,5,5,5,5,c,d,a,5,5,5,5,c,1,1,0,0,0,0,0,0,40,5,5,5,4,5,b,b,a,d,1,1,0,1,75,5,5,5,4,5,5,c,d,a,c,0,0,0,1,25,4,5,5,5,1,a,a,c,d,1,1,1,0,75,4,4,4,4,4,5,5,4,4,1,1,no,5,4,4,4,no,c,d,d,5,5,5,5,a,1,1,1,0,0,0,0,1,80,4,4,4,4,5,6,6,3,3,nil,6,6,6,6,nil,b,b,d,d,1,1,1,1,100,4,4,4,4,4,5,6,6,3,3,nil,6,6,6,6,nil,a,d,a,c,0,0,0,1,25,3,3,4,4,6,6,3,3,nil,6,6,6,6,nil,"Will keep on communicating with my fellows from
+other departments.Refer patient for counselling and
+laboratory examinations through effective
+communication.",Through interpersonal collaboration.,For the better.,1
+186,12Mar20:11:47:17,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Other,Male,Zimbabwe,a,a,a,c,1,0,1,1,75,1,2,4,4,4,5,5,c,d,d,4,1,3,2,b,1,1,1,0,0.25,0,0.25,0,70,5,5,5,5,5,b,b,d,a,1,1,1,0,75,5,5,5,5,5,5,c,d,a,c,0,0,0,1,25,2,5,5,5,1,a,a,c,c,1,1,1,1,100,4,5,3,3,4,5,5,6,6,3,3,nil,6,6,6,6,nil,c,d,d,4,1,2,3,a,1,1,1,0,0.25,0,0,1,85,4,5,5,5,5,5,5,1,1,"I appreciate the facilitator for reinforcing of post
+exposure, to me i learnt a lot.",5,5,5,2,nil,b,b,d,b,1,1,1,0,75,4,3,4,3,4,5,6,6,3,3,no,6,6,6,6,no,d,d,c,c,0,0,1,1,50,5,5,5,5,6,6,3,3,no,6,6,6,6,no,nil,nil,nil,1
+2676,12Mar20:11:55:46,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,b,1,1,1,0,75,4,4,4,3,3,5,5,c,d,a,2,3,5,5,e,1,1,0,0,0,0,0,0,40,4,4,4,4,4,b,b,d,a,1,1,1,0,75,2,4,4,4,3,5,b,d,a,a,1,0,0,0,25,3,3,3,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,5,5,1,1,All was organised and on point.,5,5,5,5,It was very informative and well organised.,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,5,4,5,1,1,Informative,5,5,5,5,Well presented,b,b,d,a,1,1,1,0,75,4,4,4,4,4,5,5,5,1,1,very organised,5,5,5,5,Well presented.,b,b,c,a,1,0,1,0,50,4,4,4,4,5,5,1,1,Informative,5,5,5,5,Well presented.,nil,nil,nil,1
+1607,12Mar20:12:02:09,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Laboratory,Male,Zimbabwe,c,a,c,e,0,1,1,0,50,4,4,4,4,4,5,5,c,e,e,5,5,5,5,a,1,0,0,0,0,0,0,1,40,3,3,3,3,5,b,a,d,d,1,0,1,1,75,2,2,2,3,2,5,c,a,a,c,0,0,0,1,25,2,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,4,5,1,1,nil,5,5,5,5,nil,c,d,d,5,5,5,5,a,1,1,1,0,0,0,0,1,80,4,4,4,4,5,5,5,1,1,no,5,4,4,4,no,b,b,d,d,1,1,1,1,100,3,4,4,4,4,5,5,5,1,1,nil,5,5,5,5,no,b,d,c,c,1,0,1,1,75,4,4,4,4,4,4,1,1,nil,5,5,4,4,no,"This will be done by implementing inter health care
+standard operating procedures clearly status the role
+played by each health care professional from
+doctors, nurses lab scientist to avoid overstepping of
+other health workers.","Quality improvement of workplace will be
+incorporated through improved professionalisation
+team work and co-operation in the implementation of
+threat of patient with HIV and also put stop
+measures to protect patients from unethical and non
+professional be","It will improve my interaction with patients as i have
+been taught on how best i can disclose counsel and
+manage on HIV patients and those at risk of HIV.",1
+2064,12Mar20:12:12:30,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Other,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,c,d,c,5,5,5,5,d,1,1,0,0,0,0,0,0,40,3,3,3,3,5,b,b,d,b,1,1,1,0,75,4,4,4,4,4,5,c,a,a,c,0,0,0,1,25,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,6,6,3,3,nil,6,6,6,6,no,c,d,d,3,1,4,2,b,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,5,5,5,1,1,nil,5,5,5,5,All was fine.,b,b,d,a,1,1,1,0,75,4,4,4,4,4,5,4,5,1,1,nil,5,5,5,5,nil,d,a,a,c,0,0,0,1,25,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,By respecting each others views.,Putting the patient first prioritising the patient.,"It has imparted knowledge and soft skilled me thus
+fully capacitating me.",1
+993,12Mar20:12:19:06,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,3,3,2,1,5,5,c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,3,1,2,3,5,b,b,d,d,1,1,1,1,100,2,2,1,4,2,5,c,a,a,a,0,0,0,0,0,2,1,2,3,1,a,a,c,c,1,1,1,1,100,4,3,4,3,3,5,5,4,5,1,1,no,5,5,4,4,no,c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,3,4,3,3,5,5,4,1,1,no,4,4,5,5,no,b,b,d,d,1,1,1,1,100,4,3,4,3,4,5,5,4,1,1,no,4,4,5,4,nil,b,c,c,a,1,1,1,0,75,2,3,3,3,5,4,1,1,no,4,4,5,5,nil,"By respecting the norms and values and respecting
+each other as professionals bearing in mind we are
+for the good of the patient therefore our goal should
+be mutual.","By listening to ideas be it from someone junior or
+senior someone from a different profession and
+putting our clients and patients first above all.","This will help to understand the HIV + patients from
+their own point of view taking into consideration the
+barners they face be it in the community or at health
+care facilities and therefore always put them first and
+doing the best i can as a health care",1
+704,12Mar20:12:44:24,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Laboratory,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,2,2,5,5,c,b,b,5,5,5,5,b,1,0,0,0,0,0,0,0,20,1,1,1,1,5,b,b,d,a,1,1,1,0,75,3,1,1,4,1,5,c,a,d,c,0,0,0,1,25,4,1,1,1,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2559,12Mar20:12:51:55,"University
+of
+Zimbabwe","Pre-service
+Student","Harare
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,b,d,a,5,5,5,5,a,0,1,0,0,0,0,0,1,40,3,3,3,4,5,b,e,e,e,1,0,0,0,25,3,4,4,4,1,5,c,a,a,c,0,0,0,1,25,3,4,1,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2434,14Mar20:09:32:12,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,5,5,5,5,5,5,5,b,d,b,2,1,3,4,c,0,1,0,0,0.25,0,0,0,25,3,3,3,4,5,b,b,d,a,1,1,1,0,75,4,4,4,4,3,5,b,a,a,a,1,0,0,0,25,5,5,5,5,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2603,14Mar20:09:40:36,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,5,5,5,5,5,5,5,c,d,d,5,5,5,5,e,1,1,1,0,0,0,0,0,60,3,2,4,2,5,b,b,d,a,1,1,1,0,75,4,3,2,3,1,5,c,a,a,c,0,0,0,1,25,3,3,4,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,6,6,3,3,no,6,6,6,6,no,c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,4,4,4,5,6,6,3,3,no,6,6,6,6,no,b,b,d,a,1,1,1,0,75,4,4,4,4,4,5,6,6,3,3,no,6,6,6,6,no,b,c,a,b,1,1,0,0,50,4,4,4,4,5,4,2,1,"They made the workshop interesting through
+allowing discussions, maximum participation
+as well as sharing individual past
+experiences.",5,5,6,6,"More broad information about subtopic
+which is specific encapertating other tutors
+from various disciplines.",nil,nil,nil,1
+877,14Mar20:09:45:49,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,a,1,1,1,0,75,5,5,5,5,5,5,5,c,d,a,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,3,2,3,5,b,b,d,a,1,1,1,0,75,4,3,1,3,4,5,c,d,a,a,0,0,0,0,0,5,5,5,5,1,a,a,c,c,1,1,1,1,100,3,4,3,3,2,5,5,6,6,3,3,no,6,6,6,6,no,c,d,e,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,3,4,3,5,6,6,3,3,nil,6,6,6,6,nil,b,b,d,a,1,1,1,0,75,4,4,3,4,2,5,6,6,3,3,nil,6,6,6,6,nil,b,a,a,c,1,0,0,1,50,3,3,3,3,4,4,1,1,no,5,4,4,6,More emphasise on ART regimes.,nil,nil,nil,1
+1208,14Mar20:10:01:52,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Medical,Female,Zimbabwe,c,a,c,c,0,1,1,1,75,1,3,3,3,3,5,5,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,3,3,2,5,b,b,d,a,1,1,1,0,75,1,2,1,3,1,5,b,c,a,c,1,1,0,1,75,2,1,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,5,5,6,6,3,3,nil,6,6,6,6,nil,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,4,4,4,5,4,4,1,1,nil,5,4,4,4,nil,b,b,d,a,1,1,1,0,75,4,4,4,4,3,5,6,6,3,3,nil,6,6,6,6,nil,b,c,a,c,1,1,0,1,75,4,4,4,4,4,4,1,1,Great time management,5,5,4,6,nil,"Implementing good communication skills learnt to
+ensure everyone in the teams knows their roles and
+that they are important.",Monitoring others on the course.,"Improve patient care as there will be cooperation
+between different disciplines.
+Learnt new
+guidelines and how to apply them in different
+scenarios.",1
+744,14Mar20:10:09:17,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,a,c,c,0,1,1,1,75,5,5,5,5,5,5,5,c,d,a,5,5,5,5,d,1,1,0,0,0,0,0,0,40,5,5,5,5,5,b,b,d,c,1,1,1,0,75,5,5,5,5,5,5,b,e,e,e,1,0,0,0,25,5,5,5,5,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2257,14Mar20:10:15:11,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Pharmacy,Male,Zimbabwe,a,a,c,a,1,1,1,0,75,2,3,4,3,3,2,5,c,d,d,4,1,5,5,e,1,1,1,0,0.25,0,0,0,65,5,5,5,5,5,b,b,d,a,1,1,1,0,75,5,5,5,5,5,5,a,c,a,c,0,1,0,1,50,5,5,5,5,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1390,14Mar20:10:29:18,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Other,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,3,4,4,3,5,5,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,2,3,4,3,5,b,b,d,b,1,1,1,0,75,2,1,1,1,1,5,c,d,a,d,0,0,0,0,0,2,5,1,1,1,a,a,c,c,1,1,1,1,100,3,3,5,2,1,5,5,4,4,1,1,nil,4,4,4,4,nil,b,d,a,5,1,4,2,b,0,1,0,0,0.25,0.25,0.25,0,35,4,3,3,3,5,5,4,1,1,nil,5,5,4,4,nil,b,b,d,c,1,1,1,0,75,1,2,2,2,2,5,4,4,1,1,nil,5,4,4,4,nil,b,a,a,c,1,0,0,1,50,5,5,5,5,4,4,1,1,nil,4,4,4,4,nil,nil,nil,nil,1
+2037,14Mar20:10:34:52,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,2,1,5,5,c,d,c,2,1,4,3,c,1,1,0,0,0.25,0.25,0,0,50,3,3,3,4,5,a,b,d,a,0,1,1,0,50,3,2,3,3,2,5,c,d,a,b,0,0,0,0,0,3,3,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2318,14Mar20:10:47:18,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,2,2,2,5,5,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,2,2,1,2,5,b,b,d,a,1,1,1,0,75,2,2,2,2,1,5,b,d,a,c,1,0,0,1,50,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1617,14Mar20:10:55:41,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,3,5,5,c,d,b,4,1,3,2,c,1,1,0,0,0.25,0,0.25,0,50,3,1,1,2,5,b,b,d,a,1,1,1,0,75,2,3,3,3,1,5,b,a,a,c,1,0,0,1,50,1,1,1,1,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,5,5,4,4,1,1,no,5,4,4,4,nil,c,d,d,3,1,4,2,b,1,1,1,0.25,0.25,0.25,0.25,0,80,3,2,3,3,5,4,4,1,1,no,5,4,4,4,More time allocation to this module,b,b,d,a,1,1,1,0,75,3,2,2,3,3,5,4,4,1,1,none,5,4,4,4,nil,d,c,c,c,0,1,1,1,75,3,1,2,3,4,4,1,1,nil,5,4,4,4,More time allocation needed.,"Involve all ladies in the care and management of HIV
+patients.
+Giving feedback on benefits of team
+work and treating each other equally.",nil,"Issues of confidentiality from other ladies at the
+facility.",1
+2874,14Mar20:11:04:33,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,1,2,2,2,5,5,b,d,a,2,1,4,3,c,0,1,0,0,0.25,0.25,0,0,30,2,2,2,2,5,c,b,d,d,0,1,1,1,75,2,2,2,3,1,5,a,d,a,a,0,0,0,0,0,1,1,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1811,14Mar20:11:11:24,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+hospital",Nursing/midwifery,Female,Zimbabwe,c,a,c,c,0,1,1,1,75,3,4,4,3,4,5,5,c,d,e,2,1,3,4,c,1,1,0,0,0.25,0,0,0,45,3,3,4,4,5,b,b,d,c,1,1,1,0,75,4,3,3,3,1,5,c,d,a,c,0,0,0,1,25,1,1,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+923,14Mar20:11:18:57,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,a,a,c,0,0,1,1,50,3,2,3,3,1,5,5,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,1,3,3,3,5,b,b,d,a,1,1,1,0,75,2,3,3,3,1,5,c,d,a,c,0,0,0,1,25,1,2,3,2,1,a,a,c,c,1,1,1,1,100,3,4,3,3,2,4,5,4,4,1,1,"It was fruitful, i understood.",6,5,4,4,no,c,d,d,3,1,5,2,c,1,1,1,0.25,0.25,0,0.25,0,75,3,3,3,3,4,4,4,1,1,no,4,3,4,5,Discussion was effective,b,b,d,a,1,1,1,0,75,4,4,4,4,4,5,5,5,1,1,Module understood,5,4,4,5,nil,c,a,a,a,0,0,0,0,0,3,3,3,4,5,5,1,1,Was very knowledgeable.,5,5,4,4,Malnutrition in children,yes,Through giving quality care to clients.,Quality service to clients.,1
+3275,14Mar20:11:27:55,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Medical,Male,Zimbabwe,c,a,c,c,0,1,1,1,75,4,4,3,3,3,5,5,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,3,3,3,3,5,b,b,d,d,1,1,1,1,100,4,4,3,4,2,5,b,e,a,c,1,0,0,1,50,2,2,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+439,14Mar20:11:47:03,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,5,5,5,5,5,5,5,c,d,a,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,3,4,4,5,a,b,d,a,0,1,1,0,50,4,4,4,4,3,5,b,d,a,a,1,0,0,0,25,5,5,5,5,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,nil,5,5,5,4,nil,c,d,c,3,3,4,2,c,1,1,0,0.25,0,0.25,0.25,0,55,4,4,4,4,5,4,4,1,1,nil,5,4,4,4,nil,b,b,d,b,1,1,1,0,75,4,4,4,4,4,4,4,4,1,1,nil,5,4,4,5,nil,b,c,a,c,1,1,0,1,75,4,4,4,4,4,4,1,1,nil,5,4,4,4,nil,nil,nil,nil,1
+1398,14Mar20:11:53:34,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Laboratory,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,5,5,4,5,5,5,5,c,d,b,1,2,2,4,c,1,1,0,0,0,0,0,0,40,5,5,5,4,5,b,b,d,d,1,1,1,1,100,3,5,5,3,5,5,b,a,a,c,1,0,0,1,50,4,5,5,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3643,14Mar20:11:59:58,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,4,3,4,4,5,c,d,c,2,1,3,4,c,1,1,0,0,0.25,0,0,0,45,2,3,4,4,5,e,b,d,c,0,1,1,0,50,4,4,2,4,1,5,b,a,a,c,1,0,0,1,50,4,1,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,Well done keep it up,5,5,4,4,The PREP,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,5,4,5,1,1,Well presented work,5,4,5,4,Well said,b,b,d,c,1,1,1,0,75,4,4,4,4,4,5,4,5,1,1,Job Well done thank you,5,4,4,4,no,b,c,a,c,1,1,0,1,75,4,4,4,4,5,5,1,1,Well prepaired.,5,5,5,5,"Well taught. Please call back for more
+continued education.",nil,nil,nil,1
+52,14Mar20:12:11:48,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,2,2,2,2,5,c,d,c,3,3,1,2,c,1,1,0,0.25,0,0,0.25,0,50,2,1,2,2,5,a,b,d,a,0,1,1,0,50,3,2,2,2,1,5,b,d,a,a,1,0,0,0,25,2,2,2,2,1,a,a,c,c,1,1,1,1,100,2,3,3,4,3,2,5,4,4,1,1,It was quite insightful.,4,5,4,3,nil,c,d,c,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,2,3,2,3,5,5,5,1,1,"TB HIV coinfection was the best module. He
+nailed the module, explained everything well.",5,4,3,3,"The part of demystifying what was the
+""
+Hard"" part of the management, e.g
+withdrawal and reintroduction in Hepatoticity.",b,b,d,a,1,1,1,0,75,4,3,3,3,3,5,3,4,1,1,PMTCT was done well.,4,4,3,3,More on pillars of PMTCT.,b,a,a,a,1,0,0,0,25,3,3,3,3,3,3,1,1,"Great job to be done on ART
+reccommendations.",4,4,4,4,"Why we choose the particular ART
+regimes.","By taking more time to appreciate and consult other
+health professions and contribution in treating a
+patient.",Taking time to consult other professions on a case.,"Holistic approach physical vidiography and
+biological.) i appreciate more of this
+now.
+
+
+Consulting others",1
+2972,14Mar20:12:20:11,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,4,2,3,3,5,b,d,d,3,1,4,4,c,0,1,1,0.25,0.25,0.25,0,0,55,2,3,1,3,5,b,b,d,b,1,1,1,0,75,2,3,2,3,1,5,b,c,a,c,1,1,0,1,75,1,2,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,nil,5,4,5,4,nil,c,d,c,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,4,4,5,5,5,5,1,1,nil,5,5,4,4,nil,b,b,d,b,1,1,1,0,75,4,4,4,4,4,5,4,5,1,1,nil,5,5,4,5,no,b,c,a,c,1,1,0,1,75,4,4,4,4,5,5,1,1,no,5,5,5,4,nil,"Inter professional collaboration is key in effective
+management of patients and i pledge to incorporate
+skill learnt to improve patients care. I will make sure
+that  regard everyone involved in patient care as
+equally important.","After learning thevarious methods of quality
+assessment, I will educate my colleagues on how to
+educate and improve patient care.","I think the STRIPE,HIV, training will provide us with
+an opportunity to improve care for my patients.",1
+1897,14Mar20:12:26:07,"University
+of
+Zimbabwe","Pre-service
+Student","Howard
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,a,c,c,0,1,1,1,75,3,3,3,3,3,5,5,c,d,a,3,4,2,1,c,1,1,0,0.25,0,0,0,0,45,3,3,3,3,5,b,b,d,d,1,1,1,1,100,2,3,2,3,3,5,a,a,a,c,0,0,0,1,25,2,3,2,3,1,d,a,c,c,0,1,1,1,75,3,3,3,3,3,3,5,4,4,1,1,nil,5,5,5,4,nil,c,d,b,4,1,4,3,c,1,1,0,0,0.25,0.25,0,0,50,4,4,4,4,5,4,4,1,1,nil,5,5,5,5,nil,b,b,d,c,1,1,1,0,75,4,4,4,4,4,5,4,4,1,1,nil,5,5,5,4,nil,b,b,a,c,1,0,0,1,50,4,4,4,4,4,4,1,1,nil,5,5,5,5,nil,Interacting with different health care providers.,Doing a suppermarket approach,I will give quality service to clients.,1
+907,16Mar20:13:28:11,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,4,4,3,3,5,c,d,a,5,5,5,5,a,1,1,0,0,0,0,0,1,60,2,2,4,3,4,b,b,d,d,1,1,1,1,100,4,3,3,3,2,2,c,a,a,c,0,0,0,1,25,2,3,3,2,1,a,a,a,c,1,0,1,1,75,1,1,1,1,1,1,5,4,4,1,1,The time allocation in the module was very limited.,5,4,4,5,"All the facilities were well equipped with appropriate
+knowledge and they could answer all questions.",c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,1,1,1,1,1,4,4,1,1,nil,5,4,4,4,nil,b,b,d,d,1,1,1,1,100,1,1,1,1,1,5,4,4,1,1,nil,4,5,5,4,nil,a,a,a,c,0,0,0,1,25,1,1,1,1,4,4,1,1,n/a,4,5,5,5,nil,"By encouraging different professionals to collaborate
+and work together and caring for the patient.",Encouraging team work.,It helped in managing HIV in broad.,1
+194,16Mar20:13:34:46,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,a,a,a,0,0,1,0,25,1,2,2,2,1,2,5,a,d,d,3,1,4,2,b,0,1,1,0.25,0.25,0.25,0.25,0,60,1,1,1,1,2,b,b,a,d,1,1,0,1,75,2,2,1,2,1,1,c,c,a,a,0,1,0,0,25,3,1,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3439,16Mar20:13:39:14,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,4,1,4,4,5,c,d,a,3,2,4,1,c,1,1,0,0.25,0,0.25,0,0,50,3,1,2,4,3,b,b,d,b,1,1,1,0,75,3,4,3,4,1,2,c,a,a,c,0,0,0,1,25,2,2,3,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3240,16Mar20:13:44:34,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,a,c,a,0,1,1,0,50,3,2,2,2,2,3,5,a,d,d,4,3,2,1,b,0,1,1,0,0,0,0,0,40,1,1,1,2,2,b,b,d,d,1,1,1,1,100,2,2,1,2,1,2,c,a,a,c,0,0,0,1,25,1,2,1,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3532,16Mar20:13:54:24,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,4,3,3,3,5,b,d,b,5,5,5,5,c,0,1,0,0,0,0,0,0,20,1,2,3,3,3,b,b,d,d,1,1,1,1,100,3,2,3,4,3,4,b,a,a,a,1,0,0,0,25,3,2,3,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+106,16Mar20:13:59:13,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,1,4,1,3,1,1,5,c,d,a,5,5,5,5,c,1,1,0,0,0,0,0,0,40,2,3,3,2,3,b,b,d,d,1,1,1,1,100,3,2,4,4,1,4,c,d,a,c,0,0,0,1,25,1,1,2,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2567,16Mar20:14:12:20,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,3,4,2,2,5,5,a,d,a,1,3,4,2,b,0,1,0,0,0,0.25,0.25,0,30,2,2,2,1,2,b,b,d,b,1,1,1,0,75,2,2,2,2,2,2,c,b,a,c,0,0,0,1,25,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+115,16Mar20:14:16:29,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Medical,Male,Zimbabwe,a,a,a,c,1,0,1,1,75,3,3,3,3,4,2,5,c,d,a,4,1,3,2,d,1,1,0,0,0.25,0,0.25,0,50,3,3,3,4,4,b,b,d,a,1,1,1,0,75,3,3,3,3,2,2,d,c,a,c,0,1,0,1,50,5,5,5,5,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1082,16Mar20:14:29:16,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,1,2,3,2,2,5,d,d,c,1,5,5,5,c,0,1,0,0,0,0,0,0,20,2,1,1,1,1,b,b,d,a,1,1,1,0,75,2,3,2,3,1,3,c,d,a,c,0,0,0,1,25,3,2,1,1,1,a,a,c,c,1,1,1,1,100,4,3,4,4,4,3,5,5,4,1,1,Explain more on contraception in HIV.,4,5,4,5,"The role playing was effective but contraception  in
+HIV should be emphasized more.",c,d,d,5,5,5,5,c,1,1,1,0,0,0,0,0,60,4,3,2,4,4,5,5,1,1,Module too long,4,4,4,4,"No role and since module was long a role play
+was needed.",b,b,d,c,1,1,1,0,75,4,4,4,3,4,4,5,5,1,1,"It was very educating on drug
+combination.",5,5,5,5,Examples worked well.,b,c,c,c,1,1,1,1,100,4,3,4,4,5,5,1,1,To know about treatment failure.,5,5,5,5,nil,"Attend to patients as a  team including all
+departments available.",Team work,To work as a team for proper results.,1
+2943,16Mar20:14:34:38,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,1,3,4,1,1,2,5,b,d,b,3,1,4,2,a,0,1,0,0.25,0.25,0.25,0.25,1,60,1,1,2,4,3,b,b,c,d,1,1,0,1,75,2,2,1,4,1,1,c,a,a,a,0,0,0,0,0,2,1,2,1,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+284,16Mar20:14:40:13,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,4,3,3,3,5,c,d,c,5,5,5,5,c,1,1,0,0,0,0,0,0,40,2,3,3,3,3,b,b,d,a,1,1,1,0,75,3,3,3,3,3,3,a,d,a,c,0,0,0,1,25,2,3,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2252,16Mar20:14:44:43,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,a,c,1,0,1,1,75,2,1,2,1,1,2,5,a,d,a,5,5,5,5,b,0,1,0,0,0,0,0,0,20,1,1,2,2,1,e,b,d,d,0,1,1,1,75,2,2,1,2,1,2,c,c,a,c,0,1,0,1,50,2,1,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2675,16Mar20:14:48:54,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,a,c,1,0,1,1,75,2,1,2,5,5,5,5,a,d,a,2,3,1,4,a,0,1,0,0,0,0,0,1,40,1,1,1,2,1,b,b,d,b,1,1,1,0,75,2,2,1,1,1,1,c,a,a,c,0,0,0,1,25,1,1,1,1,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1059,16Mar20:14:53:33,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Other,Male,Zimbabwe,a,a,a,b,1,0,1,0,50,3,2,2,3,2,3,5,c,d,a,3,4,2,1,a,1,1,0,0.25,0,0,0,1,65,3,2,3,4,2,b,b,d,d,1,1,1,1,100,3,2,3,2,3,2,a,d,c,c,0,0,1,1,50,3,2,3,2,1,a,a,a,c,1,0,1,1,75,4,3,4,4,2,3,5,5,4,1,1,"The methodology used was indeed educative and
+lively slides 1 role plays and demos.",5,4,4,4,"Collaboration among professions during patient care
+and management is fundamental and ""CHIP"" is the
+step in the right directions.",c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,3,2,3,2,2,4,4,1,1,Excellent Q1 is critical in standard of care.,5,5,5,5,The module was comprehensive.,b,b,d,d,1,1,1,1,100,3,3,2,3,3,3,5,5,1,1,Helpful and Educative.,5,5,5,5,"More time could have been allocated to cover silent
+topics.",b,d,c,c,1,0,1,1,75,3,3,3,3,5,5,1,1,Educative,5,5,5,5,"There is need to include nutrition in
+PAEDIARIC during HIV ART in future
+modules.","Feed back
+Creating IPC workplace programme",Quality indicator checklist Department.,"Improved Quality of care.
+Enhanced adherence to
+ART treatment.
+Reduced infection rates
+HIV
+Case mortality and morbidity among HIV
+patients.",1
+1498,16Mar20:14:58:05,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,1,3,4,3,5,b,d,b,3,1,4,2,c,0,1,0,0.25,0.25,0.25,0.25,0,40,1,1,1,1,1,b,b,d,b,1,1,1,0,75,4,3,3,4,1,3,c,c,a,c,0,1,0,1,50,4,3,2,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,nil,5,5,5,5,nil,e,d,d,3,1,4,2,d,0,1,1,0.25,0.25,0.25,0.25,0,60,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,no,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,b,a,c,c,1,0,1,1,75,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,Interact more with other professional.,Encourage more inter professional education.,Now know the management protocols.,1
+3414,16Mar20:15:08:26,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Medical,Male,Zimbabwe,a,a,a,c,1,0,1,1,75,4,4,4,4,2,4,5,b,d,a,5,5,2,5,a,0,1,0,0,0,0,0,1,40,4,2,2,4,4,b,b,c,d,1,1,0,1,75,2,2,4,2,2,2,d,a,a,c,0,0,0,1,25,3,3,3,3,1,a,a,c,c,1,1,1,1,100,3,2,3,2,3,2,5,4,4,1,1,It was well conducted but needs more time,5,4,4,4,It was well conducted,c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,2,3,3,2,4,4,4,1,1,It was well done,5,4,4,4,Well conducted,b,b,a,d,1,1,0,1,75,3,3,2,3,2,3,4,4,1,1,More time allocation,5,4,4,4,Well conducted,d,c,c,c,0,1,1,1,75,3,5,2,3,5,4,1,1,Conducted well,5,4,4,4,Well done,"By working with all health personnel and practising
+good communication",Practising interprofession collaboration.,"It helps in having a better understanding of the
+patient condition through working or
+interproffessional collaboration.
+
+Also assists in
+getting help from other colleagues so as to get a
+better diagnosis for the patients problems and
+implementation strate",1
+3100,16Mar20:15:13:05,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,a,c,1,0,1,1,75,2,4,2,2,1,2,5,a,d,d,4,1,3,2,d,0,1,1,0,0.25,0,0.25,0,50,5,5,5,5,5,a,b,d,c,0,1,1,0,50,2,2,2,2,2,2,c,b,a,c,0,0,0,1,25,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3160,16Mar20:15:20:47,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Male,Zimbabwe,c,a,c,c,0,1,1,1,75,2,3,2,3,3,2,5,b,d,d,3,1,4,4,c,0,1,1,0.25,0.25,0.25,0,0,55,2,3,3,3,3,b,b,d,d,1,1,1,1,100,3,3,3,4,2,3,d,c,a,c,0,1,0,1,50,4,1,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+234,16Mar20:15:24:50,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,a,c,1,0,1,1,75,3,3,4,3,1,2,5,c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,2,1,3,3,2,b,b,d,b,1,1,1,0,75,3,3,3,2,1,2,c,d,a,c,0,0,0,1,25,2,2,2,2,1,a,a,c,c,1,1,1,1,100,4,3,3,3,3,3,5,4,4,1,1,"Facilitation was good and they were promoting
+equality and communition between the
+proffessionals",5,4,4,4,All was well,c,d,d,5,5,5,5,a,1,1,1,0,0,0,0,1,80,3,3,4,4,3,4,4,1,1,NONE,5,4,4,4,no,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,no,5,5,4,4,"The fathers to be included in PMTCT so as to limit
+infecting or reinfecting the mother with HIV.",b,c,c,b,1,1,1,0,75,4,4,4,4,4,4,1,1,none,5,5,4,4,no,"Having routine meetings with different proffessionals
+e.g nurse and doctors to meet in the ward and
+discuss condition of the patient.","By continue practicing interprofessional
+collaboration.","It is going to improve my care of patient in terms of
+communication skills and how to give counselling to
+promote adherence.",1
+1763,16Mar20:15:29:40,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Laboratory,Female,Zimbabwe,a,a,a,b,1,0,1,0,50,3,3,2,3,1,2,5,c,b,d,3,4,1,2,c,1,0,1,0.25,0,0,0.25,0,50,2,3,3,2,4,b,b,d,d,1,1,1,1,100,1,4,4,4,1,4,b,c,a,c,1,1,0,1,75,1,4,3,1,1,a,a,a,c,1,0,1,1,75,4,4,4,4,3,4,5,4,4,1,1,nil,5,4,4,5,"Learning the stages from when an HIV status is
+disclosed to a patient, counselling and administering
+the patient on ART really worked well.",c,d,a,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,4,4,4,4,5,4,1,1,nil,5,5,5,5,none,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,4,1,1,none,5,5,4,4,nil,b,a,b,c,1,0,0,1,50,4,4,4,4,4,4,1,1,nil,5,4,4,3,nil,"By conducting short meetings for health discussions
+with other health personnel.","By setting goals and working through attaining them
+within the workplace.","I t has given me confidence to work with patients and
+being able to give them all the prefered assistance
+they may require.
+Patients will recieve adequate
+counselling.",1
+2706,16Mar20:15:38:50,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,2,1,2,2,5,c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,1,3,2,2,2,b,b,d,b,1,1,1,0,75,4,3,1,4,1,4,b,c,a,c,1,1,0,1,75,3,1,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+814,16Mar20:15:43:12,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,4,2,3,4,5,b,d,b,5,5,5,5,d,0,1,0,0,0,0,0,0,20,3,3,3,3,4,b,b,d,d,1,1,1,1,100,3,4,4,4,2,4,b,a,a,c,1,0,0,1,50,4,3,4,4,1,a,a,c,c,1,1,1,1,100,3,4,4,3,3,3,5,4,4,1,1,nil,5,4,4,4,About TB,b,d,b,4,1,3,2,a,0,1,0,0,0.25,0,0.25,1,50,3,3,3,3,3,4,4,1,1,NIL,5,4,4,4,More on TB,b,b,d,a,1,1,1,0,75,3,3,3,3,3,3,5,4,1,1,NIL,5,4,4,4,More on TB coinfection.,d,a,c,c,0,0,1,1,50,3,3,3,3,4,4,1,1,No they are well explained.,5,4,4,4,TB coinfection,"Improving on communication skills.
+Helping in
+patient care.","Teaching others IPE.
+Collaborating well with
+others.
+Engaging everyone as co-workers in
+managing the patient.","Helps in counselling patients.
+Promoting
+coherency.
+Managing those clients who should
+have different ART.",1
+3548,16Mar20:15:47:35,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,4,1,3,4,5,b,d,d,5,5,5,5,a,0,1,1,0,0,0,0,1,60,4,3,4,3,2,b,b,d,d,1,1,1,1,100,3,4,2,3,1,2,b,c,a,c,1,1,0,1,75,3,2,3,4,1,a,a,a,c,1,0,1,1,75,4,4,4,4,4,4,5,5,5,1,1,The facilitators helped us to think out of the box.,5,5,4,4,The role  plays worked very well.,c,b,e,5,5,5,5,a,1,0,0,0,0,0,0,1,40,4,4,4,4,4,4,5,1,1,I learnt new things especially with HIV and TB,5,5,5,4,nil,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,4,5,1,1,nil,5,5,5,5,nil,b,c,a,c,1,1,0,1,75,4,4,4,4,4,5,1,1,nil,5,5,5,4,nil,By performing professional team work.,Team members to do their roles.,"Now helps us to care patients with HIV and those at
+high risk.",1
+38,18Mar20:08:01:40,"University
+of
+Zimbabwe","Pre-service
+Student","MSU Gweru
+Provincial
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,3,3,3,3,5,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,3,3,b,b,d,a,1,1,1,0,75,4,4,4,4,3,3,d,a,a,d,0,0,0,0,0,4,4,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3314,18Mar20:08:07:47,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,3,3,3,5,5,b,d,c,5,5,5,5,a,0,1,0,0,0,0,0,1,40,2,2,3,3,2,b,b,d,a,1,1,1,0,75,2,3,2,3,1,3,c,c,a,d,0,1,0,0,25,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1072,18Mar20:08:13:43,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,b,c,c,1,1,0,1,75,4,3,4,2,3,4,5,b,d,e,5,5,5,5,c,0,1,0,0,0,0,0,0,20,4,3,3,4,3,c,b,d,c,0,1,1,0,50,4,3,4,3,4,3,b,e,a,c,1,0,0,1,50,3,3,4,4,1,a,a,b,c,1,0,1,1,75,4,3,4,4,4,3,5,4,5,1,1,nil,5,4,4,5,nil,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,5,5,1,1,nil,5,4,5,5,nil,b,b,d,a,1,1,1,0,75,4,4,3,4,3,4,5,5,1,1,nil,5,5,4,5,nil,b,a,a,c,1,0,0,1,50,3,4,3,4,5,5,1,1,nil,5,5,4,5,nil,nil,nil,nil,1
+2070,18Mar20:08:18:16,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,3,2,5,a,d,a,3,1,4,2,b,0,1,0,0.25,0.25,0.25,0.25,0,40,3,3,2,2,2,b,a,d,d,1,0,1,1,75,3,2,3,2,2,3,a,a,a,c,0,0,0,1,25,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+614,18Mar20:08:22:24,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,2,3,3,5,c,d,c,5,5,5,5,a,1,1,0,0,0,0,0,1,60,2,2,3,2,2,b,b,d,a,1,1,1,0,75,4,3,2,4,1,3,b,a,a,a,1,0,0,0,25,2,4,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1791,18Mar20:08:26:46,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,2,3,3,3,5,c,d,c,1,3,2,2,c,1,1,0,0,0,0,0.25,0,45,4,3,3,4,3,b,b,d,a,1,1,1,0,75,3,4,4,3,3,4,b,c,b,c,1,1,0,1,75,2,1,2,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,3,3,5,5,5,1,1,"It would be more enlightening if the workshop would
+stretch for a week.",4,5,4,5,"Interactive learning worked well and mixing people of
+different medical fields on one table. 
+Issue
+homosexuality and gender based violence towards
+men from women needed to be raised more during
+workshops.",c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,3,3,3,3,5,5,1,1,nil,5,5,5,5,nil,b,b,d,d,1,1,1,1,100,3,3,4,4,3,3,5,5,1,1,nil,5,5,5,5,nil,b,c,a,c,1,1,0,1,75,3,3,3,3,5,5,1,1,nil,5,5,5,5,nil,Although group emails and whatsapp groups.,Emails group and watsapp groups,"Improve insight and management of patient different
+view as to social challenges of patients.",1
+2814,18Mar20:08:31:02,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,5,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,3,3,3,3,b,b,d,b,1,1,1,0,75,3,3,3,3,3,3,b,a,a,c,1,0,0,1,50,3,3,3,3,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,5,5,5,1,1,"Very helpful and should happen again for different
+topics.",5,5,5,5,Very effective and helpful.,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,3,3,3,5,5,1,1,"Very helpful and should happen again for
+different topics",5,5,5,5,Very effective and helpful.,b,b,d,b,1,1,1,0,75,3,3,3,3,3,3,5,5,1,1,"Very helpful and should happen also
+for other different topics.",5,5,5,5,Very helpful and effective.,c,a,a,c,0,0,0,1,25,3,3,3,3,5,5,1,1,Very helpful,5,5,5,5,Very effective,"I will incorporate it thoroughly as it promotes
+multidisciplinary approaches in managing patients.","Plan interproffessional collaboration.
+Encourage
+ideas from other individuals.",Iit increase patient care and its effectiveness.,1
+2702,18Mar20:08:35:01,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,2,2,2,2,5,c,d,a,4,1,3,2,e,1,1,0,0,0.25,0,0.25,0,50,3,2,3,3,3,b,b,d,d,1,1,1,1,100,3,3,3,3,3,3,b,e,a,c,1,0,0,1,50,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2058,18Mar20:08:40:29,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,4,4,3,3,5,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,2,3,2,4,3,b,b,d,b,1,1,1,0,75,4,3,4,4,1,3,b,c,a,c,1,1,0,1,75,4,4,3,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1144,18Mar20:08:49:17,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,2,2,4,4,5,b,d,d,3,1,4,2,c,0,1,1,0.25,0.25,0.25,0.25,0,60,2,3,3,3,3,b,b,d,c,1,1,1,0,75,4,2,3,4,2,4,b,e,a,c,1,0,0,1,50,3,2,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3059,18Mar20:08:53:30,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,3,4,3,5,c,d,a,5,5,5,5,b,1,1,0,0,0,0,0,0,40,2,2,3,3,3,b,b,d,a,1,1,1,0,75,3,3,3,4,3,4,b,c,a,c,1,1,0,1,75,4,2,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1858,18Mar20:09:08:15,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Pharmacy,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,c,d,b,4,1,3,2,a,1,1,0,0,0.25,0,0.25,1,70,3,4,4,4,4,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,c,c,a,c,0,1,0,1,50,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,4,4,1,1,Lets have more of such workshops and refreshers.,5,4,4,5,Discussions helped enlighten more add knowledge.,c,d,e,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,4,4,4,4,4,4,1,1,Well done and delivered,5,4,4,4,"When we did discussion.
+I learnt a lot and
+cleared questions i had.",b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,4,4,1,1,Keep up the good work,5,4,4,4,"Very informative work contributions made by the
+different proffessionals available",b,a,c,a,1,0,1,0,50,4,4,4,4,4,4,1,1,Good job,5,4,4,4,nil,"Share ideas and knowledge in proper management
+of patients in all scenarios discussed","Improve service delivery to patients, hear patient
+concerns.","I have gained knowledge. I will share with others
+back at work to improve service delivery to patients.",1
+3134,18Mar20:09:35:10,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,b,d,b,3,1,4,2,c,0,1,0,0.25,0.25,0.25,0.25,0,40,2,3,4,4,4,b,b,d,a,1,1,1,0,75,4,4,4,4,2,2,c,a,d,c,0,0,0,1,25,3,3,2,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2479,18Mar20:09:42:26,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Pharmacy,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,3,4,4,5,c,d,d,5,5,4,2,e,1,1,1,0,0,0.25,0.25,0,70,4,3,4,4,4,b,b,d,a,1,1,1,0,75,3,4,4,4,4,4,e,c,a,c,0,1,0,1,50,1,5,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+933,18Mar20:09:51:41,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,a,c,c,0,1,1,1,75,4,4,4,4,4,4,5,c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,3,4,4,4,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,b,a,a,a,1,0,0,0,25,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,4,1,1,"The case presentations help participants to visualise
+scenarios at their workplace and this is a very good
+teaching tool.",5,5,5,5,nil,c,d,d,5,5,5,5,c,1,1,1,0,0,0,0,0,60,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,b,a,a,c,1,0,0,1,50,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,Mentoring colleagues on IPE,"IPE, use of standard operating procedures and tools,
+refresher courses on post exposure prophylaxis so
+that all health workers are aware.","It has greatly improved my knowledge and improved
+my competency because knowledge is power thus
+better care to patients.",1
+1596,18Mar20:09:56:25,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,3,4,4,2,4,5,c,b,b,5,5,5,5,b,1,0,0,0,0,0,0,0,20,5,5,5,5,5,b,b,d,c,1,1,1,0,75,4,3,4,4,4,4,c,c,a,b,0,1,0,0,25,3,4,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2777,18Mar20:10:02:58,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,3,3,2,5,c,d,d,5,2,5,1,b,1,1,1,0,0,0,0,0,60,3,2,1,3,4,a,b,d,a,0,1,1,0,50,3,2,3,3,1,2,b,a,a,c,1,0,0,1,50,2,2,1,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+911,18Mar20:10:07:49,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,c,d,c,c,0,1,0,1,50,4,4,3,4,4,4,5,b,d,a,3,1,4,2,a,0,1,0,0.25,0.25,0.25,0.25,1,60,4,4,4,4,4,b,b,d,b,1,1,1,0,75,4,4,4,4,3,4,c,a,a,a,0,0,0,0,0,4,4,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3189,18Mar20:10:17:28,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Pharmacy,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,b,b,d,a,1,1,1,0,75,3,4,4,4,2,4,c,c,a,b,0,1,0,0,25,3,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,4,5,1,1,Well balanced team of facilitators.,5,5,5,5,nil,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,5,5,1,1,nil,5,5,5,4,nil,c,c,a,b,0,1,0,0,25,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,"Will incorporate and appreciate the importance of
+other departments in the provision of medical care.","Educate sensitize other healthcare workers on how
+to avoid needstick injuries by keeping the
+environment safe.","The training has offered skills on how to handle
+different kinds of patients women and children
+included.",1
+1562,18Mar20:10:21:23,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Pharmacy,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,1,3,3,2,3,5,c,d,d,5,5,5,5,c,1,1,1,0,0,0,0,0,60,2,2,3,2,2,b,b,d,d,1,1,1,1,100,5,5,5,5,5,5,a,c,a,c,0,1,0,1,50,5,5,5,5,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2335,18Mar20:10:27:41,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,4,4,4,4,b,b,d,c,1,1,1,0,75,4,4,4,4,4,4,b,d,a,c,1,0,0,1,50,5,5,5,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2138,18Mar20:10:32:07,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,c,d,c,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,4,4,4,4,b,b,d,c,1,1,1,0,75,4,4,4,4,4,4,b,a,a,c,1,0,0,1,50,4,4,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2821,18Mar20:10:35:52,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,c,d,c,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,4,4,4,4,b,b,d,c,1,1,1,0,75,4,4,4,4,3,4,b,a,a,c,1,0,0,1,50,4,3,2,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+854,18Mar20:10:39:55,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,4,4,3,4,4,5,c,d,b,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,2,3,3,3,b,e,d,c,1,0,1,0,50,2,3,3,3,3,3,b,a,a,c,1,0,0,1,50,3,3,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+17,18Mar20:10:44:29,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Other,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,2,2,1,3,5,c,d,c,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,1,1,1,2,2,b,b,d,c,1,1,1,0,75,3,1,1,2,1,3,c,d,a,c,0,0,0,1,25,1,2,1,2,1,a,a,c,c,1,1,1,1,100,3,2,2,3,2,3,5,4,5,1,1,"The facilitation was done well although more time
+could have been allocated for the sessions.",5,4,4,4,"Case presentations worked well for all sessions by
+giving context.",c,d,d,5,5,5,5,a,1,1,1,0,0,0,0,1,80,2,2,2,2,3,5,5,1,1,nil,5,4,4,4,nil,b,b,d,a,1,1,1,0,75,3,3,3,3,2,3,5,5,1,1,nil,5,5,4,6,nil,b,a,a,c,1,0,0,1,50,3,2,2,3,5,5,1,1,nil,5,5,5,5,nil,"Ensuring that there is mentorship, peer to peer
+support on HIV Health issues at workplace to
+improve the outcomes of patients.",nil,"Now more knowledgeable on managing patients in a
+multidiscipinary team",1
+240,18Mar20:11:12:12,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,3,3,3,3,5,d,d,d,3,4,1,2,a,0,1,1,0.25,0,0,0.25,1,70,2,2,2,2,2,b,b,d,b,1,1,1,0,75,2,2,3,4,3,3,b,d,a,c,1,0,0,1,50,2,2,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+361,18Mar20:11:17:46,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Pharmacy,Male,Zimbabwe,d,a,c,c,0,1,1,1,75,4,4,4,3,3,4,5,d,d,c,5,5,1,2,a,0,1,0,0,0,0,0.25,1,45,4,4,3,4,4,b,b,d,d,1,1,1,1,100,1,4,3,4,3,3,c,d,a,c,0,0,0,1,25,3,2,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3107,18Mar20:11:22:13,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Other,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,3,4,4,4,4,5,c,d,c,5,5,5,5,c,1,1,0,0,0,0,0,0,40,4,4,3,4,4,b,b,d,c,1,1,1,0,75,5,5,5,5,5,5,b,a,a,c,1,0,0,1,50,4,3,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2619,18Mar20:11:26:31,"University
+of
+Zimbabwe","Pre-service
+Student","NUST M pilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,d,a,c,c,0,1,1,1,75,4,4,3,4,3,4,5,d,d,b,2,1,4,3,b,0,1,0,0,0.25,0.25,0,0,30,3,3,3,2,2,b,b,d,a,1,1,1,0,75,4,2,4,1,4,5,b,a,a,c,1,0,0,1,50,2,3,2,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3243,18Mar20:11:30:45,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Male,Zimbabwe,c,a,a,c,0,0,1,1,50,1,1,2,1,1,1,5,d,d,d,5,5,5,5,a,0,1,1,0,0,0,0,1,60,1,1,1,1,1,b,b,d,c,1,1,1,0,75,1,1,1,1,1,1,b,c,a,c,1,1,0,1,75,1,1,1,1,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+860,18Mar20:11:36:32,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,2,2,3,5,b,d,c,4,1,3,2,a,0,1,0,0,0.25,0,0.25,1,50,2,2,2,2,2,b,b,d,d,1,1,1,1,100,3,3,2,3,1,3,b,a,a,c,1,0,0,1,50,1,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1016,19Mar20:08:52:05,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,4,2,3,3,3,5,b,d,d,3,1,4,2,c,0,1,1,0.25,0.25,0.25,0.25,0,60,2,2,3,3,3,b,b,d,d,1,1,1,1,100,3,3,3,3,2,3,b,d,a,c,1,0,0,1,50,2,2,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+774,19Mar20:09:02:07,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,c,d,b,2,1,4,3,b,1,1,0,0,0.25,0.25,0,0,50,4,4,4,4,4,a,b,d,a,0,1,1,0,50,4,4,4,4,4,4,c,a,a,a,0,0,0,0,0,3,3,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1445,19Mar20:09:18:08,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,d,a,c,c,0,1,1,1,75,4,4,4,3,4,4,5,b,d,e,5,5,5,1,b,0,1,0,0,0,0,0,0,20,3,2,2,4,4,a,b,d,c,0,1,1,0,50,4,3,5,4,5,4,d,d,a,b,0,0,0,0,0,5,3,3,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3322,19Mar20:09:23:31,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Medical,Female,Zimbabwe,e,a,c,c,0,1,1,1,75,4,4,3,3,4,3,5,c,d,d,3,1,4,2,d,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,b,b,d,a,1,1,1,0,75,3,4,4,4,2,4,b,c,a,c,1,1,0,1,75,4,2,4,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1516,19Mar20:09:32:53,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mplilo
+Hospital",Other,Female,Zimbabwe,a,a,a,c,1,0,1,1,75,4,4,4,3,4,3,5,c,d,d,3,1,4,2,d,1,1,1,0.25,0.25,0.25,0.25,0,80,1,1,2,1,2,b,b,d,a,1,1,1,0,75,4,4,4,3,3,3,c,a,a,a,0,0,0,0,0,3,3,2,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2315,19Mar20:09:36:35,"University
+of
+Zimbabwe","Pre-service
+Student","NUST Mpilo
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,3,4,4,4,4,c,d,d,2,1,4,3,a,1,1,1,0,0.25,0.25,0,1,90,3,4,4,4,4,b,b,d,a,1,1,1,0,75,4,4,4,4,1,4,b,c,a,a,1,1,0,0,50,4,3,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+866,19Mar20:10:25:42,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,3,2,3,5,c,d,b,1,3,4,2,c,1,1,0,0,0,0.25,0.25,0,50,4,4,3,4,4,b,b,d,d,1,1,1,1,100,3,3,4,4,3,4,c,d,a,d,0,0,0,0,0,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,nil,4,4,4,5,nil,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,5,5,1,1,nil,5,3,4,4,nil,b,b,d,b,1,1,1,0,75,4,4,4,4,4,4,4,4,1,1,nil,4,5,5,5,nil,b,a,a,c,1,0,0,1,50,4,4,4,4,4,4,1,1,nil,5,4,4,6,nil,"I would encourage team based care were all
+proffessionals intercommunicate hence they will
+make decisions and give each other ideas.",,"I learnt that when caring for HIV patient you have to
+practice mostly holistic care where a look at the
+psychological aspect as well",1
+1687,19Mar20:10:30:33,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,3,3,1,3,5,c,e,b,1,3,4,2,c,1,0,0,0,0,0.25,0.25,0,30,3,2,3,3,3,b,b,d,a,1,1,1,0,75,3,2,3,4,1,3,c,d,a,c,0,0,0,1,25,3,3,3,3,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,nil,5,5,5,5,nil,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,b,c,a,c,1,1,0,1,75,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,"Practising cooperation to improve quality of care
+patients, thereby improving patient outcome","by practising professionalisation collaboration and
+improving communication",Improving quality of care to improve patient outcome,1
+845,19Mar20:10:35:14,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,3,3,4,4,5,c,d,b,1,4,3,2,c,1,1,0,0,0,0,0.25,0,45,3,3,2,4,4,b,b,d,d,1,1,1,1,100,3,2,2,4,2,4,c,a,a,c,0,0,0,1,25,2,3,3,4,1,a,a,c,c,1,1,1,1,100,3,4,4,4,3,4,5,5,5,1,1,nil,5,5,4,5,nil,c,d,e,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,3,4,4,3,4,5,4,1,1,nil,5,5,4,4,nil,b,b,d,a,1,1,1,0,75,4,4,3,4,4,3,5,4,1,1,nil,5,5,5,5,nil,b,c,a,c,1,1,0,1,75,4,4,4,4,5,4,1,1,nil,5,4,4,5,"By actively participating as a team member
+in providing holistic case to the patient","By actively participating as a team member in
+providing holistic case to the patient","By changing some aspects of my care to bring them
+up to current standards which are evidence based.","It will improve the care i give as i here been
+equipped with additional and current information.",1
+889,19Mar20:10:40:13,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,1,2,3,4,4,4,5,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,4,4,4,4,4,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,c,d,b,c,0,0,0,1,25,4,4,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3455,19Mar20:10:55:10,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,a,1,1,1,0,75,3,2,1,1,2,2,5,c,d,a,3,2,4,1,b,1,1,0,0.25,0,0.25,0,0,50,2,2,2,1,1,a,b,d,d,0,1,1,1,75,3,3,3,3,1,1,a,d,c,d,0,0,1,0,25,3,2,2,1,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+3104,19Mar20:11:10:57,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,5,1,3,2,5,b,d,b,2,3,4,1,c,0,1,0,0,0,0.25,0,0,25,4,3,3,2,2,a,a,d,d,0,0,1,1,50,3,3,2,3,2,4,b,d,a,c,1,0,0,1,50,2,2,3,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2697,19Mar20:11:16:24,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,1,4,3,3,4,4,5,c,d,b,1,3,4,2,a,1,1,0,0,0,0.25,0.25,1,70,4,4,4,4,4,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,c,d,a,c,0,0,0,1,25,4,4,4,4,1,a,a,c,c,1,1,1,1,100,4,4,4,4,4,4,5,5,5,1,1,nil,5,5,5,4,nil,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,5,5,1,1,nil,5,5,5,4,nil,b,b,d,d,1,1,1,1,100,4,4,4,4,4,4,5,5,1,1,nil,5,5,5,4,nil,b,d,a,c,1,0,0,1,50,4,4,4,4,5,5,1,1,nil,5,5,5,4,nil,"Accepting each profession as an interdependent
+profession and encourage participation on ward
+rounds and ground rounds.",By being up to date with current practices.,Improved quqality of care to people living with HIV.,1
+3000,19Mar20:11:29:48,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,1,3,1,2,2,5,c,d,b,3,1,4,2,e,1,1,0,0.25,0.25,0.25,0.25,0,60,2,3,3,3,2,b,b,d,a,1,1,1,0,75,1,1,2,2,3,2,b,c,a,c,1,1,0,1,75,2,3,2,2,1,a,a,c,c,1,1,1,1,100,3,3,3,2,3,3,5,4,5,1,1,nil,5,3,4,2,nil,c,d,d,3,4,5,2,a,1,1,1,0.25,0,0,0.25,1,90,3,3,2,3,3,4,3,1,1,nil,4,4,4,4,nil,b,b,d,a,1,1,1,0,75,4,3,4,2,3,3,4,5,1,1,nil,4,4,4,3,nil,b,c,a,d,1,1,0,0,50,2,3,3,3,4,4,1,1,nil,4,5,4,3,nil,nil,nil,nil,1
+3103,19Mar20:11:45:55,"University
+of
+Zimbabwe","Pre-service
+Student",Parirenyatwa,Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,3,3,2,5,c,d,c,2,1,4,3,a,1,1,0,0,0.25,0.25,0,1,70,3,2,2,3,2,b,b,d,d,1,1,1,1,100,3,3,2,4,1,3,b,a,a,c,1,0,0,1,50,2,2,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1077,19Mar20:11:50:25,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,4,3,2,2,5,c,d,a,3,4,2,4,b,1,1,0,0.25,0,0,0,0,45,3,2,3,2,3,b,b,d,c,1,1,1,0,75,4,2,2,3,2,3,b,d,a,b,1,0,0,0,25,2,1,2,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+191,19Mar20:12:00:09,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,3,2,4,4,5,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,2,2,3,3,b,b,d,a,1,1,1,0,75,2,4,3,4,2,3,b,a,a,c,1,0,0,1,50,2,3,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1679,19Mar20:13:27:36,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,1,3,3,2,3,3,5,d,d,b,5,5,5,5,a,0,1,0,0,0,0,0,1,40,2,2,3,3,3,b,b,c,d,1,1,0,1,75,1,2,2,3,1,3,a,a,a,c,0,0,0,1,25,1,3,3,3,1,a,d,c,c,1,1,0,1,75,4,4,3,3,3,3,5,5,5,1,1,nil,5,5,4,5,nil,c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,3,3,3,4,4,5,5,1,1,nil,5,5,4,4,nil,b,b,d,d,1,1,1,1,100,3,3,3,4,3,3,5,5,1,1,nil,5,5,4,5,nil,b,a,a,c,1,0,0,1,50,2,3,3,4,5,4,1,1,nil,4,5,5,4,nil,"Fastening involvement of all professionals in the
+care of patients to establish team care","Following guidelines provided to end ensuring that
+the best possible intervention is put to practice for
+patient satisfaction and progress.","Improve how one works in a team to provide holistic
+care.",1
+519,19Mar20:13:37:32,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,4,4,3,4,2,5,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,3,4,3,3,b,b,d,a,1,1,1,0,75,4,4,4,4,1,2,b,d,a,c,1,0,0,1,50,4,2,3,2,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+418,19Mar20:13:52:51,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,2,3,2,2,2,3,5,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,3,3,3,b,b,d,a,1,1,1,0,75,3,3,3,3,2,3,d,a,a,c,0,0,0,1,25,2,2,3,2,1,b,a,c,c,0,1,1,1,75,4,4,4,4,4,4,5,5,5,1,1,"The workshop was  very interactive and encouraged
+us to speak the things on our minds. Thank you and
+well done.",5,5,4,5,"I think we tried to exhausted on all important
+aspects.",c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,b,b,d,a,1,1,1,0,75,4,4,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,b,c,a,c,1,1,0,1,75,4,4,4,4,5,5,1,1,nil,5,5,5,5,nil,"I would encourage to do our work together for
+example without discouraging each other inorder to
+improve the life of our patient.",nil,nil,1
+2999,19Mar20:14:19:03,"University
+of
+Zimbabwe","Pre-service
+Student",Parirenyatwa,Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,4,3,1,1,5,d,d,b,2,1,4,3,c,0,1,0,0,0.25,0.25,0,0,30,4,2,3,3,3,b,b,d,d,1,1,1,1,100,3,3,3,3,2,3,b,a,a,b,1,0,0,0,25,3,2,3,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1905,19Mar20:14:24:42,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,2,3,3,3,5,d,d,b,3,2,4,1,a,0,1,0,0.25,0,0.25,0,1,50,1,2,3,2,2,b,b,d,d,1,1,1,1,100,1,2,4,4,3,3,b,b,a,c,1,0,0,1,50,3,3,4,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+30,19Mar20:14:34:42,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,1,3,1,5,c,d,b,3,1,4,2,a,1,1,0,0.25,0.25,0.25,0.25,1,80,2,1,3,3,4,b,b,d,c,1,1,1,0,75,3,3,4,4,1,4,b,c,a,c,1,1,0,1,75,1,1,1,3,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2532,19Mar20:14:39:16,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,4,4,3,3,2,4,5,c,d,b,3,1,4,2,c,1,1,0,0.25,0.25,0.25,0.25,0,60,3,4,3,4,3,a,a,d,a,0,0,1,0,25,4,4,3,4,2,3,b,d,a,c,1,0,0,1,50,4,3,3,3,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,2,5,4,4,1,1,nil,4,4,4,4,nil,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,3,3,3,4,4,1,1,"Facilitators should not rely on students answers
+only they should also add onto what the
+students would have contributed.",5,4,4,5,"Its good to keep abreast with the current TB
+treatment regimes.",b,b,d,a,1,1,1,0,75,3,3,3,3,3,3,4,4,1,1,nil,5,4,4,5,nil,b,c,a,c,1,1,0,1,75,3,2,2,2,4,4,1,1,nil,5,4,4,4,nil,"By working with every health care professional hand
+in hand helping each other through the course.","I am going to share the information acquired from
+stripe with the other health care professionally and
+work together in delivering care to the patient.","It is going to improve the way i am going to deliver
+care because i am now more knowledgeable on the
+issues and also competent enough. It has shaped
+the way i am going to deliver services both
+pharmacollogically and psychosocially.",1
+44,19Mar20:14:44:00,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,1,5,5,5,5,5,5,c,d,c,5,5,5,2,a,1,1,0,0,0,0,0.25,1,65,5,5,5,5,5,b,b,d,d,1,1,1,1,100,5,2,5,5,5,5,a,e,a,e,0,0,0,0,0,5,5,5,5,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+1486,19Mar20:14:48:19,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,2,2,2,3,2,5,c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,1,1,2,2,2,b,b,d,d,1,1,1,1,100,3,3,2,3,2,3,c,d,a,c,0,0,0,1,25,2,1,2,3,1,a,a,c,c,1,1,1,1,100,3,3,3,3,4,3,5,4,4,1,1,"More time is actually needed so as to exhaust
+everything.",5,4,4,4,"Discussions on the PLWH 95-95-95 goals made me
+realise the huge deficit in Zimbabwe which has rates
+of 75-58-47. More awareness and provision of art is
+needed.",c,d,d,3,1,4,2,a,1,1,1,0.25,0.25,0.25,0.25,1,100,3,3,4,3,3,4,4,1,1,"Then was need to expand on other side effects
+of TB drugs not just focus on the most common
+still effects.",5,5,4,4,"I would have liked to learn the practical simple
+procedures of diagnosing TB such as the
+physical examination member interpreting the
+chest xray.",b,b,d,d,1,1,1,1,100,4,3,3,4,3,3,5,4,1,1,"It was really effective on addressing
+ways to combart mother and child
+transmission.",5,4,4,4,"More was needed to discuss on whether it is
+ethically acceptable to encourage HIV women of
+child becoming age  to not conceive and reduce the
+burden on limited countries.",b,c,c,c,1,1,1,1,100,4,3,3,3,4,4,1,1,"There was good use of scenarios which can
+use",5,4,4,4,"More training was needed on practical
+dosing for pediatric patients.","I would assure all professional are well around that
+they have a common goal and work together to
+achieve it. We would eliminate rules to over
+emphasise so that communication will be good. We
+would specify roles of each member.","Organise training programmes and workshops at
+specific intervals whereby professionals are taught
+reminded and revise on quality wall. There is also
+need to continually show ideas not experiences
+among experienced and less experienced
+professionals.","Better cene is surely guaranteed for patients
+adherence levels will increase with my skills on
+counselling awareness of achieve events of cheap
+will also increase leading to better care.
+Risk for
+HIV will be lowered as i will continually bring
+awareness t",1
+225,19Mar20:14:52:53,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,a,a,b,c,1,0,1,1,75,3,3,4,3,4,4,5,c,d,a,3,2,1,4,a,1,1,0,0.25,0,0,0,1,65,2,2,3,4,4,b,b,d,d,1,1,1,1,100,4,2,3,4,1,4,a,a,c,c,0,0,1,1,50,4,4,4,4,1,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.,.,.,.,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,,.,.,.,.,.,.,.,.,.,.,.,.,.,,.,.,.,.,,,,,.
+2617,19Mar20:15:01:18,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Female,Zimbabwe,b,a,c,c,0,1,1,1,75,3,3,2,3,3,4,5,b,d,b,5,5,5,2,c,0,1,0,0,0,0,0.25,0,25,3,3,2,3,4,b,b,d,d,1,1,1,1,100,2,1,3,4,1,3,c,d,a,c,0,0,0,1,25,2,3,3,4,1,a,a,c,c,1,1,1,1,100,3,3,3,4,4,4,5,5,5,1,1,nil,5,5,4,4,The group interactions were effective,b,d,d,3,1,4,2,c,0,1,1,0.25,0.25,0.25,0.25,0,60,3,3,4,4,3,5,5,1,1,Group discussions were ideally relevant.,5,5,5,5,"The group discussions were very effective and
+educative",b,b,d,d,1,1,1,1,100,3,3,3,3,3,3,5,5,1,1,nil,5,5,5,5,nil,b,a,a,c,1,0,0,1,50,3,2,2,3,5,5,1,1,This was well earned out.,5,5,5,5,"An interaction with a practising paediatric
+HIV Counsellor","Understanding roles of other professionals, respect
+them and work together in patient management.","Adlering to standard or the Latest WHO
+recommendations on the treatment and care of
+patient.
+Interacting with other proffessions to
+maximise patient quality care.","Understand better in not only treating HIV patients
+with drugs but also consider the presence of psycho
+social effects on patient health if not fully attended
+to",1
+1418,19Mar20:15:12:36,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Nursing/midwifery,Male,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,2,2,3,5,b,d,a,3,2,4,1,c,0,1,0,0.25,0,0.25,0,0,30,1,1,1,1,2,b,b,d,d,1,1,1,1,100,2,2,1,3,1,2,c,a,a,c,0,0,0,1,25,2,1,2,2,1,a,a,c,c,1,1,1,1,100,2,1,1,2,1,1,5,4,4,1,1,nil,5,4,4,4,nil,b,d,d,3,1,4,2,a,0,1,1,0.25,0.25,0.25,0.25,1,80,1,2,1,2,1,4,4,1,1,nil,4,5,4,4,nil,b,b,d,d,1,1,1,1,100,1,2,2,1,2,2,4,4,1,1,nil,5,4,4,4,nil,b,a,a,c,1,0,0,1,50,1,2,1,1,4,4,1,1,nil,4,4,4,4,nil,"Increase discussions between inter professionals
+various patient cases for healthy purposes and
+sharing of information and knowing the different
+roles of the various professions.","Encourage peers to review their care and others
+care factually and fairly. Encourage constructive
+criticism and sharing of information.","It has given me confidence to care for patients and
+to better advice from on how to continue living
+positively in a positive manner.",1
+3114,19Mar20:15:27:23,"University
+of
+Zimbabwe","Pre-service
+Student","Parirenyatwa
+Hospital",Medical,Female,Zimbabwe,a,a,c,c,1,1,1,1,100,3,3,2,3,3,3,5,c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,2,2,3,2,b,b,d,a,1,1,1,0,75,3,3,3,3,1,3,b,a,a,c,1,0,0,1,50,3,3,3,3,1,a,a,c,c,1,1,1,1,100,3,3,3,3,3,3,5,5,4,1,1,"It was worthwhile and i think these sessions are
+important",5,5,5,4,"The sessions were interactive and encouraged us to
+air out our views topics were relevant.",c,d,d,3,1,4,2,c,1,1,1,0.25,0.25,0.25,0.25,0,80,3,3,3,3,3,5,5,1,1,"The facilitators were patient and eager to
+educate us",5,5,5,5,"The module should be taught as often as
+possible",b,b,d,a,1,1,1,0,75,3,3,3,3,3,3,5,5,1,1,They were fun,5,5,5,5,"Neat sessions so that others can also come and
+benefit from this session",b,c,a,c,1,1,0,1,75,3,3,3,3,5,5,1,1,We learnt that children are not little adults,5,5,5,5,nil,"I will educate my peers on the importance of inter
+professional collaboration and when i get to the
+clinical work i can also do the same with my
+colleagues of other professions  so that we work
+together to achieve better care for the patients","Educating my peers colleagues.
+Chats on walls
+improve quality of service.
+Encourage pairing up
+on doing procedures to minimise occupational
+exposures.
+Encourage people to attend those
+sessions.","I now understand HIV and know how to handle HIV
+patients i gained experience on how to counsel
+patients.
+I know have knowledge on how to
+screen for those at risk of getting HIV.",1
