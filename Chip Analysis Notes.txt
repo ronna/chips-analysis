@@ -1,0 +1,28 @@
+Partner/Clinical Site:
+Harare Hospital        
+Howard Hospital	
+Howard hospital	
+MSU Gweru ProvincialHospital	
+Medicine	
+NUST M pilo Hospital	
+NUST Mpilo Hospital	
+NUST Mplilo Hospital	
+Parirenyatwa	
+Parirenyatwa Center of Excellence (OI..	
+Parirenyatwa Hospital	
+Parireyatwa Hospital	
+UNKNOWN	
+
+The research question is whether the group have improvements in the dependent variable from pre to post test.
+
+But most of the time in Pre-Post studies, the interest is in the change from pre to post across groups.
+
+
+The ANCOVA approach answers a different research question: whether the post-test means, adjusted for pre-test scores, differ between the two groups.
+
+Time2 of the variable of interest as the outcome and time 1, covariates and group as predictors
+
+ difference in mean post-treatment scores
+ 
+ Linear Mixed Model - due to missing data
+ 
