@@ -1,0 +1,144 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  C:\Users\Ronald Munjoma\Documents\chips-analysis\data\chips_cleaning.log
+  log type:  text
+ opened on:   7 Jan 2021, 15:48:07
+
+. 
+. clear
+
+. 
+. cd "C:\Users\Ronald Munjoma\Documents\chips-analysis\data"
+C:\Users\Ronald Munjoma\Documents\chips-analysis\data
+
+. ******************************************************************
+. *IMPORT LATEST DATA - REMEMBER TO CHANGE FILE NAME AND SHEET NAME
+. 
+. import excel "04.01.2020_Zimbabwe_032620.xlsx", sheet(University of Zimbabwe) firstrow clear
+
+. 
+. save chips_cleaned, replace
+file chips_cleaned.dta saved
+
+. 
+. ************************
+. *THIS PREPARES DATASET
+. ************************
+. 
+. set more off
+
+. ***************************************************************
+. * Label the dataset
+. label data "This file contains CHIPS STRIPE HIV data"
+
+. 
+. * Label variables
+. label variable m1_1_1_score "What do the UNAIDS 95-95-95 goals strive to achieve for people with HIV (PWH)?"
+
+. label variable m1_1_2_score "Which of the below increases the risk of HIV infection?"
+
+. label variable m1_1_3_score "Which of the following contraception methods are affected by antiretroviral therapy (ART)?"
+note: label truncated to 80 characters
+
+. label variable m1_1_4_score "Which of the following best describes when to start antiretroviral therapy (ART)?"
+note: label truncated to 80 characters
+
+. 
+. * Define labels
+. label define m1_1_1_score 0 "Incorrect" 1 "Correct"
+
+. label values m1_1_1_score m1_1_1_score
+
+. 
+. label define m1_1_2_score 0 "Incorrect" 1 "Correct"
+
+. label values m1_1_2_score m1_1_2_score
+
+. 
+. label define m1_1_3_score 0 "Incorrect" 1 "Correct"
+
+. label values m1_1_3_score m1_1_3_score
+
+. 
+. label define m1_1_4_score 0 "Incorrect" 1 "Correct"
+
+. label values m1_1_4_score m1_1_4_score
+
+. 
+. * Create Tables
+. tab  m1_1_1_score
+
+What do the |
+     UNAIDS |
+   95-95-95 |
+      goals |
+  strive to |
+achieve for |
+people with |
+ HIV (PWH)? |      Freq.     Percent        Cum.
+------------+-----------------------------------
+  Incorrect |         35       16.99       16.99
+    Correct |        171       83.01      100.00
+------------+-----------------------------------
+      Total |        206      100.00
+
+. tab  m1_1_2_score
+
+   Which of |
+  the below |
+  increases |
+the risk of |
+        HIV |
+ infection? |      Freq.     Percent        Cum.
+------------+-----------------------------------
+  Incorrect |          3        1.46        1.46
+    Correct |        203       98.54      100.00
+------------+-----------------------------------
+      Total |        206      100.00
+
+. tab  m1_1_3_score
+
+   Which of |
+        the |
+  following |
+contracepti |
+ on methods |
+        are |
+affected by |
+antiretrovi |
+   ral ther |      Freq.     Percent        Cum.
+------------+-----------------------------------
+  Incorrect |         20        9.71        9.71
+    Correct |        186       90.29      100.00
+------------+-----------------------------------
+      Total |        206      100.00
+
+. tab  m1_1_4_score
+
+   Which of |
+        the |
+  following |
+       best |
+  describes |
+    when to |
+      start |
+antiretrovi |
+ral therapy |
+      (ART) |      Freq.     Percent        Cum.
+------------+-----------------------------------
+  Incorrect |         17        8.25        8.25
+    Correct |        189       91.75      100.00
+------------+-----------------------------------
+      Total |        206      100.00
+
+. 
+. save "chips_cleaned.dta", replace
+file chips_cleaned.dta saved
+
+. 
+. log close
+      name:  <unnamed>
+       log:  C:\Users\Ronald Munjoma\Documents\chips-analysis\data\chips_cleaning.log
+  log type:  text
+ closed on:   7 Jan 2021, 15:48:09
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
