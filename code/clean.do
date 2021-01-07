@@ -18,7 +18,7 @@ set more off
 ***********************************************************************
 *CHANGE NUMERIC STRING VARIABLES TO INTEGERS
 *the command 'quietly' does it in the background
-quietly destring, replace
+*quietly destring, replace
 *INSERT GLOBAL COMMAND FOR CONVERTING ALL VARIABLE NAMES TO LOWER CASE
 *replace=lower
 ***********************************************************************
