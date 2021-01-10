@@ -13,6 +13,11 @@ Parirenyatwa Hospital
 Parireyatwa Hospital	
 UNKNOWN	
 
+Module 1 Likert Scale
+
+I am missing question 7 on the questionnaire but there is data. What is the question for m1_2_7	pre-test, module 1, Likert question #7 
+
+
 The research question is whether the group have improvements in the dependent variable from pre to post test.
 
 But most of the time in Pre-Post studies, the interest is in the change from pre to post across groups.
