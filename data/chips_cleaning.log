@@ -2,7 +2,7 @@
       name:  <unnamed>
        log:  C:\Users\Ronald Munjoma\Documents\chips-analysis\data\chips_cleaning.log
   log type:  text
- opened on:   7 Jan 2021, 15:48:07
+ opened on:  10 Jan 2021, 18:09:05
 
 . 
 . clear
@@ -21,6 +21,9 @@ C:\Users\Ronald Munjoma\Documents\chips-analysis\data
 file chips_cleaned.dta saved
 
 . 
+. use chips_cleaned, clear
+
+. 
 . ************************
 . *THIS PREPARES DATASET
 . ************************
@@ -32,7 +35,46 @@ file chips_cleaned.dta saved
 . label data "This file contains CHIPS STRIPE HIV data"
 
 . 
+. * Correct mispelt Partner/Clinical site names
+. * Confirm if survey was run both at Parirenyatwa OI Clinic and Main hospital (are they two different sites?)
+. replace clinical_site=subinstr(clinical_site,"Parireyatwa Hospital","Parirenyatwa Hospital",.)
+(0 real changes made)
+
+. replace clinical_site=subinstr(clinical_site,"Parirenyatwa Hospital","Parirenyatwa Hospital",.)
+(0 real changes made)
+
+. replace clinical_site=subinstr(clinical_site,"Parirenyatwa Center of Excellence (OI..","Parirenyatwa Hospital",.)
+(0 real changes made)
+
+. replace clinical_site=subinstr(clinical_site,"Parirenyatwa","Parirenyatwa Hospital",.)
+clinical_site was str45 now str54
+(91 real changes made)
+
+. replace clinical_site=subinstr(clinical_site,"NUST Mpilo Hospital","NUST Mpilo Hospital",.)
+(0 real changes made)
+
+. replace clinical_site=subinstr(clinical_site,"NUST M pilo Hospital","NUST Mpilo Hospital",.)
+(0 real changes made)
+
+. replace clinical_site=subinstr(clinical_site,"NUST Mplilo Hospital","NUST Mpilo Hospital",.)
+(0 real changes made)
+
+. 
 . * Label variables
+. label variable facility "University Affiliate"
+
+. label variable training_level "Training Level"
+
+. label variable clinical_site "Partner or Clinical Site"
+
+. label variable profession_category "Health Profession Category"
+
+. label variable gender "Gender"
+
+. label variable country "Country"
+
+. 
+. * Label variables for pre-test Module 1 multiple choice questions
 . label variable m1_1_1_score "What do the UNAIDS 95-95-95 goals strive to achieve for people with HIV (PWH)?"
 
 . label variable m1_1_2_score "Which of the below increases the risk of HIV infection?"
@@ -43,8 +85,10 @@ note: label truncated to 80 characters
 . label variable m1_1_4_score "Which of the following best describes when to start antiretroviral therapy (ART)?"
 note: label truncated to 80 characters
 
+. label variable m1_total_score "Module 1 multiple choice Total score"
+
 . 
-. * Define labels
+. * Define labels for pre-test Module 1 multiple choice questions responses
 . label define m1_1_1_score 0 "Incorrect" 1 "Correct"
 
 . label values m1_1_1_score m1_1_1_score
@@ -65,80 +109,380 @@ note: label truncated to 80 characters
 . label values m1_1_4_score m1_1_4_score
 
 . 
+. * Label variables for pre-test Module 3 multiple choice questions
+. label variable m3_1_1_score "A 26-year-old woman was diagnosed with TB by sputum Gene Xpert testing during a community health campaign three days ago and was sent to
+>  your clinic for further evaluation. She was initiated on isoniazid, ethambutol, rifampicin and pyrazin-amide. During your initial evaluation, you recom-mend an HIV 
+> test, which she obtains and turns positive. A point of care CD4 cell count shows 150 cells/mm3. When is the most appropriate time to initiate antiretroviral therapy 
+> (ART) for this patient?"
+note: label truncated to 80 characters
+
+. label variable m3_1_2_score "Two months after initiation of isoniazid, rifampin, pyrazinamide, and ethambutol (HRZE) the patient complains that he feels numbness and
+>  tingling in his feet. Which of the following measures could have prevented this side effect?"
+note: label truncated to 80 characters
+
+. label variable m3_1_3_score "Which of the following antiretroviral (ART) options should be dose adjusted with rifamycin therapy?"
+note: label truncated to 80 characters
+
+. label variable m3_1_4_1_score "Match the following side effects with its most common offending medication."
+
+. label variable m3_total_score "Module 3 Multiple Choice Total Score"
+
+. 
+. 
+. * Define labels for pre-test Module 3 multiple choice questions responses
+. label define m3_1_1_score 0 "Incorrect" 1 "Correct"
+
+. label values m3_1_1_score m3_1_1_score
+
+. 
+. label define m3_1_2_score 0 "Incorrect" 1 "Correct"
+
+. label values m3_1_2_score m3_1_2_score
+
+. 
+. label define m3_1_3_score 0 "Incorrect" 1 "Correct"
+
+. label values m3_1_3_score m3_1_3_score
+
+. 
+. label define m3_1_4_1_score 0 "Incorrect" 1 "Correct"
+
+. label values m3_1_4_1_score m3_1_4_1_score
+
+. 
+. 
+. * Label variables for pre-test Module 4 multiple choice questions
+. label variable m4_1_1_score "Studies have shown an increased risk of HIV acquisition to women during pregnancy and in the post-partum period. Which of the following 
+> reasons could explain the increased risk of HIV acquisition in the post-partum period?"
+note: label truncated to 80 characters
+
+. label variable m4_1_2_score "Early infant diagnosis is based on the WHO recommendation that infants born to mothers with HIV be tested for HIV between 4 and 6 weeks 
+> of age. Why is early infant diagnosis of HIV important?"
+note: label truncated to 80 characters
+
+. label variable m4_1_3_score "Which scenario carries the highest risk for perinatal transmission of HIV from mother to newborn?"
+note: label truncated to 80 characters
+
+. label variable m4_1_4_score "Which of the following is NOT a strategy for prevention of mother-to-child transmission in a pregnant woman with HIV?"
+note: label truncated to 80 characters
+
+. label variable m4_total_score "Module 4 Multiple Choice Total Score"
+
+. 
+. * Define labels for pre-test Module 4 multiple choice questions responses
+. label define m4_1_1_score 0 "Incorrect" 1 "Correct"
+
+. label values m4_1_1_score m4_1_1_score
+
+. 
+. label define m4_1_2_score 0 "Incorrect" 1 "Correct"
+
+. label values m4_1_2_score m4_1_2_score
+
+. 
+. label define m4_1_3_score 0 "Incorrect" 1 "Correct"
+
+. label values m4_1_3_score m4_1_3_score
+
+. 
+. label define m4_1_4_score 0 "Incorrect" 1 "Correct"
+
+. label values m4_1_4_score m4_1_4_score
+
+. 
+. 
+. * Label variables for pre-test Module 17 multiple choice questions
+. label variable m17_1_1_score "A 13-month-old girl is brought in by her parent for minimal weight gain. You would like to test her for HIV. Which of the below tests i
+> s most appropriate to order in this patient?"
+note: label truncated to 80 characters
+
+. label variable m17_1_2_score "A 6-year-old boy with HIV is brought in for routine HIV care. Which of the following antiretroviral therapy (ART) options is contraindi
+> cated in him?"
+note: label truncated to 80 characters
+
+. label variable m17_1_3_score "When caring for a paediatric patient with HIV, which of the following options for antiretroviral therapy (ART) is best?"
+note: label truncated to 80 characters
+
+. label variable m17_1_4_score "In which paediatric HIV scenario below, who would you prescribe TB-preventive therapy?"
+note: label truncated to 80 characters
+
+. label variable m17_total_score "Module 17 Multiple Choice Total Score"
+
+. 
+. * Define labels for pre-test Module 17 multiple choice questions responses
+. label define m17_1_1_score 0 "Incorrect" 1 "Correct"
+
+. label values m17_1_1_score m17_1_1_score
+
+. 
+. label define m17_1_2_score 0 "Incorrect" 1 "Correct"
+
+. label values m17_1_2_score m17_1_2_score
+
+. 
+. label define m17_1_3_score 0 "Incorrect" 1 "Correct"
+
+. label values m17_1_3_score m17_1_3_score
+
+. 
+. label define m17_1_4_score 0 "Incorrect" 1 "Correct"
+
+. label values m17_1_4_score m17_1_4_score
+
+. 
+. 
+. 
+. * Define lables for Likert scale questions
+. * Label variables for pre-test Module 1 Likert scale choice questions
+. label variable m1_2_1 "Disclosing a positive HIV result to a patient"
+
+. label variable m1_2_2 "Providing contra-ception options for women with HIV"
+
+. label variable m1_2_3 "Providing care for a patient newly diagnosed with HIV as part of a team"
+
+. label variable m1_2_4 "Recognizing the psychosocial implications of a new diagnosis of HIV"
+
+. label variable m1_2_5 "Initiating ART for a patient newly diagnosed with HIV, appropriate to my training level"
+note: label truncated to 80 characters
+
+. label variable m1_2_6 "Developing trusting relationships with women of child bearing age who are starting treatment for HIV"
+note: label truncated to 80 characters
+
+. label variable m1_2_7 "Missing Question"
+
+. 
+. * Define labels for pre-test Module 1 Likert scale questions responses
+. label define m1_2_1 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m1_2_1 m1_2_1
+
+. 
+. label define m1_2_2 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m1_2_2 m1_2_2
+
+. 
+. label define m1_2_3 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m1_2_3 m1_2_3
+
+. 
+. label define m1_2_4 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m1_2_4 m1_2_4
+
+. 
+. label define m1_2_5 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m1_2_5 m1_2_5
+
+. 
+. label define m1_2_6 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m1_2_6 m1_2_6
+
+. 
+. * Label variables for pre-test Module 3 Likert scale choice questions
+. label variable m3_2_1 "Starting a patient with HIV-TB co-infection on ART"
+
+. label variable m3_2_2 "Anticipating the toxicities of TB therapy on a patient with HIV-TB co-infection"
+
+. label variable m3_2_3 "Recognizing indications to prescribe TPT (TB preventive therapy)"
+
+. label variable m3_2_4 "Caring for a patient with HIV-TB co- infection as part of an interprofessional team"
+note: label truncated to 80 characters
+
+. label variable m3_2_5 "Developing an interprofessional patient care plan for individuals with HIV that are also suffering from TB"
+note: label truncated to 80 characters
+
+. 
+. 
+. * Define labels for pre-test Module 3 Likert scale questions responses
+. label define m3_2_1 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m3_2_1 m3_2_1
+
+. 
+. label define m3_2_2 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m3_2_2 m3_2_2
+
+. 
+. label define m3_2_3 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m3_2_3 m3_2_3
+
+. 
+. label define m3_2_4 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m3_2_4 m3_2_4
+
+. 
+. *destring before labeling, error as a result of missing values
+. *label define m3_2_5 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+. *label values m3_2_5 m3_2_5
+. 
+. 
 . * Create Tables
-. tab  m1_1_1_score
+. bysort gender: tab training_level profession_category, m
 
-What do the |
-     UNAIDS |
-   95-95-95 |
-      goals |
-  strive to |
-achieve for |
-people with |
- HIV (PWH)? |      Freq.     Percent        Cum.
-------------+-----------------------------------
-  Incorrect |         35       16.99       16.99
-    Correct |        171       83.01      100.00
-------------+-----------------------------------
-      Total |        206      100.00
-
-. tab  m1_1_2_score
-
-   Which of |
-  the below |
-  increases |
-the risk of |
-        HIV |
- infection? |      Freq.     Percent        Cum.
-------------+-----------------------------------
-  Incorrect |          3        1.46        1.46
-    Correct |        203       98.54      100.00
-------------+-----------------------------------
-      Total |        206      100.00
-
-. tab  m1_1_3_score
-
-   Which of |
-        the |
-  following |
-contracepti |
- on methods |
-        are |
-affected by |
-antiretrovi |
-   ral ther |      Freq.     Percent        Cum.
-------------+-----------------------------------
-  Incorrect |         20        9.71        9.71
-    Correct |        186       90.29      100.00
-------------+-----------------------------------
-      Total |        206      100.00
-
-. tab  m1_1_4_score
-
-   Which of |
-        the |
-  following |
-       best |
-  describes |
-    when to |
-      start |
-antiretrovi |
-ral therapy |
-      (ART) |      Freq.     Percent        Cum.
-------------+-----------------------------------
-  Incorrect |         17        8.25        8.25
-    Correct |        189       91.75      100.00
-------------+-----------------------------------
-      Total |        206      100.00
-
-. 
-. save "chips_cleaned.dta", replace
-file chips_cleaned.dta saved
-
-. 
-. log close
-      name:  <unnamed>
-       log:  C:\Users\Ronald Munjoma\Documents\chips-analysis\data\chips_cleaning.log
-  log type:  text
- closed on:   7 Jan 2021, 15:48:09
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> gender = Female
+
+                      |               Health Profession Category
+       Training Level | Laborat..    Medical  Nursing..      Other   Pharmacy |     Total
+----------------------+-------------------------------------------------------+----------
+Post-graduate
+(beyo.. |         0          0          0          0          1 |         1 
+Post-graduate
+new p.. |         0          1          0          0          0 |         1 
+  Pre-service
+Student |         8         21         69          6          4 |       108 
+----------------------+-------------------------------------------------------+----------
+                Total |         8         22         69          6          5 |       110 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> gender = Male
+
+                      |               Health Profession Category
+       Training Level | Laborat..    Medical  Nursing..      Other   Pharmacy |     Total
+----------------------+-------------------------------------------------------+----------
+  Pre-service
+Student |         7         38         27          5          3 |        80 
+----------------------+-------------------------------------------------------+----------
+                Total |         7         38         27          5          3 |        80 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> gender = Other
+
+                      |   Health Profession
+                      |       Category
+       Training Level |   Medical  Nursing.. |     Total
+----------------------+----------------------+----------
+  Pre-service
+Student |        10          6 |        16 
+----------------------+----------------------+----------
+                Total |        10          6 |        16 
+
+
+
+. bysort profession_category: tab training_level clinical_site, m
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> profession_category = Laboratory
+
+                      |          Partner or Clinical Site
+       Training Level | Harare
+..  Howard
+..  MSU Gwe..  Pariren.. |     Total
+----------------------+--------------------------------------------+----------
+  Pre-service
+Student |         6          1          1          7 |        15 
+----------------------+--------------------------------------------+----------
+                Total |         6          1          1          7 |        15 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> profession_category = Medical
+
+                      |                                                 Partner or Clinical Site
+       Training Level | Harare
+..  Howard
+..  Howard
+..  MSU Gwe..   Medicine  NUST Mp..  Pariren..  Pariren..  Pariren..  Parirey..    UNKNOWN |     Total
+----------------------+-------------------------------------------------------------------------------------------------------------------------+----------
+Post-graduate
+new p.. |         0          0          0          0          0          0          0          0          0          0          1 |         1 
+  Pre-service
+Student |         3          6          1          7          1         15          3          3         28          1          1 |        69 
+----------------------+-------------------------------------------------------------------------------------------------------------------------+----------
+                Total |         3          6          1          7          1         15          3          3         28          1          2 |        70 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> profession_category = Nursing/midwifery
+
+                      |                                Partner or Clinical Site
+       Training Level | Harare
+..  Howard
+..  Howard
+..  MSU Gwe..  NUST M ..  NUST Mp..  Pariren..  Pariren.. |     Total
+----------------------+----------------------------------------------------------------------------------------+----------
+  Pre-service
+Student |        17          9          1         15          1         12          2         45 |       102 
+----------------------+----------------------------------------------------------------------------------------+----------
+                Total |        17          9          1         15          1         12          2         45 |       102 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> profession_category = Other
+
+                      |                     Partner or Clinical Site
+       Training Level | Harare
+..  Howard
+..  MSU Gwe..  NUST Mp..  NUST Mp..  Pariren.. |     Total
+----------------------+------------------------------------------------------------------+----------
+  Pre-service
+Student |         4          1          1          2          1          2 |        11 
+----------------------+------------------------------------------------------------------+----------
+                Total |         4          1          1          2          1          2 |        11 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> profession_category = Pharmacy
+
+                      |          Partner or Clinical Site
+       Training Level | Howard
+..  NUST Mp..  Pariren..    UNKNOWN |     Total
+----------------------+--------------------------------------------+----------
+Post-graduate
+(beyo.. |         0          0          0          1 |         1 
+  Pre-service
+Student |         1          5          1          0 |         7 
+----------------------+--------------------------------------------+----------
+                Total |         1          5          1          1 |         8 
+
+
+
+. bysort year: tab level sex, row nokey
+variable year not found
+r(111);
+
+end of do-file
+
+r(111);
+
+. tab clinical_site
+
+               Partner or Clinical Site |      Freq.     Percent        Cum.
+----------------------------------------+-----------------------------------
+                        Harare
+Hospital |         30       14.56       14.56
+                        Howard
+Hospital |         18        8.74       23.30
+                        Howard
+hospital |          2        0.97       24.27
+          MSU Gweru
+Provincial
+Hospital |         24       11.65       35.92
+                               Medicine |          1        0.49       36.41
+                   NUST M pilo
+Hospital |          1        0.49       36.89
+                    NUST Mpilo
+Hospital |         34       16.50       53.40
+                   NUST Mplilo
+Hospital |          1        0.49       53.88
+                  Parirenyatwa Hospital |          6        2.91       56.80
+Parirenyatwa Hospital
+Center of
+Excel.. |          3        1.46       58.25
+         Parirenyatwa Hospital
+Hospital |         82       39.81       98.06
+                   Parireyatwa
+Hospital |          1        0.49       98.54
+                                UNKNOWN |          3        1.46      100.00
+----------------------------------------+-----------------------------------
+                                  Total |        206      100.00
+
