@@ -1,3 +1,32 @@
+Statistical Analysis
+Stata/MP 13.0 for Windows
+When using Likert-type scales it is imperative to calculate and report Cronbachâ€™s alpha coefficient for internal consistency reliability for any scales or subscales one may be using.  The analysis of the data then must use these summated scales or subscales and not individual items. If one does otherwise, the reliability of the items is at best probably low and at worst unknown. Cronbachâ€™s alpha does not provide reliability estimates for single items.
+
+you can use Kruskal-Wallis on summed Likert items assuming the groups have the same general shape and spread (a common assumption for nonparametric tests that compare groups).
+
+use a paired t-test
+
+2-sample t-test
+
+dependent means t-test compares the same group of people on a single dimension
+
+ANCOVAs using pre-test scores as a covariate better account for the differences among students, so that the treatmentsâ€™ effect on student learning is tested rather than the selection of students in a class. 
+
+learning gains = post - pre 
+normalized learning gains 
+ANCOVA using pre-test score as a covariate
+
+post-test scores as the dependent variable
+
+learning gains are an acceptable dependent variable. The only difference in the analysis is that the slope of the line will be rotated 45 degrees. While ANCOVAs with post-tests will almost always have a positive slope, ANCOVAs with learning gains will have a negative slope.
+
+Results
+
+QI
+
+
+
+
 Partner/Clinical Site:
 Harare Hospital        
 Howard Hospital	
