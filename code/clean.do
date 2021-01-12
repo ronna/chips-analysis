@@ -43,7 +43,6 @@ label variable m1_1_3_score "pre-test, module 1, Multiple choice question #3 sco
 label variable m1_1_4_score "pre-test, module 1, Multiple choice question #4 score"
 label variable m1_total_score "pre-test, module 1, Multiple choice question #total score"
 
-
 * Define labels for pre-test Module 1 multiple choice questions responses
 label define m1_1_1_score 0 "Incorrect" 1 "Correct"
 label values m1_1_1_score m1_1_1_score
@@ -67,7 +66,6 @@ label variable m3_1_4_3_score "pre-test, module 3, Multiple choice question #4.3
 label variable m3_1_4_4_score "pre-test, module 3, Multiple choice question #4.4 score"
 label variable m3_1_5_score "pre-test, module 3, Multiple choice question #5 score"
 label variable m3_total_score "pre-test, module 3, Multiple choice question #total score"
-
 
 * Define labels for pre-test Module 3 multiple choice questions responses
 label define m3_1_1_score 0 "Incorrect" 1 "Correct"
@@ -242,7 +240,6 @@ label variable Pm1_1_3_score "post-test, module 1, Multiple choice question #3 s
 label variable Pm1_1_4_score "post-test, module 1, Multiple choice question #4 score"
 label variable Pm1_total_score "post-test, module 1, Multiple choice question #total score"
 
-
 * Define labels for post-test Module 1 multiple choice questions responses
 label define Pm1_1_1_score 0 "Incorrect" 1 "Correct"
 label values Pm1_1_1_score Pm1_1_1_score
@@ -265,7 +262,6 @@ label variable Pm1_2_5 "post-test, module 1, Likert question #5"
 label variable Pm1_2_6 "post-test, module 1, Likert question #6"
 label variable Pm1_2_7 "post-test, module 1, Likert question #7"
 
-
 * Define labels for post-test Module 1 Likert scale questions responses
 label define Pm1_2_1 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
 label values Pm1_2_1 Pm1_2_1
@@ -287,7 +283,6 @@ label values Pm1_2_6 Pm1_2_6
 
 label define Pm1_2_7 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
 label values Pm1_2_7 Pm1_2_7
-
 
 *Define labels for post-test Module 1  Learner evaluation of facilitator
 label variable Pm1_3_1 "post-test, module 1, Learner evaluation of facilitator question #1"
@@ -370,7 +365,6 @@ label values Pm3_1_4_4_score  Pm3_1_4_4_score
 
 label define Pm3_1_5_score 0 "Incorrect" 1 "Correct"
 label values Pm3_1_5_score Pm3_1_5_score
-
 
 * Define labels for post-test Module 3 Likert scale questions responses
 label variable Pm3_2_1 "post-test, module 3, Likert question #1"
@@ -553,7 +547,6 @@ label values Pm17_1_3_score  Pm17_1_3_score
 
 label define Pm17_1_4_score 0 "Incorrect" 1 "Correct"
 label values Pm17_1_4_score Pm17_1_4_score
-
 
 * Define labels for post-test Module 17 Likert scale questions responses
 * Note: post-test, module 17, Likert question #1 - data removed, question asked in error
