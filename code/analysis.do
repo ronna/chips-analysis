@@ -46,6 +46,35 @@ ttest Pm4_total_score=m4_total_score
 *Module 17 ttest
 ttest Pm17_total_score=m17_total_score
 
+*Individual question ttest
+*Module 1 ttest
+ttest Pm1_1_1_score=m1_1_1_score
+ttest Pm1_1_2_score=m1_1_2_score
+ttest Pm1_1_3_score=m1_1_3_score
+ttest Pm1_1_4_score=m1_1_4_score
+
+*Module 3 ttest
+ttest Pm3_1_1_score=m3_1_1_score
+ttest Pm3_1_2_score=m3_1_2_score
+ttest Pm3_1_3_score=m3_1_3_score
+ttest Pm3_1_4_1_score=m3_1_4_1_score
+ttest Pm3_1_4_2_score=m3_1_4_2_score
+ttest Pm3_1_4_3_score=m3_1_4_3_score
+ttest Pm3_1_4_4_score=m3_1_4_4_score
+ttest Pm3_1_5_score=m3_1_5_score
+
+*Module 4 ttest
+ttest Pm4_1_1_score=m4_1_1_score
+ttest Pm4_1_2_score=m4_1_2_score
+ttest Pm4_1_3_score=m4_1_3_score
+ttest Pm4_1_4_score=m4_1_4_score
+
+*Module 17 ttest
+ttest Pm17_1_1_score=m17_1_1_score
+ttest Pm17_1_2_score=m17_1_2_score
+ttest Pm17_1_3_score=m17_1_3_score
+ttest Pm17_1_4_score=m17_1_4_score
+
 *Learner evaluation of facilitator
 *post test module 1 Learner evaluation of facilitator
 tab Pm1_3_1 gender, row nokey
