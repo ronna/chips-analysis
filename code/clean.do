@@ -25,6 +25,14 @@ label data "This file contains CHIPS STRIPE HIV data"
 
 * Correct mispelt Partner/Clinical site names
 * Confirm if survey was run both at Parirenyatwa OI Clinic and Main hospital (are they two different sites?)
+replace clinical_site="Parirenyatwa" if index(clinical_site,"Medicine")~=0 // rename medicine to Parirenyatwa
+replace clinical_site="Parirenyatwa" if index(clinical_site,"Parireyatwa")~=0 //rename Parireyatwa  to Parirenyatwa
+replace clinical_site="Parirenyatwa" if index(clinical_site,"Parirenyatwa")~=0 // combine all the Parirenyatwa participants
+replace clinical_site="Parirenyatwa Hospital" if index(clinical_site,"Parirenyatwa")~=0
+replace clinical_site="Mpilo Hospital" if index(clinical_site,"NUST")~=0 //rename NUST Mpilo Hospitals to Mpilo Hospital
+replace clinical_site="Howard Hospital" if index(clinical_site,"Howard")~=0 //rename Howard Hospitals to Howard Hospital
+replace clinical_site="Harare Hospital" if index(clinical_site,"Harare")~=0 //rename HarareHospitals to Harare Hospital
+replace clinical_site="Gweru Hospital" if index(clinical_site,"MSU")~=0 //rename MSU Gweru General Hospitals to Gweru Hospital
 
 * Label variables
 label variable id "ID"
@@ -160,6 +168,9 @@ label values m1_2_5 m1_2_5
 
 label define m1_2_6 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
 label values m1_2_6 m1_2_6
+
+label define m1_2_7 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+label values m1_2_7 m1_2_7
 
 * Label variables for pre-test Module 3 Likert scale choice questions
 label variable m3_2_1 "pre-test, module 3, Likert question #1"
