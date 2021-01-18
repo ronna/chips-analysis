@@ -2,7 +2,7 @@
       name:  <unnamed>
        log:  C:\Users\Ronald Munjoma\Documents\chips-analysis\data\chips_cleaning.log
   log type:  text
- opened on:  12 Jan 2021, 16:06:06
+ opened on:  18 Jan 2021, 21:58:22
 
 . 
 . clear
@@ -40,6 +40,30 @@ file chips_cleaned.dta saved
 . 
 . * Correct mispelt Partner/Clinical site names
 . * Confirm if survey was run both at Parirenyatwa OI Clinic and Main hospital (are they two different sites?)
+. replace clinical_site="Parirenyatwa" if index(clinical_site,"Medicine")~=0 // rename medicine to Parirenyatwa
+(1 real change made)
+
+. replace clinical_site="Parirenyatwa" if index(clinical_site,"Parireyatwa")~=0 //rename Parireyatwa  to Parirenyatwa
+(1 real change made)
+
+. replace clinical_site="Parirenyatwa" if index(clinical_site,"Parirenyatwa")~=0 // combine all the Parirenyatwa participants
+(85 real changes made)
+
+. replace clinical_site="Parirenyatwa Hospital" if index(clinical_site,"Parirenyatwa")~=0
+(93 real changes made)
+
+. replace clinical_site="Mpilo Hospital" if index(clinical_site,"NUST")~=0 //rename NUST Mpilo Hospitals to Mpilo Hospital
+(36 real changes made)
+
+. replace clinical_site="Howard Hospital" if index(clinical_site,"Howard")~=0 //rename Howard Hospitals to Howard Hospital
+(20 real changes made)
+
+. replace clinical_site="Harare Hospital" if index(clinical_site,"Harare")~=0 //rename HarareHospitals to Harare Hospital
+(30 real changes made)
+
+. replace clinical_site="Gweru Hospital" if index(clinical_site,"MSU")~=0 //rename MSU Gweru General Hospitals to Gweru Hospital
+(24 real changes made)
+
 . 
 . * Label variables
 . label variable id "ID"
@@ -70,7 +94,6 @@ file chips_cleaned.dta saved
 
 . label variable m1_total_score "pre-test, module 1, Multiple choice question #total score"
 
-. 
 . 
 . * Define labels for pre-test Module 1 multiple choice questions responses
 . label define m1_1_1_score 0 "Incorrect" 1 "Correct"
@@ -112,7 +135,6 @@ file chips_cleaned.dta saved
 
 . label variable m3_total_score "pre-test, module 3, Multiple choice question #total score"
 
-. 
 . 
 . * Define labels for pre-test Module 3 multiple choice questions responses
 . label define m3_1_1_score 0 "Incorrect" 1 "Correct"
@@ -269,6 +291,11 @@ file chips_cleaned.dta saved
 . label values m1_2_6 m1_2_6
 
 . 
+. label define m1_2_7 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
+
+. label values m1_2_7 m1_2_7
+
+. 
 . * Label variables for pre-test Module 3 Likert scale choice questions
 . label variable m3_2_1 "pre-test, module 3, Likert question #1"
 
@@ -398,7 +425,6 @@ file chips_cleaned.dta saved
 . label variable Pm1_total_score "post-test, module 1, Multiple choice question #total score"
 
 . 
-. 
 . * Define labels for post-test Module 1 multiple choice questions responses
 . label define Pm1_1_1_score 0 "Incorrect" 1 "Correct"
 
@@ -436,7 +462,6 @@ file chips_cleaned.dta saved
 . label variable Pm1_2_7 "post-test, module 1, Likert question #7"
 
 . 
-. 
 . * Define labels for post-test Module 1 Likert scale questions responses
 . label define Pm1_2_1 1 "Uncomfortable" 2 "Somewhat comfortable" 3 "Comfortable" 4 "Very Comfortable" 5 "Not Applicable"
 
@@ -472,7 +497,6 @@ file chips_cleaned.dta saved
 
 . label values Pm1_2_7 Pm1_2_7
 
-. 
 . 
 . *Define labels for post-test Module 1  Learner evaluation of facilitator
 . label variable Pm1_3_1 "post-test, module 1, Learner evaluation of facilitator question #1"
@@ -606,7 +630,6 @@ file chips_cleaned.dta saved
 
 . label values Pm3_1_5_score Pm3_1_5_score
 
-. 
 . 
 . * Define labels for post-test Module 3 Likert scale questions responses
 . label variable Pm3_2_1 "post-test, module 3, Likert question #1"
@@ -901,7 +924,6 @@ file chips_cleaned.dta saved
 . label values Pm17_1_4_score Pm17_1_4_score
 
 . 
-. 
 . * Define labels for post-test Module 17 Likert scale questions responses
 . * Note: post-test, module 17, Likert question #1 - data removed, question asked in error
 . label variable Pm17_2_2 "post-test, module 17, Likert question #2"
@@ -1015,5 +1037,5 @@ file chips_cleaned.dta saved
       name:  <unnamed>
        log:  C:\Users\Ronald Munjoma\Documents\chips-analysis\data\chips_cleaning.log
   log type:  text
- closed on:  12 Jan 2021, 16:06:08
+ closed on:  18 Jan 2021, 21:58:23
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
