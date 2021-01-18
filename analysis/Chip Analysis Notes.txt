@@ -2,6 +2,8 @@ Statistical Analysis
 Data analysis was carried out using Stata/MP 13.0 for Windows.
 The study collected paired data: pretest scores before the training and posttest scores after the training. The analysis explores the relationships between the intial score and change in score (posttest minus pretest).
 
+Mean change in test score (posttest minus pretest)
+
 When using Likert-type scales it is imperative to calculate and report Cronbachâ€™s alpha coefficient for internal consistency reliability for any scales or subscales one may be using.  The analysis of the data then must use these summated scales or subscales and not individual items. If one does otherwise, the reliability of the items is at best probably low and at worst unknown. Cronbachâ€™s alpha does not provide reliability estimates for single items.
 
 you can use Kruskal-Wallis on summed Likert items assuming the groups have the same general shape and spread (a common assumption for nonparametric tests that compare groups).
@@ -17,6 +19,10 @@ ANCOVAs using pre-test scores as a covariate better account for the differences 
 learning gains = post - pre 
 normalized learning gains 
 ANCOVA using pre-test score as a covariate
+gain scores
+difference scores
+
+
 
 post-test scores as the dependent variable
 
@@ -24,6 +30,8 @@ learning gains are an acceptable dependent variable. The only difference in the 
 
 Results
 Out of the 206 participants, 112 (54.36%)completed both the pre and post tests questionnaires. 94 (45.64%) participants did not complete the post test questionnaire and were excluded from the analysis.
+
+
 
 
 Their results showed an increase in comfort, enjoyment, and confidence in using technology from the beginning to the end of the course. As the research questions focused on student and instructor/tutor perceptions, direct measures of learning were not included to evaluate the instructional effectiveness of the technology-enhanced curriculum.  
