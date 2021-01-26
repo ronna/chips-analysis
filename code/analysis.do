@@ -77,10 +77,10 @@ ttest Pm17_1_4_score=m17_1_4_score
 
 *Learner evaluation of facilitator
 *post test module 1 Learner evaluation of facilitator
-tab Pm1_3_1 gender, row nokey
-tab Pm1_3_2 gender, row nokey
-tab Pm1_3_3 gender, row nokey
-tab Pm1_3_4 gender, row nokey
+tab Pm1_3_1
+tab Pm1_3_2
+tab Pm1_3_3
+tab Pm1_3_4
 
 *post test module 3 Learner evaluation of facilitator
 tab Pm3_3_1
@@ -291,3 +291,5 @@ ttest Pm17_2_2=m17_2_2
 ttest Pm17_2_3=m17_2_3
 ttest Pm17_2_4=m17_2_4
 ttest Pm17_2_5=m17_2_5
+
+log close
