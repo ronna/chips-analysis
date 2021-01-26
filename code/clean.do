@@ -2,7 +2,7 @@ log using chips_cleaning.log, replace
 
 clear
 
-cd "C:\Users\Ronald Munjoma\Documents\chips-analysis\data"
+cd "C:\Users\ronald\Documents\GitHub\chips-analysis\data"
 ******************************************************************
 *IMPORT LATEST DATA - REMEMBER TO CHANGE FILE NAME AND SHEET NAME
 
