@@ -34,6 +34,13 @@ replace clinical_site="Howard Hospital" if index(clinical_site,"Howard")~=0 //re
 replace clinical_site="Harare Hospital" if index(clinical_site,"Harare")~=0 //rename HarareHospitals to Harare Hospital
 replace clinical_site="Gweru Hospital" if index(clinical_site,"MSU")~=0 //rename MSU Gweru General Hospitals to Gweru Hospital
 
+*Generate two new variables
+
+* Variable 1 - Pretest module 1, 3, 4 and 17 total score
+
+* Variable 1 - Pretest module 1, 3, 4 and 17 total score
+
+
 * Label variables
 label variable id "ID"
 label variable form_date "Date"
