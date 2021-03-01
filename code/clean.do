@@ -40,6 +40,115 @@ replace clinical_site="Gweru Hospital" if index(clinical_site,"MSU")~=0 //rename
 
 * Variable 1 - Pretest module 1, 3, 4 and 17 total score
 
+* Clean Module and facilitator evaluation data wrongly captured.
+
+*Pm1_3_1 recode all responses with a value of 6 to Missing
+recode Pm1_3_1 6=.
+
+*Pm1_3_2 recode all responses with a value of 6 to Missing
+recode Pm1_3_2 6=.
+
+*Pm1_3_3 recode all responses with a value of 3 to Missing
+recode Pm1_3_3 3=.
+
+*Pm1_3_4 recode all responses with a value of 3 to Missing
+recode Pm1_3_4 3=.
+
+*Pm3_3_1 recode all responses with a value of 6 to Missing
+recode Pm3_3_1 6=.
+
+*Pm3_3_2 recode all responses with a value of 6 to Missing
+recode Pm3_3_2 6=.
+
+*Pm3_3_3 recode all responses with a value of 2 to Missing
+recode Pm3_3_3 2=.
+
+*Pm3_3_3 recode all responses with a value of 3 to Missing
+recode Pm3_3_3 3=.
+
+*Pm3_3_4 recode all responses with a value of 2 to Missing
+recode Pm3_3_4 2=.
+
+*Pm3_3_4 recode all responses with a value of 3 to Missing
+recode Pm3_3_4 3=.
+
+*Pm4_3_1 recode all responses with a value of 6 to Missing
+recode Pm4_3_1 6=.
+
+*Pm4_3_2 recode all responses with a value of 6 to Missing
+recode Pm4_3_2 6=.
+
+*Pm4_3_3 recode all responses with a value of 2 to Missing
+recode Pm4_3_3 2=.
+
+*Pm4_3_3 recode all responses with a value of 3 to Missing
+recode Pm4_3_3 3=.
+
+*Pm4_3_4 recode all responses with a value of 3 to Missing
+recode Pm4_3_4 3=.
+
+*Pm17_3_1 recode all responses with a value of 6 to Missing
+recode Pm17_3_1 6=.
+
+*Pm17_3_2 recode all responses with a value of 6 to Missing
+recode Pm17_3_2 6=.
+
+*Pm17_3_3 recode all responses with a value of 2 to Missing
+recode Pm17_3_3 2=.
+
+*Pm17_3_3 recode all responses with a value of 3 to Missing
+recode Pm17_3_3 3=.
+
+*Pm17_3_4 recode all responses with a value of 3 to Missing
+recode Pm17_3_4 3=.
+
+*Pm1_4_1 recode all responses with a value of 6 to Missing
+recode Pm1_4_1 6=.
+
+*Pm1_4_2 recode all responses with a value of 6 to Missing
+recode Pm1_4_2 6=.
+
+*Pm1_4_3 recode all responses with a value of 6 to Missing
+recode Pm1_4_3 6=.
+
+*Pm1_4_4 recode all responses with a value of 6 to Missing
+recode Pm1_4_4 6=.
+
+*Pm3_4_1 recode all responses with a value of 6 to Missing
+recode Pm3_4_1 6=.
+
+*Pm3_4_2 recode all responses with a value of 6 to Missing
+recode Pm3_4_2 6=.
+
+*Pm3_4_3 recode all responses with a value of 6 to Missing
+recode Pm3_4_3 6=.
+
+*Pm3_4_4 recode all responses with a value of 6 to Missing
+recode Pm3_4_4 6=.
+
+*Pm4_4_1 recode all responses with a value of 6 to Missing
+recode Pm4_4_1 6=.
+
+*Pm4_4_2 recode all responses with a value of 6 to Missing
+recode Pm4_4_2 6=.
+
+*Pm4_4_3 recode all responses with a value of 6 to Missing
+recode Pm4_4_3 6=.
+
+*Pm4_4_4 recode all responses with a value of 6 to Missing
+recode Pm4_4_4 6=.
+
+*Pm17_4_1 recode all responses with a value of 6 to Missing
+recode Pm17_4_1 6=.
+
+*Pm17_4_2 recode all responses with a value of 6 to Missing
+recode Pm17_4_2 6=.
+
+*Pm17_4_3 recode all responses with a value of 6 to Missing
+recode Pm17_4_3 6=.
+
+*Pm17_4_4 recode all responses with a value of 6 to Missing
+recode Pm17_4_4 6=.
 
 * Label variables
 label variable id "ID"
