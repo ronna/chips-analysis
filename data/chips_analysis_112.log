@@ -2,7 +2,7 @@
       name:  <unnamed>
        log:  C:\Users\ronald\Documents\GitHub\chips-analysis\data\chips_analysis.log
   log type:  text
- opened on:   1 Mar 2021, 22:59:12
+ opened on:   1 Mar 2021, 22:16:38
 
 . 
 . clear
@@ -18,8 +18,10 @@ C:\Users\ronald\Documents\GitHub\chips-analysis\data
 
 . 
 . * Data Analysis only for subject with non-missing values *
-. *keep if m1_total_score~=. & m3_total_score~=. & m4_total_score~=. & m17_total_score~=. & Pm1_total_score~=. & Pm3_total_score~=. & Pm4_total_sco
-> re~=. & Pm17_total_score~=.
+. keep if m1_total_score~=. & m3_total_score~=. & m4_total_score~=. & m17_total_score~=. & Pm1_total_score~=. & Pm3_total_score~=. & Pm4_total_scor
+> e~=. & Pm17_total_score~=.
+(94 observations deleted)
+
 . 
 . * Create Tables
 . *descriptive statistics
@@ -34,26 +36,26 @@ C:\Users\ronald\Documents\GitHub\chips-analysis\data
   Partner or Clinical |               Health Profession Category
                  Site | Laborat..    Medical  Nursing..      Other   Pharmacy |     Total
 ----------------------+-------------------------------------------------------+----------
-       Gweru Hospital |         1          7         15          1          0 |        24 
-                      |      4.17      29.17      62.50       4.17       0.00 |    100.00 
+       Gweru Hospital |         1          3          4          1          0 |         9 
+                      |     11.11      33.33      44.44      11.11       0.00 |    100.00 
 ----------------------+-------------------------------------------------------+----------
-      Harare Hospital |         6          3         17          4          0 |        30 
-                      |     20.00      10.00      56.67      13.33       0.00 |    100.00 
+      Harare Hospital |         3          2         12          4          0 |        21 
+                      |     14.29       9.52      57.14      19.05       0.00 |    100.00 
 ----------------------+-------------------------------------------------------+----------
-      Howard Hospital |         1          7         10          1          1 |        20 
-                      |      5.00      35.00      50.00       5.00       5.00 |    100.00 
+      Howard Hospital |         0          4          6          1          0 |        11 
+                      |      0.00      36.36      54.55       9.09       0.00 |    100.00 
 ----------------------+-------------------------------------------------------+----------
-       Mpilo Hospital |         0         15         13          3          5 |        36 
-                      |      0.00      41.67      36.11       8.33      13.89 |    100.00 
+       Mpilo Hospital |         0          3          1          1          2 |         7 
+                      |      0.00      42.86      14.29      14.29      28.57 |    100.00 
 ----------------------+-------------------------------------------------------+----------
-Parirenyatwa Hospital |         7         36         47          2          1 |        93 
-                      |      7.53      38.71      50.54       2.15       1.08 |    100.00 
+Parirenyatwa Hospital |         2         28         31          1          0 |        62 
+                      |      3.23      45.16      50.00       1.61       0.00 |    100.00 
 ----------------------+-------------------------------------------------------+----------
-              UNKNOWN |         0          2          0          0          1 |         3 
-                      |      0.00      66.67       0.00       0.00      33.33 |    100.00 
+              UNKNOWN |         0          1          0          0          1 |         2 
+                      |      0.00      50.00       0.00       0.00      50.00 |    100.00 
 ----------------------+-------------------------------------------------------+----------
-                Total |        15         70        102         11          8 |       206 
-                      |      7.28      33.98      49.51       5.34       3.88 |    100.00 
+                Total |         6         41         54          8          3 |       112 
+                      |      5.36      36.61      48.21       7.14       2.68 |    100.00 
 
 
 . 
@@ -61,29 +63,29 @@ Parirenyatwa Hospital |         7         36         47          2          1 | 
 . *pre-test - total survey
 . tab clinical_site training_level, row nokey
 
-  Partner or Clinical |          Training Level
-                 Site | Post-gr..  Post-gr..  Pre-ser.. |     Total
-----------------------+---------------------------------+----------
-       Gweru Hospital |         0          0         24 |        24 
-                      |      0.00       0.00     100.00 |    100.00 
-----------------------+---------------------------------+----------
-      Harare Hospital |         0          0         30 |        30 
-                      |      0.00       0.00     100.00 |    100.00 
-----------------------+---------------------------------+----------
-      Howard Hospital |         0          0         20 |        20 
-                      |      0.00       0.00     100.00 |    100.00 
-----------------------+---------------------------------+----------
-       Mpilo Hospital |         0          0         36 |        36 
-                      |      0.00       0.00     100.00 |    100.00 
-----------------------+---------------------------------+----------
-Parirenyatwa Hospital |         0          0         93 |        93 
-                      |      0.00       0.00     100.00 |    100.00 
-----------------------+---------------------------------+----------
-              UNKNOWN |         1          1          1 |         3 
-                      |     33.33      33.33      33.33 |    100.00 
-----------------------+---------------------------------+----------
-                Total |         1          1        204 |       206 
-                      |      0.49       0.49      99.03 |    100.00 
+  Partner or Clinical |    Training Level
+                 Site | Post-gr..  Pre-ser.. |     Total
+----------------------+----------------------+----------
+       Gweru Hospital |         0          9 |         9 
+                      |      0.00     100.00 |    100.00 
+----------------------+----------------------+----------
+      Harare Hospital |         0         21 |        21 
+                      |      0.00     100.00 |    100.00 
+----------------------+----------------------+----------
+      Howard Hospital |         0         11 |        11 
+                      |      0.00     100.00 |    100.00 
+----------------------+----------------------+----------
+       Mpilo Hospital |         0          7 |         7 
+                      |      0.00     100.00 |    100.00 
+----------------------+----------------------+----------
+Parirenyatwa Hospital |         0         62 |        62 
+                      |      0.00     100.00 |    100.00 
+----------------------+----------------------+----------
+              UNKNOWN |         1          1 |         2 
+                      |     50.00      50.00 |    100.00 
+----------------------+----------------------+----------
+                Total |         1        111 |       112 
+                      |      0.89      99.11 |    100.00 
 
 
 . 
@@ -98,16 +100,12 @@ Post-graduate
 (beyo.. |         1          0          0 |         1 
                       |    100.00       0.00       0.00 |    100.00 
 ----------------------+---------------------------------+----------
-Post-graduate
-new p.. |         1          0          0 |         1 
-                      |    100.00       0.00       0.00 |    100.00 
-----------------------+---------------------------------+----------
   Pre-service
-Student |       108         80         16 |       204 
-                      |     52.94      39.22       7.84 |    100.00 
+Student |        57         41         13 |       111 
+                      |     51.35      36.94      11.71 |    100.00 
 ----------------------+---------------------------------+----------
-                Total |       110         80         16 |       206 
-                      |     53.40      38.83       7.77 |    100.00 
+                Total |        58         41         13 |       112 
+                      |     51.79      36.61      11.61 |    100.00 
 
 
 . *clinical_site
@@ -116,26 +114,26 @@ Student |       108         80         16 |       204
   Partner or Clinical |              Gender
                  Site |    Female       Male      Other |     Total
 ----------------------+---------------------------------+----------
-       Gweru Hospital |        14         10          0 |        24 
-                      |     58.33      41.67       0.00 |    100.00 
-----------------------+---------------------------------+----------
-      Harare Hospital |        19         11          0 |        30 
-                      |     63.33      36.67       0.00 |    100.00 
-----------------------+---------------------------------+----------
-      Howard Hospital |        13          7          0 |        20 
-                      |     65.00      35.00       0.00 |    100.00 
-----------------------+---------------------------------+----------
-       Mpilo Hospital |        20         16          0 |        36 
+       Gweru Hospital |         5          4          0 |         9 
                       |     55.56      44.44       0.00 |    100.00 
 ----------------------+---------------------------------+----------
-Parirenyatwa Hospital |        41         36         16 |        93 
-                      |     44.09      38.71      17.20 |    100.00 
+      Harare Hospital |        14          7          0 |        21 
+                      |     66.67      33.33       0.00 |    100.00 
 ----------------------+---------------------------------+----------
-              UNKNOWN |         3          0          0 |         3 
+      Howard Hospital |         7          4          0 |        11 
+                      |     63.64      36.36       0.00 |    100.00 
+----------------------+---------------------------------+----------
+       Mpilo Hospital |         3          4          0 |         7 
+                      |     42.86      57.14       0.00 |    100.00 
+----------------------+---------------------------------+----------
+Parirenyatwa Hospital |        27         22         13 |        62 
+                      |     43.55      35.48      20.97 |    100.00 
+----------------------+---------------------------------+----------
+              UNKNOWN |         2          0          0 |         2 
                       |    100.00       0.00       0.00 |    100.00 
 ----------------------+---------------------------------+----------
-                Total |       110         80         16 |       206 
-                      |     53.40      38.83       7.77 |    100.00 
+                Total |        58         41         13 |       112 
+                      |     51.79      36.61      11.61 |    100.00 
 
 
 . *Profession_categoty
@@ -144,23 +142,23 @@ Parirenyatwa Hospital |        41         36         16 |        93
 Health Profession |              Gender
          Category |    Female       Male      Other |     Total
 ------------------+---------------------------------+----------
-       Laboratory |         8          7          0 |        15 
-                  |     53.33      46.67       0.00 |    100.00 
+       Laboratory |         3          3          0 |         6 
+                  |     50.00      50.00       0.00 |    100.00 
 ------------------+---------------------------------+----------
-          Medical |        22         38         10 |        70 
-                  |     31.43      54.29      14.29 |    100.00 
+          Medical |        12         21          8 |        41 
+                  |     29.27      51.22      19.51 |    100.00 
 ------------------+---------------------------------+----------
-Nursing/midwifery |        69         27          6 |       102 
-                  |     67.65      26.47       5.88 |    100.00 
+Nursing/midwifery |        38         11          5 |        54 
+                  |     70.37      20.37       9.26 |    100.00 
 ------------------+---------------------------------+----------
-            Other |         6          5          0 |        11 
-                  |     54.55      45.45       0.00 |    100.00 
+            Other |         3          5          0 |         8 
+                  |     37.50      62.50       0.00 |    100.00 
 ------------------+---------------------------------+----------
-         Pharmacy |         5          3          0 |         8 
-                  |     62.50      37.50       0.00 |    100.00 
+         Pharmacy |         2          1          0 |         3 
+                  |     66.67      33.33       0.00 |    100.00 
 ------------------+---------------------------------+----------
-            Total |       110         80         16 |       206 
-                  |     53.40      38.83       7.77 |    100.00 
+            Total |        58         41         13 |       112 
+                  |     51.79      36.61      11.61 |    100.00 
 
 
 . 
@@ -1583,90 +1581,90 @@ Ho: Pm17_1_4_score = m17_1_4_score
  pre-test, module 1, |
   Likert question #1 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         16        7.77        7.77
-Somewhat comfortable |         43       20.87       28.64
-         Comfortable |         86       41.75       70.39
-    Very Comfortable |         48       23.30       93.69
-      Not Applicable |         13        6.31      100.00
+       Uncomfortable |          8        7.14        7.14
+Somewhat comfortable |         22       19.64       26.79
+         Comfortable |         50       44.64       71.43
+    Very Comfortable |         26       23.21       94.64
+      Not Applicable |          6        5.36      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m1_2_2
 
  pre-test, module 1, |
   Likert question #2 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         10        4.85        4.85
-Somewhat comfortable |         35       16.99       21.84
-         Comfortable |         75       36.41       58.25
-    Very Comfortable |         73       35.44       93.69
-      Not Applicable |         13        6.31      100.00
+       Uncomfortable |          5        4.46        4.46
+Somewhat comfortable |         20       17.86       22.32
+         Comfortable |         43       38.39       60.71
+    Very Comfortable |         39       34.82       95.54
+      Not Applicable |          5        4.46      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m1_2_3
 
  pre-test, module 1, |
   Likert question #3 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |          4        1.94        1.94
-Somewhat comfortable |         53       25.73       27.67
-         Comfortable |         68       33.01       60.68
-    Very Comfortable |         74       35.92       96.60
-      Not Applicable |          7        3.40      100.00
+       Uncomfortable |          1        0.89        0.89
+Somewhat comfortable |         29       25.89       26.79
+         Comfortable |         38       33.93       60.71
+    Very Comfortable |         41       36.61       97.32
+      Not Applicable |          3        2.68      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m1_2_4
 
  pre-test, module 1, |
   Likert question #4 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         16        7.77        7.77
-Somewhat comfortable |         35       16.99       24.76
-         Comfortable |         99       48.06       72.82
-    Very Comfortable |         46       22.33       95.15
-      Not Applicable |         10        4.85      100.00
+       Uncomfortable |          6        5.36        5.36
+Somewhat comfortable |         17       15.18       20.54
+         Comfortable |         59       52.68       73.21
+    Very Comfortable |         26       23.21       96.43
+      Not Applicable |          4        3.57      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m1_2_5
 
  pre-test, module 1, |
   Likert question #5 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         22       10.68       10.68
-Somewhat comfortable |         49       23.79       34.47
-         Comfortable |         67       32.52       66.99
-    Very Comfortable |         54       26.21       93.20
-      Not Applicable |         14        6.80      100.00
+       Uncomfortable |         10        8.93        8.93
+Somewhat comfortable |         29       25.89       34.82
+         Comfortable |         40       35.71       70.54
+    Very Comfortable |         27       24.11       94.64
+      Not Applicable |          6        5.36      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m1_2_6
 
  pre-test, module 1, |
   Likert question #6 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |          5        2.43        2.43
-Somewhat comfortable |         36       17.48       19.90
-         Comfortable |         60       29.13       49.03
-    Very Comfortable |         52       25.24       74.27
-      Not Applicable |         53       25.73      100.00
+       Uncomfortable |          1        0.89        0.89
+Somewhat comfortable |         17       15.18       16.07
+         Comfortable |         34       30.36       46.43
+    Very Comfortable |         29       25.89       72.32
+      Not Applicable |         31       27.68      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m1_2_7
 
  pre-test, module 1, |
   Likert question #7 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-Somewhat comfortable |          9        4.41        4.41
-         Comfortable |         42       20.59       25.00
-    Very Comfortable |         13        6.37       31.37
-      Not Applicable |        140       68.63      100.00
+Somewhat comfortable |          8        7.21        7.21
+         Comfortable |         28       25.23       32.43
+    Very Comfortable |         11        9.91       42.34
+      Not Applicable |         64       57.66      100.00
 ---------------------+-----------------------------------
-               Total |        204      100.00
+               Total |        111      100.00
 
 . 
 . * Module 3 pretest Learner self conceived competency
@@ -1675,65 +1673,65 @@ Somewhat comfortable |          9        4.41        4.41
  pre-test, module 3, |
   Likert question #1 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         30       14.56       14.56
-Somewhat comfortable |         55       26.70       41.26
-         Comfortable |         72       34.95       76.21
-    Very Comfortable |         37       17.96       94.17
-      Not Applicable |         12        5.83      100.00
+       Uncomfortable |         13       11.61       11.61
+Somewhat comfortable |         30       26.79       38.39
+         Comfortable |         48       42.86       81.25
+    Very Comfortable |         19       16.96       98.21
+      Not Applicable |          2        1.79      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m3_2_2
 
  pre-test, module 3, |
   Likert question #2 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         29       14.08       14.08
-Somewhat comfortable |         66       32.04       46.12
-         Comfortable |         73       35.44       81.55
-    Very Comfortable |         27       13.11       94.66
-      Not Applicable |         11        5.34      100.00
+       Uncomfortable |         14       12.50       12.50
+Somewhat comfortable |         33       29.46       41.96
+         Comfortable |         50       44.64       86.61
+    Very Comfortable |         13       11.61       98.21
+      Not Applicable |          2        1.79      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m3_2_3
 
  pre-test, module 3, |
   Likert question #3 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         25       12.14       12.14
-Somewhat comfortable |         54       26.21       38.35
-         Comfortable |         81       39.32       77.67
-    Very Comfortable |         35       16.99       94.66
-      Not Applicable |         11        5.34      100.00
+       Uncomfortable |         12       10.71       10.71
+Somewhat comfortable |         32       28.57       39.29
+         Comfortable |         46       41.07       80.36
+    Very Comfortable |         18       16.07       96.43
+      Not Applicable |          4        3.57      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m3_2_4
 
  pre-test, module 3, |
   Likert question #4 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         15        7.28        7.28
-Somewhat comfortable |         53       25.73       33.01
-         Comfortable |         72       34.95       67.96
-    Very Comfortable |         60       29.13       97.09
-      Not Applicable |          6        2.91      100.00
+       Uncomfortable |          7        6.25        6.25
+Somewhat comfortable |         28       25.00       31.25
+         Comfortable |         46       41.07       72.32
+    Very Comfortable |         30       26.79       99.11
+      Not Applicable |          1        0.89      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m3_2_5
 
  pre-test, module 3, |
   Likert question #5 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |          6        2.94        2.94
-Somewhat comfortable |         36       17.65       20.59
-         Comfortable |         67       32.84       53.43
-    Very Comfortable |         35       17.16       70.59
-      Not Applicable |         60       29.41      100.00
+       Uncomfortable |          2        1.80        1.80
+Somewhat comfortable |         20       18.02       19.82
+         Comfortable |         36       32.43       52.25
+    Very Comfortable |         17       15.32       67.57
+      Not Applicable |         36       32.43      100.00
 ---------------------+-----------------------------------
-               Total |        204      100.00
+               Total |        111      100.00
 
 . 
 . * Module 4 pretest Learner self conceived competency
@@ -1742,78 +1740,78 @@ Somewhat comfortable |         36       17.65       20.59
  pre-test, module 4, |
   Likert question #1 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         14        6.80        6.80
-Somewhat comfortable |         48       23.30       30.10
-         Comfortable |         78       37.86       67.96
-    Very Comfortable |         55       26.70       94.66
-      Not Applicable |         11        5.34      100.00
+       Uncomfortable |          7        6.25        6.25
+Somewhat comfortable |         28       25.00       31.25
+         Comfortable |         45       40.18       71.43
+    Very Comfortable |         28       25.00       96.43
+      Not Applicable |          4        3.57      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m4_2_2
 
  pre-test, module 4, |
   Likert question #2 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         16        7.77        7.77
-Somewhat comfortable |         54       26.21       33.98
-         Comfortable |         72       34.95       68.93
-    Very Comfortable |         53       25.73       94.66
-      Not Applicable |         11        5.34      100.00
+       Uncomfortable |          9        8.04        8.04
+Somewhat comfortable |         26       23.21       31.25
+         Comfortable |         43       38.39       69.64
+    Very Comfortable |         30       26.79       96.43
+      Not Applicable |          4        3.57      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m4_2_3
 
  pre-test, module 4, |
   Likert question #3 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         24       11.65       11.65
-Somewhat comfortable |         47       22.82       34.47
-         Comfortable |         70       33.98       68.45
-    Very Comfortable |         54       26.21       94.66
-      Not Applicable |         11        5.34      100.00
+       Uncomfortable |         13       11.61       11.61
+Somewhat comfortable |         29       25.89       37.50
+         Comfortable |         38       33.93       71.43
+    Very Comfortable |         29       25.89       97.32
+      Not Applicable |          3        2.68      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m4_2_4
 
  pre-test, module 4, |
   Likert question #4 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |          6        2.91        2.91
-Somewhat comfortable |         28       13.59       16.50
-         Comfortable |         75       36.41       52.91
-    Very Comfortable |         90       43.69       96.60
-      Not Applicable |          7        3.40      100.00
+       Uncomfortable |          2        1.79        1.79
+Somewhat comfortable |         14       12.50       14.29
+         Comfortable |         48       42.86       57.14
+    Very Comfortable |         46       41.07       98.21
+      Not Applicable |          2        1.79      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m4_2_5
 
  pre-test, module 4, |
   Likert question #5 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         90       43.69       43.69
-Somewhat comfortable |         44       21.36       65.05
-         Comfortable |         36       17.48       82.52
-    Very Comfortable |         22       10.68       93.20
-      Not Applicable |         14        6.80      100.00
+       Uncomfortable |         49       43.75       43.75
+Somewhat comfortable |         24       21.43       65.18
+         Comfortable |         19       16.96       82.14
+    Very Comfortable |         13       11.61       93.75
+      Not Applicable |          7        6.25      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m4_2_6
 
  pre-test, module 4, |
   Likert question #6 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |          7        3.43        3.43
-Somewhat comfortable |         27       13.24       16.67
-         Comfortable |         73       35.78       52.45
-    Very Comfortable |         36       17.65       70.10
-      Not Applicable |         61       29.90      100.00
+       Uncomfortable |          2        1.80        1.80
+Somewhat comfortable |         15       13.51       15.32
+         Comfortable |         42       37.84       53.15
+    Very Comfortable |         16       14.41       67.57
+      Not Applicable |         36       32.43      100.00
 ---------------------+-----------------------------------
-               Total |        204      100.00
+               Total |        111      100.00
 
 . 
 . * Module 17 pretest Learner self conceived competency
@@ -1822,52 +1820,52 @@ Somewhat comfortable |         27       13.24       16.67
 pre-test, module 17, |
   Likert question #2 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         26       12.62       12.62
-Somewhat comfortable |         63       30.58       43.20
-         Comfortable |         61       29.61       72.82
-    Very Comfortable |         42       20.39       93.20
-      Not Applicable |         14        6.80      100.00
+       Uncomfortable |         13       11.61       11.61
+Somewhat comfortable |         36       32.14       43.75
+         Comfortable |         39       34.82       78.57
+    Very Comfortable |         20       17.86       96.43
+      Not Applicable |          4        3.57      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m17_2_3
 
 pre-test, module 17, |
   Likert question #3 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         38       18.45       18.45
-Somewhat comfortable |         69       33.50       51.94
-         Comfortable |         51       24.76       76.70
-    Very Comfortable |         29       14.08       90.78
-      Not Applicable |         19        9.22      100.00
+       Uncomfortable |         20       17.86       17.86
+Somewhat comfortable |         38       33.93       51.79
+         Comfortable |         30       26.79       78.57
+    Very Comfortable |         17       15.18       93.75
+      Not Applicable |          7        6.25      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m17_2_4
 
 pre-test, module 17, |
   Likert question #4 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         23       11.17       11.17
-Somewhat comfortable |         57       27.67       38.83
-         Comfortable |         61       29.61       68.45
-    Very Comfortable |         48       23.30       91.75
-      Not Applicable |         17        8.25      100.00
+       Uncomfortable |         11        9.82        9.82
+Somewhat comfortable |         25       22.32       32.14
+         Comfortable |         38       33.93       66.07
+    Very Comfortable |         29       25.89       91.96
+      Not Applicable |          9        8.04      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . tab m17_2_5
 
 pre-test, module 17, |
   Likert question #5 |      Freq.     Percent        Cum.
 ---------------------+-----------------------------------
-       Uncomfortable |         15        7.28        7.28
-Somewhat comfortable |         44       21.36       28.64
-         Comfortable |         75       36.41       65.05
-    Very Comfortable |         60       29.13       94.17
-      Not Applicable |         12        5.83      100.00
+       Uncomfortable |          8        7.14        7.14
+Somewhat comfortable |         24       21.43       28.57
+         Comfortable |         43       38.39       66.96
+    Very Comfortable |         31       27.68       94.64
+      Not Applicable |          6        5.36      100.00
 ---------------------+-----------------------------------
-               Total |        206      100.00
+               Total |        112      100.00
 
 . 
 . * Module 1 posttest Learner self conceived competency
@@ -3047,5 +3045,5 @@ Pm17_2_5 |     112    3.660714    .0615564    .6514512    3.538736    3.782692
       name:  <unnamed>
        log:  C:\Users\ronald\Documents\GitHub\chips-analysis\data\chips_analysis.log
   log type:  text
- closed on:   1 Mar 2021, 22:59:13
+ closed on:   1 Mar 2021, 22:16:39
 ---------------------------------------------------------------------------------------------------------------------------------------------------
